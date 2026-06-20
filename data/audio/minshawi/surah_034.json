@@ -1,0 +1,389 @@
+{
+  "number": 34,
+  "name": "Saba",
+  "arabicName": "سُورَةُ سَبَإٍ",
+  "revelationType": "Meccan",
+  "totalAyahs": 54,
+  "reciter": "Muhammad Siddiq Al-Minshawi",
+  "edition": "ar.minshawi",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 3607,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3607.mp3",
+      "ayah_number": 1,
+      "verse_key": "34:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 3608,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3608.mp3",
+      "ayah_number": 2,
+      "verse_key": "34:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 3609,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3609.mp3",
+      "ayah_number": 3,
+      "verse_key": "34:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 3610,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3610.mp3",
+      "ayah_number": 4,
+      "verse_key": "34:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 3611,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3611.mp3",
+      "ayah_number": 5,
+      "verse_key": "34:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 3612,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3612.mp3",
+      "ayah_number": 6,
+      "verse_key": "34:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 3613,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3613.mp3",
+      "ayah_number": 7,
+      "verse_key": "34:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 3614,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3614.mp3",
+      "ayah_number": 8,
+      "verse_key": "34:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 3615,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3615.mp3",
+      "ayah_number": 9,
+      "verse_key": "34:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 3616,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3616.mp3",
+      "ayah_number": 10,
+      "verse_key": "34:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 3617,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3617.mp3",
+      "ayah_number": 11,
+      "verse_key": "34:11"
+    },
+    {
+      "number": 12,
+      "globalNumber": 3618,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3618.mp3",
+      "ayah_number": 12,
+      "verse_key": "34:12"
+    },
+    {
+      "number": 13,
+      "globalNumber": 3619,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3619.mp3",
+      "ayah_number": 13,
+      "verse_key": "34:13"
+    },
+    {
+      "number": 14,
+      "globalNumber": 3620,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3620.mp3",
+      "ayah_number": 14,
+      "verse_key": "34:14"
+    },
+    {
+      "number": 15,
+      "globalNumber": 3621,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3621.mp3",
+      "ayah_number": 15,
+      "verse_key": "34:15"
+    },
+    {
+      "number": 16,
+      "globalNumber": 3622,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3622.mp3",
+      "ayah_number": 16,
+      "verse_key": "34:16"
+    },
+    {
+      "number": 17,
+      "globalNumber": 3623,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3623.mp3",
+      "ayah_number": 17,
+      "verse_key": "34:17"
+    },
+    {
+      "number": 18,
+      "globalNumber": 3624,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3624.mp3",
+      "ayah_number": 18,
+      "verse_key": "34:18"
+    },
+    {
+      "number": 19,
+      "globalNumber": 3625,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3625.mp3",
+      "ayah_number": 19,
+      "verse_key": "34:19"
+    },
+    {
+      "number": 20,
+      "globalNumber": 3626,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3626.mp3",
+      "ayah_number": 20,
+      "verse_key": "34:20"
+    },
+    {
+      "number": 21,
+      "globalNumber": 3627,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3627.mp3",
+      "ayah_number": 21,
+      "verse_key": "34:21"
+    },
+    {
+      "number": 22,
+      "globalNumber": 3628,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3628.mp3",
+      "ayah_number": 22,
+      "verse_key": "34:22"
+    },
+    {
+      "number": 23,
+      "globalNumber": 3629,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3629.mp3",
+      "ayah_number": 23,
+      "verse_key": "34:23"
+    },
+    {
+      "number": 24,
+      "globalNumber": 3630,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3630.mp3",
+      "ayah_number": 24,
+      "verse_key": "34:24"
+    },
+    {
+      "number": 25,
+      "globalNumber": 3631,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3631.mp3",
+      "ayah_number": 25,
+      "verse_key": "34:25"
+    },
+    {
+      "number": 26,
+      "globalNumber": 3632,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3632.mp3",
+      "ayah_number": 26,
+      "verse_key": "34:26"
+    },
+    {
+      "number": 27,
+      "globalNumber": 3633,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3633.mp3",
+      "ayah_number": 27,
+      "verse_key": "34:27"
+    },
+    {
+      "number": 28,
+      "globalNumber": 3634,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3634.mp3",
+      "ayah_number": 28,
+      "verse_key": "34:28"
+    },
+    {
+      "number": 29,
+      "globalNumber": 3635,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3635.mp3",
+      "ayah_number": 29,
+      "verse_key": "34:29"
+    },
+    {
+      "number": 30,
+      "globalNumber": 3636,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3636.mp3",
+      "ayah_number": 30,
+      "verse_key": "34:30"
+    },
+    {
+      "number": 31,
+      "globalNumber": 3637,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3637.mp3",
+      "ayah_number": 31,
+      "verse_key": "34:31"
+    },
+    {
+      "number": 32,
+      "globalNumber": 3638,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3638.mp3",
+      "ayah_number": 32,
+      "verse_key": "34:32"
+    },
+    {
+      "number": 33,
+      "globalNumber": 3639,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3639.mp3",
+      "ayah_number": 33,
+      "verse_key": "34:33"
+    },
+    {
+      "number": 34,
+      "globalNumber": 3640,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3640.mp3",
+      "ayah_number": 34,
+      "verse_key": "34:34"
+    },
+    {
+      "number": 35,
+      "globalNumber": 3641,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3641.mp3",
+      "ayah_number": 35,
+      "verse_key": "34:35"
+    },
+    {
+      "number": 36,
+      "globalNumber": 3642,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3642.mp3",
+      "ayah_number": 36,
+      "verse_key": "34:36"
+    },
+    {
+      "number": 37,
+      "globalNumber": 3643,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3643.mp3",
+      "ayah_number": 37,
+      "verse_key": "34:37"
+    },
+    {
+      "number": 38,
+      "globalNumber": 3644,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3644.mp3",
+      "ayah_number": 38,
+      "verse_key": "34:38"
+    },
+    {
+      "number": 39,
+      "globalNumber": 3645,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3645.mp3",
+      "ayah_number": 39,
+      "verse_key": "34:39"
+    },
+    {
+      "number": 40,
+      "globalNumber": 3646,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3646.mp3",
+      "ayah_number": 40,
+      "verse_key": "34:40"
+    },
+    {
+      "number": 41,
+      "globalNumber": 3647,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3647.mp3",
+      "ayah_number": 41,
+      "verse_key": "34:41"
+    },
+    {
+      "number": 42,
+      "globalNumber": 3648,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3648.mp3",
+      "ayah_number": 42,
+      "verse_key": "34:42"
+    },
+    {
+      "number": 43,
+      "globalNumber": 3649,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3649.mp3",
+      "ayah_number": 43,
+      "verse_key": "34:43"
+    },
+    {
+      "number": 44,
+      "globalNumber": 3650,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3650.mp3",
+      "ayah_number": 44,
+      "verse_key": "34:44"
+    },
+    {
+      "number": 45,
+      "globalNumber": 3651,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3651.mp3",
+      "ayah_number": 45,
+      "verse_key": "34:45"
+    },
+    {
+      "number": 46,
+      "globalNumber": 3652,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3652.mp3",
+      "ayah_number": 46,
+      "verse_key": "34:46"
+    },
+    {
+      "number": 47,
+      "globalNumber": 3653,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3653.mp3",
+      "ayah_number": 47,
+      "verse_key": "34:47"
+    },
+    {
+      "number": 48,
+      "globalNumber": 3654,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3654.mp3",
+      "ayah_number": 48,
+      "verse_key": "34:48"
+    },
+    {
+      "number": 49,
+      "globalNumber": 3655,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3655.mp3",
+      "ayah_number": 49,
+      "verse_key": "34:49"
+    },
+    {
+      "number": 50,
+      "globalNumber": 3656,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3656.mp3",
+      "ayah_number": 50,
+      "verse_key": "34:50"
+    },
+    {
+      "number": 51,
+      "globalNumber": 3657,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3657.mp3",
+      "ayah_number": 51,
+      "verse_key": "34:51"
+    },
+    {
+      "number": 52,
+      "globalNumber": 3658,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3658.mp3",
+      "ayah_number": 52,
+      "verse_key": "34:52"
+    },
+    {
+      "number": 53,
+      "globalNumber": 3659,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3659.mp3",
+      "ayah_number": 53,
+      "verse_key": "34:53"
+    },
+    {
+      "number": 54,
+      "globalNumber": 3660,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3660.mp3",
+      "ayah_number": 54,
+      "verse_key": "34:54"
+    }
+  ]
+}

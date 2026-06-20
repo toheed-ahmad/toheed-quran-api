@@ -1,0 +1,64 @@
+{
+  "number": 102,
+  "name": "At-Takaathur",
+  "arabicName": "سُورَةُ التَّكَاثُرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 8,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "102:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "زیادتی کی چاہت نے تمہیں غافل کردیا",
+      "ayah_number": 1,
+      "verse_key": "102:1"
+    },
+    {
+      "number": 2,
+      "text": "یہاں تک کہ تم قبرستان جا پہنچے",
+      "ayah_number": 2,
+      "verse_key": "102:2"
+    },
+    {
+      "number": 3,
+      "text": "ہرگز نہیں تم عنقریب معلوم کر لو گے",
+      "ayah_number": 3,
+      "verse_key": "102:3"
+    },
+    {
+      "number": 4,
+      "text": "ہرگز نہیں پھر تمہیں جلد علم ہو جائے گا",
+      "ayah_number": 4,
+      "verse_key": "102:4"
+    },
+    {
+      "number": 5,
+      "text": "ہرگز نہیں اگر تم یقینی طور پر جان لو",
+      "ayah_number": 5,
+      "verse_key": "102:5"
+    },
+    {
+      "number": 6,
+      "text": "تو بیشک تم جہنم دیکھ لو گے",
+      "ayah_number": 6,
+      "verse_key": "102:6"
+    },
+    {
+      "number": 7,
+      "text": "اور تم اسے یقین کی آنکھ سے دیکھ لو گے",
+      "ayah_number": 7,
+      "verse_key": "102:7"
+    },
+    {
+      "number": 8,
+      "text": "پھر اس دن تم سے ضرور بالضرور نعمتوں کا سوال ہوگا",
+      "ayah_number": 8,
+      "verse_key": "102:8"
+    }
+  ]
+}

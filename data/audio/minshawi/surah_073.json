@@ -1,0 +1,151 @@
+{
+  "number": 73,
+  "name": "Al-Muzzammil",
+  "arabicName": "سُورَةُ المُزَّمِّلِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 20,
+  "reciter": "Muhammad Siddiq Al-Minshawi",
+  "edition": "ar.minshawi",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 5476,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5476.mp3",
+      "ayah_number": 1,
+      "verse_key": "73:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 5477,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5477.mp3",
+      "ayah_number": 2,
+      "verse_key": "73:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 5478,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5478.mp3",
+      "ayah_number": 3,
+      "verse_key": "73:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 5479,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5479.mp3",
+      "ayah_number": 4,
+      "verse_key": "73:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 5480,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5480.mp3",
+      "ayah_number": 5,
+      "verse_key": "73:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 5481,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5481.mp3",
+      "ayah_number": 6,
+      "verse_key": "73:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 5482,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5482.mp3",
+      "ayah_number": 7,
+      "verse_key": "73:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 5483,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5483.mp3",
+      "ayah_number": 8,
+      "verse_key": "73:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 5484,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5484.mp3",
+      "ayah_number": 9,
+      "verse_key": "73:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 5485,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5485.mp3",
+      "ayah_number": 10,
+      "verse_key": "73:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 5486,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5486.mp3",
+      "ayah_number": 11,
+      "verse_key": "73:11"
+    },
+    {
+      "number": 12,
+      "globalNumber": 5487,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5487.mp3",
+      "ayah_number": 12,
+      "verse_key": "73:12"
+    },
+    {
+      "number": 13,
+      "globalNumber": 5488,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5488.mp3",
+      "ayah_number": 13,
+      "verse_key": "73:13"
+    },
+    {
+      "number": 14,
+      "globalNumber": 5489,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5489.mp3",
+      "ayah_number": 14,
+      "verse_key": "73:14"
+    },
+    {
+      "number": 15,
+      "globalNumber": 5490,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5490.mp3",
+      "ayah_number": 15,
+      "verse_key": "73:15"
+    },
+    {
+      "number": 16,
+      "globalNumber": 5491,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5491.mp3",
+      "ayah_number": 16,
+      "verse_key": "73:16"
+    },
+    {
+      "number": 17,
+      "globalNumber": 5492,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5492.mp3",
+      "ayah_number": 17,
+      "verse_key": "73:17"
+    },
+    {
+      "number": 18,
+      "globalNumber": 5493,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5493.mp3",
+      "ayah_number": 18,
+      "verse_key": "73:18"
+    },
+    {
+      "number": 19,
+      "globalNumber": 5494,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5494.mp3",
+      "ayah_number": 19,
+      "verse_key": "73:19"
+    },
+    {
+      "number": 20,
+      "globalNumber": 5495,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5495.mp3",
+      "ayah_number": 20,
+      "verse_key": "73:20"
+    }
+  ]
+}

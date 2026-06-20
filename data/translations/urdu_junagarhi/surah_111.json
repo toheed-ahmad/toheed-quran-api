@@ -1,0 +1,46 @@
+{
+  "number": 111,
+  "name": "Al-Masad",
+  "arabicName": "سُورَةُ المَسَدِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 5,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "111:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "ابولہب کے دونوں ہاتھ ٹوٹ گئے اور وه (خود) ہلاک ہو گیا",
+      "ayah_number": 1,
+      "verse_key": "111:1"
+    },
+    {
+      "number": 2,
+      "text": "نہ تو اس کا مال اس کے کام آیا اور نہ اس کی کمائی",
+      "ayah_number": 2,
+      "verse_key": "111:2"
+    },
+    {
+      "number": 3,
+      "text": "وه عنقریب بھڑکنے والی آگ میں جائے گا",
+      "ayah_number": 3,
+      "verse_key": "111:3"
+    },
+    {
+      "number": 4,
+      "text": "اور اس کی بیوی بھی (جائے گی،) جو لکڑیاں ڈھونے والی ہے",
+      "ayah_number": 4,
+      "verse_key": "111:4"
+    },
+    {
+      "number": 5,
+      "text": "اس کی گردن میں پوست کھجور کی بٹی ہوئی رسی ہوگی",
+      "ayah_number": 5,
+      "verse_key": "111:5"
+    }
+  ]
+}

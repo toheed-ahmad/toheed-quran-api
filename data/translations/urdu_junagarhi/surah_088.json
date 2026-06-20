@@ -1,0 +1,172 @@
+{
+  "number": 88,
+  "name": "Al-Ghaashiya",
+  "arabicName": "سُورَةُ الغَاشِيَةِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 26,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "88:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "کیا تجھے بھی چھپا لینے والی (قیامت) کی خبر پہنچی ہے",
+      "ayah_number": 1,
+      "verse_key": "88:1"
+    },
+    {
+      "number": 2,
+      "text": "اس دن بہت سے چہرے ذلیل ہوں گے",
+      "ayah_number": 2,
+      "verse_key": "88:2"
+    },
+    {
+      "number": 3,
+      "text": "(اور) محنت کرنے والے تھکے ہوئے ہوں گے",
+      "ayah_number": 3,
+      "verse_key": "88:3"
+    },
+    {
+      "number": 4,
+      "text": "وه دہکتی ہوئی آگ میں جائیں گے",
+      "ayah_number": 4,
+      "verse_key": "88:4"
+    },
+    {
+      "number": 5,
+      "text": "اور نہایت گرم چشمے کا پانی ان کو پلایا جائے گا",
+      "ayah_number": 5,
+      "verse_key": "88:5"
+    },
+    {
+      "number": 6,
+      "text": "ان کے لئے سوائے کانٹے دار درختوں کے اور کچھ کھانے کو نہ ہوگا",
+      "ayah_number": 6,
+      "verse_key": "88:6"
+    },
+    {
+      "number": 7,
+      "text": "جو نہ موٹا کرے گا نہ بھوک مٹائے گا",
+      "ayah_number": 7,
+      "verse_key": "88:7"
+    },
+    {
+      "number": 8,
+      "text": "بہت سے چہرے اس دن تروتازه اور (آسوده حال) ہوں گے",
+      "ayah_number": 8,
+      "verse_key": "88:8"
+    },
+    {
+      "number": 9,
+      "text": "اپنی کوشش پر خوش ہوں گے",
+      "ayah_number": 9,
+      "verse_key": "88:9"
+    },
+    {
+      "number": 10,
+      "text": "بلند وباﻻ جنتوں میں ہوں گے",
+      "ayah_number": 10,
+      "verse_key": "88:10"
+    },
+    {
+      "number": 11,
+      "text": "جہاں کوئی بیہوده بات نہیں سنیں گے",
+      "ayah_number": 11,
+      "verse_key": "88:11"
+    },
+    {
+      "number": 12,
+      "text": "جہاں بہتا ہوا چشمہ ہوگا",
+      "ayah_number": 12,
+      "verse_key": "88:12"
+    },
+    {
+      "number": 13,
+      "text": "(اور) اس میں اونچے اونچے تخت ہوں گے",
+      "ayah_number": 13,
+      "verse_key": "88:13"
+    },
+    {
+      "number": 14,
+      "text": "اور آبخورے رکھے ہوئے (ہوں گے)",
+      "ayah_number": 14,
+      "verse_key": "88:14"
+    },
+    {
+      "number": 15,
+      "text": "اور ایک قطار میں لگے ہوئے تکیے ہوں گے",
+      "ayah_number": 15,
+      "verse_key": "88:15"
+    },
+    {
+      "number": 16,
+      "text": "اور مخملی مسندیں پھیلی پڑی ہوں گی",
+      "ayah_number": 16,
+      "verse_key": "88:16"
+    },
+    {
+      "number": 17,
+      "text": "کیا یہ اونٹوں کو نہیں دیکھتے کہ وه کس طرح پیدا کیے گئے ہیں",
+      "ayah_number": 17,
+      "verse_key": "88:17"
+    },
+    {
+      "number": 18,
+      "text": "اور آسمان کو کہ کس طرح اونچا کیا گیا ہے",
+      "ayah_number": 18,
+      "verse_key": "88:18"
+    },
+    {
+      "number": 19,
+      "text": "اور پہاڑوں کی طرف کہ کس طرح گاڑ دیئے گئے ہیں",
+      "ayah_number": 19,
+      "verse_key": "88:19"
+    },
+    {
+      "number": 20,
+      "text": "اور زمین کی طرف کہ کس طرح بچھائی گئی ہے",
+      "ayah_number": 20,
+      "verse_key": "88:20"
+    },
+    {
+      "number": 21,
+      "text": "پس آپ نصیحت کر دیا کریں (کیونکہ) آپ صرف نصیحت کرنے والے ہیں",
+      "ayah_number": 21,
+      "verse_key": "88:21"
+    },
+    {
+      "number": 22,
+      "text": "آپ کچھ ان پر داروغہ نہیں ہیں",
+      "ayah_number": 22,
+      "verse_key": "88:22"
+    },
+    {
+      "number": 23,
+      "text": "ہاں! جو شخص روگردانی کرے اور کفر کرے",
+      "ayah_number": 23,
+      "verse_key": "88:23"
+    },
+    {
+      "number": 24,
+      "text": "اسے اللہ تعالیٰ بہت بڑا عذاب دے گا",
+      "ayah_number": 24,
+      "verse_key": "88:24"
+    },
+    {
+      "number": 25,
+      "text": "بیشک ہماری طرف ان کا لوٹنا ہے",
+      "ayah_number": 25,
+      "verse_key": "88:25"
+    },
+    {
+      "number": 26,
+      "text": "پھر بیشک ہمارے ذمہ ہے ان سے حساب لینا",
+      "ayah_number": 26,
+      "verse_key": "88:26"
+    }
+  ]
+}

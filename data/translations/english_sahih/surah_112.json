@@ -1,0 +1,36 @@
+{
+  "number": 112,
+  "name": "Al-Ikhlaas",
+  "arabicName": "سُورَةُ الإِخۡلَاصِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 4,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "Say, \"He is Allah, [who is] One,",
+      "ayah_number": 1,
+      "verse_key": "112:1"
+    },
+    {
+      "number": 2,
+      "text": "Allah, the Eternal Refuge.",
+      "ayah_number": 2,
+      "verse_key": "112:2"
+    },
+    {
+      "number": 3,
+      "text": "He neither begets nor is born,",
+      "ayah_number": 3,
+      "verse_key": "112:3"
+    },
+    {
+      "number": 4,
+      "text": "Nor is there to Him any equivalent.\"",
+      "ayah_number": 4,
+      "verse_key": "112:4"
+    }
+  ]
+}

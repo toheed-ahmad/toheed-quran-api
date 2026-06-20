@@ -1,0 +1,65 @@
+{
+  "number": 104,
+  "name": "Al-Humaza",
+  "arabicName": "سُورَةُ الهُمَزَةِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 9,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "हर ताना देने वाले चुग़लख़ोर की ख़राबी है",
+      "ayah_number": 1,
+      "verse_key": "104:1"
+    },
+    {
+      "number": 2,
+      "text": "जो माल को जमा करता है और गिन गिन कर रखता है",
+      "ayah_number": 2,
+      "verse_key": "104:2"
+    },
+    {
+      "number": 3,
+      "text": "वह समझता है कि उसका माल उसे हमेशा ज़िन्दा बाक़ी रखेगा",
+      "ayah_number": 3,
+      "verse_key": "104:3"
+    },
+    {
+      "number": 4,
+      "text": "हरगिज़ नहीं वह तो ज़रूर हुतमा में डाला जाएगा",
+      "ayah_number": 4,
+      "verse_key": "104:4"
+    },
+    {
+      "number": 5,
+      "text": "और तुमको क्या मालूम हतमा क्या है",
+      "ayah_number": 5,
+      "verse_key": "104:5"
+    },
+    {
+      "number": 6,
+      "text": "वह ख़ुदा की भड़काई हुई आग है जो (तलवे से लगी तो) दिलों तक चढ़ जाएगी",
+      "ayah_number": 6,
+      "verse_key": "104:6"
+    },
+    {
+      "number": 7,
+      "text": "ये लोग आग के लम्बे सुतूनो",
+      "ayah_number": 7,
+      "verse_key": "104:7"
+    },
+    {
+      "number": 8,
+      "text": "में डाल कर बन्द कर दिए",
+      "ayah_number": 8,
+      "verse_key": "104:8"
+    },
+    {
+      "number": 9,
+      "text": "जाएँगे",
+      "ayah_number": 9,
+      "verse_key": "104:9"
+    }
+  ]
+}

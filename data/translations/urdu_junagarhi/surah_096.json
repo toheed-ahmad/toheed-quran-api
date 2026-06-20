@@ -1,0 +1,130 @@
+{
+  "number": 96,
+  "name": "Al-Alaq",
+  "arabicName": "سُورَةُ العَلَقِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 19,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "96:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "پڑھ اپنے رب کے نام سے جس نے پیدا کیا",
+      "ayah_number": 1,
+      "verse_key": "96:1"
+    },
+    {
+      "number": 2,
+      "text": "جس نے انسان کو خون کے لوتھڑے سے پیدا کیا",
+      "ayah_number": 2,
+      "verse_key": "96:2"
+    },
+    {
+      "number": 3,
+      "text": "تو پڑھتا ره تیرا رب بڑے کرم واﻻ ہے",
+      "ayah_number": 3,
+      "verse_key": "96:3"
+    },
+    {
+      "number": 4,
+      "text": "جس نے قلم کے ذریعے (علم) سکھایا",
+      "ayah_number": 4,
+      "verse_key": "96:4"
+    },
+    {
+      "number": 5,
+      "text": "جس نے انسان کو وه سکھایا جسے وه نہیں جانتا تھا",
+      "ayah_number": 5,
+      "verse_key": "96:5"
+    },
+    {
+      "number": 6,
+      "text": "سچ مچ انسان تو آپے سے باہر ہو جاتا ہے",
+      "ayah_number": 6,
+      "verse_key": "96:6"
+    },
+    {
+      "number": 7,
+      "text": "اس لئے کہ وه اپنے آپ کو بے پروا (یا تونگر) سمجھتا ہے",
+      "ayah_number": 7,
+      "verse_key": "96:7"
+    },
+    {
+      "number": 8,
+      "text": "یقیناً لوٹنا تیرے رب کی طرف ہے",
+      "ayah_number": 8,
+      "verse_key": "96:8"
+    },
+    {
+      "number": 9,
+      "text": "(بھلا) اسے بھی تو نے دیکھا جو بندے کو روکتا ہے",
+      "ayah_number": 9,
+      "verse_key": "96:9"
+    },
+    {
+      "number": 10,
+      "text": "جبکہ وه بنده نماز ادا کرتا ہے",
+      "ayah_number": 10,
+      "verse_key": "96:10"
+    },
+    {
+      "number": 11,
+      "text": "بھلا بتلا تو اگر وه ہدایت پر ہو",
+      "ayah_number": 11,
+      "verse_key": "96:11"
+    },
+    {
+      "number": 12,
+      "text": "یا پرہیز گاری کا حکم دیتا ہو",
+      "ayah_number": 12,
+      "verse_key": "96:12"
+    },
+    {
+      "number": 13,
+      "text": "بھلا دیکھو تو اگر یہ جھٹلاتا ہو اور منھ پھیرتا ہو تو",
+      "ayah_number": 13,
+      "verse_key": "96:13"
+    },
+    {
+      "number": 14,
+      "text": "کیا اس نے نہیں جانا کہ اللہ تعالیٰ اسے خوب دیکھ رہا ہے",
+      "ayah_number": 14,
+      "verse_key": "96:14"
+    },
+    {
+      "number": 15,
+      "text": "یقیناً اگر یہ باز نہ رہا تو ہم اس کی پیشانی کے بال پکڑ کر گھسیٹیں گے",
+      "ayah_number": 15,
+      "verse_key": "96:15"
+    },
+    {
+      "number": 16,
+      "text": "ایسی پیشانی جو جھوٹی خطا کار ہے",
+      "ayah_number": 16,
+      "verse_key": "96:16"
+    },
+    {
+      "number": 17,
+      "text": "یہ اپنی مجلس والوں کو بلالے",
+      "ayah_number": 17,
+      "verse_key": "96:17"
+    },
+    {
+      "number": 18,
+      "text": "ہم بھی (دوزخ کے) پیادوں کو بلالیں گے",
+      "ayah_number": 18,
+      "verse_key": "96:18"
+    },
+    {
+      "number": 19,
+      "text": "خبردار! اس کا کہنا ہرگز نہ ماننا اور سجده کر اور قریب ہو جا",
+      "ayah_number": 19,
+      "verse_key": "96:19"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "number": 93,
+  "name": "Ad-Dhuhaa",
+  "arabicName": "سُورَةُ الضُّحَىٰ",
+  "revelationType": "Meccan",
+  "totalAyahs": 11,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "93:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "دن کی روشنی کی قسم ہے",
+      "ayah_number": 1,
+      "verse_key": "93:1"
+    },
+    {
+      "number": 2,
+      "text": "اور رات کی جب وہ چھا جائے",
+      "ayah_number": 2,
+      "verse_key": "93:2"
+    },
+    {
+      "number": 3,
+      "text": "آپ کے رب نے نہ آپ کو چھوڑا ہے اور نہ بیزار ہوا ہے",
+      "ayah_number": 3,
+      "verse_key": "93:3"
+    },
+    {
+      "number": 4,
+      "text": "اور البتہ آخرت آپ کے لیے دنیا سے بہتر ہے",
+      "ayah_number": 4,
+      "verse_key": "93:4"
+    },
+    {
+      "number": 5,
+      "text": "اور آپ کا رب آپ کو (اتنا) دے گا کہ آپ خوش ہو جائیں گے",
+      "ayah_number": 5,
+      "verse_key": "93:5"
+    },
+    {
+      "number": 6,
+      "text": "کیا اس نے آپ کو یتیم نہیں پایا تھا پھر جگہ دی",
+      "ayah_number": 6,
+      "verse_key": "93:6"
+    },
+    {
+      "number": 7,
+      "text": "اور آپ کو (شریعت سے) بے خبر پایا پھر (شریعت کا) راستہ بتایا",
+      "ayah_number": 7,
+      "verse_key": "93:7"
+    },
+    {
+      "number": 8,
+      "text": "اوراس نے آپ کو تنگدست پایا پھر غنی کر دیا",
+      "ayah_number": 8,
+      "verse_key": "93:8"
+    },
+    {
+      "number": 9,
+      "text": "پھر یتیم کو دبایا نہ کرو",
+      "ayah_number": 9,
+      "verse_key": "93:9"
+    },
+    {
+      "number": 10,
+      "text": "اورسائل کو جھڑکا نہ کرو",
+      "ayah_number": 10,
+      "verse_key": "93:10"
+    },
+    {
+      "number": 11,
+      "text": "اورہر حال میں اپنے رب کے احسان کا ذکر کیا کرو",
+      "ayah_number": 11,
+      "verse_key": "93:11"
+    }
+  ]
+}

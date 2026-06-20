@@ -1,0 +1,60 @@
+{
+  "number": 94,
+  "name": "Ash-Sharh",
+  "arabicName": "سُورَةُ الشَّرۡحِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 8,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "Did We not expand for you, [O Muhammad], your breast?",
+      "ayah_number": 1,
+      "verse_key": "94:1"
+    },
+    {
+      "number": 2,
+      "text": "And We removed from you your burden",
+      "ayah_number": 2,
+      "verse_key": "94:2"
+    },
+    {
+      "number": 3,
+      "text": "Which had weighed upon your back",
+      "ayah_number": 3,
+      "verse_key": "94:3"
+    },
+    {
+      "number": 4,
+      "text": "And raised high for you your repute.",
+      "ayah_number": 4,
+      "verse_key": "94:4"
+    },
+    {
+      "number": 5,
+      "text": "For indeed, with hardship [will be] ease.",
+      "ayah_number": 5,
+      "verse_key": "94:5"
+    },
+    {
+      "number": 6,
+      "text": "Indeed, with hardship [will be] ease.",
+      "ayah_number": 6,
+      "verse_key": "94:6"
+    },
+    {
+      "number": 7,
+      "text": "So when you have finished [your duties], then stand up [for worship].",
+      "ayah_number": 7,
+      "verse_key": "94:7"
+    },
+    {
+      "number": 8,
+      "text": "And to your Lord direct [your] longing.",
+      "ayah_number": 8,
+      "verse_key": "94:8"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "number": 87,
+  "name": "Al-A'laa",
+  "arabicName": "سُورَةُ الأَعۡلَىٰ",
+  "revelationType": "Meccan",
+  "totalAyahs": 19,
+  "reciter": "Maher Al Muaiqly",
+  "edition": "ar.mahermuaiqly",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 5949,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5949.mp3",
+      "ayah_number": 1,
+      "verse_key": "87:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 5950,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5950.mp3",
+      "ayah_number": 2,
+      "verse_key": "87:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 5951,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5951.mp3",
+      "ayah_number": 3,
+      "verse_key": "87:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 5952,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5952.mp3",
+      "ayah_number": 4,
+      "verse_key": "87:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 5953,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5953.mp3",
+      "ayah_number": 5,
+      "verse_key": "87:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 5954,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5954.mp3",
+      "ayah_number": 6,
+      "verse_key": "87:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 5955,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5955.mp3",
+      "ayah_number": 7,
+      "verse_key": "87:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 5956,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5956.mp3",
+      "ayah_number": 8,
+      "verse_key": "87:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 5957,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5957.mp3",
+      "ayah_number": 9,
+      "verse_key": "87:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 5958,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5958.mp3",
+      "ayah_number": 10,
+      "verse_key": "87:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 5959,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5959.mp3",
+      "ayah_number": 11,
+      "verse_key": "87:11"
+    },
+    {
+      "number": 12,
+      "globalNumber": 5960,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5960.mp3",
+      "ayah_number": 12,
+      "verse_key": "87:12"
+    },
+    {
+      "number": 13,
+      "globalNumber": 5961,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5961.mp3",
+      "ayah_number": 13,
+      "verse_key": "87:13"
+    },
+    {
+      "number": 14,
+      "globalNumber": 5962,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5962.mp3",
+      "ayah_number": 14,
+      "verse_key": "87:14"
+    },
+    {
+      "number": 15,
+      "globalNumber": 5963,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5963.mp3",
+      "ayah_number": 15,
+      "verse_key": "87:15"
+    },
+    {
+      "number": 16,
+      "globalNumber": 5964,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5964.mp3",
+      "ayah_number": 16,
+      "verse_key": "87:16"
+    },
+    {
+      "number": 17,
+      "globalNumber": 5965,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5965.mp3",
+      "ayah_number": 17,
+      "verse_key": "87:17"
+    },
+    {
+      "number": 18,
+      "globalNumber": 5966,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5966.mp3",
+      "ayah_number": 18,
+      "verse_key": "87:18"
+    },
+    {
+      "number": 19,
+      "globalNumber": 5967,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5967.mp3",
+      "ayah_number": 19,
+      "verse_key": "87:19"
+    }
+  ]
+}

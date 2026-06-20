@@ -1,0 +1,34 @@
+{
+  "number": 103,
+  "name": "Al-Asr",
+  "arabicName": "سُورَةُ العَصۡرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 3,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "103:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "زمانے کی قسم",
+      "ayah_number": 1,
+      "verse_key": "103:1"
+    },
+    {
+      "number": 2,
+      "text": "بیشک (بالیقین) انسان سرتا سر نقصان میں ہے",
+      "ayah_number": 2,
+      "verse_key": "103:2"
+    },
+    {
+      "number": 3,
+      "text": "سوائے ان لوگوں کے جو ایمان ﻻئے اور نیک عمل کیے اور (جنہوں نے) آپس میں حق کی وصیت کی اور ایک دوسرے کو صبر کی نصیحت کی",
+      "ayah_number": 3,
+      "verse_key": "103:3"
+    }
+  ]
+}

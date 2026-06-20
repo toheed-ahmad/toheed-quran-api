@@ -1,0 +1,77 @@
+{
+  "number": 100,
+  "name": "Al-Aadiyaat",
+  "arabicName": "سُورَةُ العَادِيَاتِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 11,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "(ग़ाज़ियों के) सरपट दौड़ने वाले घोड़ो की क़सम",
+      "ayah_number": 1,
+      "verse_key": "100:1"
+    },
+    {
+      "number": 2,
+      "text": "जो नथनों से फ़रराटे लेते हैं",
+      "ayah_number": 2,
+      "verse_key": "100:2"
+    },
+    {
+      "number": 3,
+      "text": "फिर पत्थर पर टाप मारकर चिंगारियाँ निकालते हैं फिर सुबह को छापा मारते हैं",
+      "ayah_number": 3,
+      "verse_key": "100:3"
+    },
+    {
+      "number": 4,
+      "text": "(तो दौड़ धूप से) बुलन्द कर देते हैं",
+      "ayah_number": 4,
+      "verse_key": "100:4"
+    },
+    {
+      "number": 5,
+      "text": "फिर उस वक्त (दुश्मन के) दिल में घुस जाते हैं",
+      "ayah_number": 5,
+      "verse_key": "100:5"
+    },
+    {
+      "number": 6,
+      "text": "(ग़रज़ क़सम है) कि बेशक इन्सान अपने परवरदिगार का नाशुक्रा है",
+      "ayah_number": 6,
+      "verse_key": "100:6"
+    },
+    {
+      "number": 7,
+      "text": "और यक़ीनी ख़ुदा भी उससे वाक़िफ़ है",
+      "ayah_number": 7,
+      "verse_key": "100:7"
+    },
+    {
+      "number": 8,
+      "text": "और बेशक वह माल का सख्त हरीस है",
+      "ayah_number": 8,
+      "verse_key": "100:8"
+    },
+    {
+      "number": 9,
+      "text": "तो क्या वह ये नहीं जानता कि जब मुर्दे क़ब्रों से निकाले जाएँगे",
+      "ayah_number": 9,
+      "verse_key": "100:9"
+    },
+    {
+      "number": 10,
+      "text": "और दिलों के भेद ज़ाहिर कर दिए जाएँगे",
+      "ayah_number": 10,
+      "verse_key": "100:10"
+    },
+    {
+      "number": 11,
+      "text": "बेशक उस दिन उनका परवरदिगार उनसे ख़ूब वाक़िफ़ होगा",
+      "ayah_number": 11,
+      "verse_key": "100:11"
+    }
+  ]
+}

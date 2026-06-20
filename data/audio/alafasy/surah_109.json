@@ -1,0 +1,53 @@
+{
+  "number": 109,
+  "name": "Al-Kaafiroon",
+  "arabicName": "سُورَةُ الكَافِرُونَ",
+  "revelationType": "Meccan",
+  "totalAyahs": 6,
+  "reciter": "Mishary Rashid Alafasy",
+  "edition": "ar.alafasy",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6208,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6208.mp3",
+      "ayah_number": 1,
+      "verse_key": "109:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6209,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6209.mp3",
+      "ayah_number": 2,
+      "verse_key": "109:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6210,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6210.mp3",
+      "ayah_number": 3,
+      "verse_key": "109:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 6211,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6211.mp3",
+      "ayah_number": 4,
+      "verse_key": "109:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 6212,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6212.mp3",
+      "ayah_number": 5,
+      "verse_key": "109:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 6213,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6213.mp3",
+      "ayah_number": 6,
+      "verse_key": "109:6"
+    }
+  ]
+}

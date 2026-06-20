@@ -1,0 +1,130 @@
+{
+  "number": 87,
+  "name": "Al-A'laa",
+  "arabicName": "سُورَةُ الأَعۡلَىٰ",
+  "revelationType": "Meccan",
+  "totalAyahs": 19,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "87:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "اپنے بہت ہی بلند اللہ کے نام کی پاکیزگی بیان کر",
+      "ayah_number": 1,
+      "verse_key": "87:1"
+    },
+    {
+      "number": 2,
+      "text": "جس نے پیدا کیا اور صحیح سالم بنایا",
+      "ayah_number": 2,
+      "verse_key": "87:2"
+    },
+    {
+      "number": 3,
+      "text": "اور جس نے (ٹھیک ٹھاک) اندازه کیا اور پھر راه دکھائی",
+      "ayah_number": 3,
+      "verse_key": "87:3"
+    },
+    {
+      "number": 4,
+      "text": "اور جس نے تازه گھاس پیدا کی",
+      "ayah_number": 4,
+      "verse_key": "87:4"
+    },
+    {
+      "number": 5,
+      "text": "پھر اس نے اس کو (سکھا کر) سیاه کوڑا کر دیا",
+      "ayah_number": 5,
+      "verse_key": "87:5"
+    },
+    {
+      "number": 6,
+      "text": "ہم تجھے پڑھائیں گے پھر تو نہ بھولے گا",
+      "ayah_number": 6,
+      "verse_key": "87:6"
+    },
+    {
+      "number": 7,
+      "text": "مگر جو کچھ اللہ چاہے۔ وه ﻇاہر اور پوشیده کو جانتا ہے",
+      "ayah_number": 7,
+      "verse_key": "87:7"
+    },
+    {
+      "number": 8,
+      "text": "ہم آپ کے لئے آسانی پیدا کر دیں گے",
+      "ayah_number": 8,
+      "verse_key": "87:8"
+    },
+    {
+      "number": 9,
+      "text": "تو آپ نصیحت کرتے رہیں اگر نصیحت کچھ فائده دے",
+      "ayah_number": 9,
+      "verse_key": "87:9"
+    },
+    {
+      "number": 10,
+      "text": "ڈرنے واﻻ تو نصیحت لے گا",
+      "ayah_number": 10,
+      "verse_key": "87:10"
+    },
+    {
+      "number": 11,
+      "text": "(ہاں) بد بخت اس سے گریز کرے گا",
+      "ayah_number": 11,
+      "verse_key": "87:11"
+    },
+    {
+      "number": 12,
+      "text": "جو بڑی آگ میں جائے گا",
+      "ayah_number": 12,
+      "verse_key": "87:12"
+    },
+    {
+      "number": 13,
+      "text": "جہاں پھر نہ وه مرے گا نہ جیے گا، (بلکہ حالت نزع میں پڑا رہے گا)",
+      "ayah_number": 13,
+      "verse_key": "87:13"
+    },
+    {
+      "number": 14,
+      "text": "بیشک اس نے فلاح پالی جو پاک ہوگیا",
+      "ayah_number": 14,
+      "verse_key": "87:14"
+    },
+    {
+      "number": 15,
+      "text": "اور جس نے اپنے رب کا نام یاد رکھا اور نماز پڑھتا رہا",
+      "ayah_number": 15,
+      "verse_key": "87:15"
+    },
+    {
+      "number": 16,
+      "text": "لیکن تم تو دنیا کی زندگی کو ترجیح دیتے ہو",
+      "ayah_number": 16,
+      "verse_key": "87:16"
+    },
+    {
+      "number": 17,
+      "text": "اور آخرت بہت بہتر اور بہت بقا والی ہے",
+      "ayah_number": 17,
+      "verse_key": "87:17"
+    },
+    {
+      "number": 18,
+      "text": "یہ باتیں پہلی کتابوں میں بھی ہیں",
+      "ayah_number": 18,
+      "verse_key": "87:18"
+    },
+    {
+      "number": 19,
+      "text": "(یعنی) ابراہیم اور موسیٰ کی کتابوں میں",
+      "ayah_number": 19,
+      "verse_key": "87:19"
+    }
+  ]
+}

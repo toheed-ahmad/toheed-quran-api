@@ -1,0 +1,53 @@
+{
+  "number": 107,
+  "name": "Al-Maa'un",
+  "arabicName": "سُورَةُ المَاعُونِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 7,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "क्या तुमने उस शख़्श को भी देखा है जो रोज़ जज़ा को झुठलाता है",
+      "ayah_number": 1,
+      "verse_key": "107:1"
+    },
+    {
+      "number": 2,
+      "text": "ये तो वही (कम्बख्त) है जो यतीम को धक्के देता है",
+      "ayah_number": 2,
+      "verse_key": "107:2"
+    },
+    {
+      "number": 3,
+      "text": "और मोहताजों को खिलाने के लिए (लोगों को) आमादा नहीं करता",
+      "ayah_number": 3,
+      "verse_key": "107:3"
+    },
+    {
+      "number": 4,
+      "text": "तो उन नमाज़ियों की तबाही है",
+      "ayah_number": 4,
+      "verse_key": "107:4"
+    },
+    {
+      "number": 5,
+      "text": "जो अपनी नमाज़ से ग़ाफिल रहते हैं",
+      "ayah_number": 5,
+      "verse_key": "107:5"
+    },
+    {
+      "number": 6,
+      "text": "जो दिखाने के वास्ते करते हैं",
+      "ayah_number": 6,
+      "verse_key": "107:6"
+    },
+    {
+      "number": 7,
+      "text": "और रोज़मर्रा की मालूली चीज़ें भी आरियत नहीं देते",
+      "ayah_number": 7,
+      "verse_key": "107:7"
+    }
+  ]
+}

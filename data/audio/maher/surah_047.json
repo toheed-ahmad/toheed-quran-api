@@ -1,0 +1,277 @@
+{
+  "number": 47,
+  "name": "Muhammad",
+  "arabicName": "سُورَةُ مُحَمَّدٍ",
+  "revelationType": "Medinan",
+  "totalAyahs": 38,
+  "reciter": "Maher Al Muaiqly",
+  "edition": "ar.mahermuaiqly",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 4546,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4546.mp3",
+      "ayah_number": 1,
+      "verse_key": "47:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 4547,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4547.mp3",
+      "ayah_number": 2,
+      "verse_key": "47:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 4548,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4548.mp3",
+      "ayah_number": 3,
+      "verse_key": "47:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 4549,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4549.mp3",
+      "ayah_number": 4,
+      "verse_key": "47:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 4550,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4550.mp3",
+      "ayah_number": 5,
+      "verse_key": "47:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 4551,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4551.mp3",
+      "ayah_number": 6,
+      "verse_key": "47:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 4552,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4552.mp3",
+      "ayah_number": 7,
+      "verse_key": "47:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 4553,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4553.mp3",
+      "ayah_number": 8,
+      "verse_key": "47:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 4554,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4554.mp3",
+      "ayah_number": 9,
+      "verse_key": "47:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 4555,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4555.mp3",
+      "ayah_number": 10,
+      "verse_key": "47:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 4556,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4556.mp3",
+      "ayah_number": 11,
+      "verse_key": "47:11"
+    },
+    {
+      "number": 12,
+      "globalNumber": 4557,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4557.mp3",
+      "ayah_number": 12,
+      "verse_key": "47:12"
+    },
+    {
+      "number": 13,
+      "globalNumber": 4558,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4558.mp3",
+      "ayah_number": 13,
+      "verse_key": "47:13"
+    },
+    {
+      "number": 14,
+      "globalNumber": 4559,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4559.mp3",
+      "ayah_number": 14,
+      "verse_key": "47:14"
+    },
+    {
+      "number": 15,
+      "globalNumber": 4560,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4560.mp3",
+      "ayah_number": 15,
+      "verse_key": "47:15"
+    },
+    {
+      "number": 16,
+      "globalNumber": 4561,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4561.mp3",
+      "ayah_number": 16,
+      "verse_key": "47:16"
+    },
+    {
+      "number": 17,
+      "globalNumber": 4562,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4562.mp3",
+      "ayah_number": 17,
+      "verse_key": "47:17"
+    },
+    {
+      "number": 18,
+      "globalNumber": 4563,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4563.mp3",
+      "ayah_number": 18,
+      "verse_key": "47:18"
+    },
+    {
+      "number": 19,
+      "globalNumber": 4564,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4564.mp3",
+      "ayah_number": 19,
+      "verse_key": "47:19"
+    },
+    {
+      "number": 20,
+      "globalNumber": 4565,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4565.mp3",
+      "ayah_number": 20,
+      "verse_key": "47:20"
+    },
+    {
+      "number": 21,
+      "globalNumber": 4566,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4566.mp3",
+      "ayah_number": 21,
+      "verse_key": "47:21"
+    },
+    {
+      "number": 22,
+      "globalNumber": 4567,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4567.mp3",
+      "ayah_number": 22,
+      "verse_key": "47:22"
+    },
+    {
+      "number": 23,
+      "globalNumber": 4568,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4568.mp3",
+      "ayah_number": 23,
+      "verse_key": "47:23"
+    },
+    {
+      "number": 24,
+      "globalNumber": 4569,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4569.mp3",
+      "ayah_number": 24,
+      "verse_key": "47:24"
+    },
+    {
+      "number": 25,
+      "globalNumber": 4570,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4570.mp3",
+      "ayah_number": 25,
+      "verse_key": "47:25"
+    },
+    {
+      "number": 26,
+      "globalNumber": 4571,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4571.mp3",
+      "ayah_number": 26,
+      "verse_key": "47:26"
+    },
+    {
+      "number": 27,
+      "globalNumber": 4572,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4572.mp3",
+      "ayah_number": 27,
+      "verse_key": "47:27"
+    },
+    {
+      "number": 28,
+      "globalNumber": 4573,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4573.mp3",
+      "ayah_number": 28,
+      "verse_key": "47:28"
+    },
+    {
+      "number": 29,
+      "globalNumber": 4574,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4574.mp3",
+      "ayah_number": 29,
+      "verse_key": "47:29"
+    },
+    {
+      "number": 30,
+      "globalNumber": 4575,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4575.mp3",
+      "ayah_number": 30,
+      "verse_key": "47:30"
+    },
+    {
+      "number": 31,
+      "globalNumber": 4576,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4576.mp3",
+      "ayah_number": 31,
+      "verse_key": "47:31"
+    },
+    {
+      "number": 32,
+      "globalNumber": 4577,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4577.mp3",
+      "ayah_number": 32,
+      "verse_key": "47:32"
+    },
+    {
+      "number": 33,
+      "globalNumber": 4578,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4578.mp3",
+      "ayah_number": 33,
+      "verse_key": "47:33"
+    },
+    {
+      "number": 34,
+      "globalNumber": 4579,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4579.mp3",
+      "ayah_number": 34,
+      "verse_key": "47:34"
+    },
+    {
+      "number": 35,
+      "globalNumber": 4580,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4580.mp3",
+      "ayah_number": 35,
+      "verse_key": "47:35"
+    },
+    {
+      "number": 36,
+      "globalNumber": 4581,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4581.mp3",
+      "ayah_number": 36,
+      "verse_key": "47:36"
+    },
+    {
+      "number": 37,
+      "globalNumber": 4582,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4582.mp3",
+      "ayah_number": 37,
+      "verse_key": "47:37"
+    },
+    {
+      "number": 38,
+      "globalNumber": 4583,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4583.mp3",
+      "ayah_number": 38,
+      "verse_key": "47:38"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 113,
+  "name": "Al-Falaq",
+  "arabicName": "سُورَةُ الفَلَقِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 5,
+  "reciter": "Muhammad Siddiq Al-Minshawi",
+  "edition": "ar.minshawi",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6226,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6226.mp3",
+      "ayah_number": 1,
+      "verse_key": "113:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6227,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6227.mp3",
+      "ayah_number": 2,
+      "verse_key": "113:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6228,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6228.mp3",
+      "ayah_number": 3,
+      "verse_key": "113:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 6229,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6229.mp3",
+      "ayah_number": 4,
+      "verse_key": "113:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 6230,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6230.mp3",
+      "ayah_number": 5,
+      "verse_key": "113:5"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "number": 97,
+  "name": "Al-Qadr",
+  "arabicName": "سُورَةُ القَدۡرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 5,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "हमने (इस कुरान) को शबे क़द्र में नाज़िल (करना शुरू) किया",
+      "ayah_number": 1,
+      "verse_key": "97:1"
+    },
+    {
+      "number": 2,
+      "text": "और तुमको क्या मालूम शबे क़द्र क्या है",
+      "ayah_number": 2,
+      "verse_key": "97:2"
+    },
+    {
+      "number": 3,
+      "text": "शबे क़द्र (मरतबा और अमल में) हज़ार महीनो से बेहतर है",
+      "ayah_number": 3,
+      "verse_key": "97:3"
+    },
+    {
+      "number": 4,
+      "text": "इस (रात) में फ़रिश्ते और जिबरील (साल भर की) हर बात का हुक्म लेकर अपने परवरदिगार के हुक्म से नाज़िल होते हैं",
+      "ayah_number": 4,
+      "verse_key": "97:4"
+    },
+    {
+      "number": 5,
+      "text": "ये रात सुबह के तुलूअ होने तक (अज़सरतापा) सलामती है",
+      "ayah_number": 5,
+      "verse_key": "97:5"
+    }
+  ]
+}

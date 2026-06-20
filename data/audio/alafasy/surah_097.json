@@ -1,0 +1,46 @@
+{
+  "number": 97,
+  "name": "Al-Qadr",
+  "arabicName": "سُورَةُ القَدۡرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 5,
+  "reciter": "Mishary Rashid Alafasy",
+  "edition": "ar.alafasy",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6126,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6126.mp3",
+      "ayah_number": 1,
+      "verse_key": "97:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6127,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6127.mp3",
+      "ayah_number": 2,
+      "verse_key": "97:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6128,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6128.mp3",
+      "ayah_number": 3,
+      "verse_key": "97:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 6129,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6129.mp3",
+      "ayah_number": 4,
+      "verse_key": "97:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 6130,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6130.mp3",
+      "ayah_number": 5,
+      "verse_key": "97:5"
+    }
+  ]
+}

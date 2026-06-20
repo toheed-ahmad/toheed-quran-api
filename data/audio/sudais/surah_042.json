@@ -1,0 +1,382 @@
+{
+  "number": 42,
+  "name": "Ash-Shura",
+  "arabicName": "سُورَةُ الشُّورَىٰ",
+  "revelationType": "Meccan",
+  "totalAyahs": 53,
+  "reciter": "Abdurrahman As-Sudais",
+  "edition": "ar.abdurrahmaansudais",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 4273,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4273.mp3",
+      "ayah_number": 1,
+      "verse_key": "42:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 4274,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4274.mp3",
+      "ayah_number": 2,
+      "verse_key": "42:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 4275,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4275.mp3",
+      "ayah_number": 3,
+      "verse_key": "42:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 4276,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4276.mp3",
+      "ayah_number": 4,
+      "verse_key": "42:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 4277,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4277.mp3",
+      "ayah_number": 5,
+      "verse_key": "42:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 4278,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4278.mp3",
+      "ayah_number": 6,
+      "verse_key": "42:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 4279,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4279.mp3",
+      "ayah_number": 7,
+      "verse_key": "42:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 4280,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4280.mp3",
+      "ayah_number": 8,
+      "verse_key": "42:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 4281,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4281.mp3",
+      "ayah_number": 9,
+      "verse_key": "42:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 4282,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4282.mp3",
+      "ayah_number": 10,
+      "verse_key": "42:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 4283,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4283.mp3",
+      "ayah_number": 11,
+      "verse_key": "42:11"
+    },
+    {
+      "number": 12,
+      "globalNumber": 4284,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4284.mp3",
+      "ayah_number": 12,
+      "verse_key": "42:12"
+    },
+    {
+      "number": 13,
+      "globalNumber": 4285,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4285.mp3",
+      "ayah_number": 13,
+      "verse_key": "42:13"
+    },
+    {
+      "number": 14,
+      "globalNumber": 4286,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4286.mp3",
+      "ayah_number": 14,
+      "verse_key": "42:14"
+    },
+    {
+      "number": 15,
+      "globalNumber": 4287,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4287.mp3",
+      "ayah_number": 15,
+      "verse_key": "42:15"
+    },
+    {
+      "number": 16,
+      "globalNumber": 4288,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4288.mp3",
+      "ayah_number": 16,
+      "verse_key": "42:16"
+    },
+    {
+      "number": 17,
+      "globalNumber": 4289,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4289.mp3",
+      "ayah_number": 17,
+      "verse_key": "42:17"
+    },
+    {
+      "number": 18,
+      "globalNumber": 4290,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4290.mp3",
+      "ayah_number": 18,
+      "verse_key": "42:18"
+    },
+    {
+      "number": 19,
+      "globalNumber": 4291,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4291.mp3",
+      "ayah_number": 19,
+      "verse_key": "42:19"
+    },
+    {
+      "number": 20,
+      "globalNumber": 4292,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4292.mp3",
+      "ayah_number": 20,
+      "verse_key": "42:20"
+    },
+    {
+      "number": 21,
+      "globalNumber": 4293,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4293.mp3",
+      "ayah_number": 21,
+      "verse_key": "42:21"
+    },
+    {
+      "number": 22,
+      "globalNumber": 4294,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4294.mp3",
+      "ayah_number": 22,
+      "verse_key": "42:22"
+    },
+    {
+      "number": 23,
+      "globalNumber": 4295,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4295.mp3",
+      "ayah_number": 23,
+      "verse_key": "42:23"
+    },
+    {
+      "number": 24,
+      "globalNumber": 4296,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4296.mp3",
+      "ayah_number": 24,
+      "verse_key": "42:24"
+    },
+    {
+      "number": 25,
+      "globalNumber": 4297,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4297.mp3",
+      "ayah_number": 25,
+      "verse_key": "42:25"
+    },
+    {
+      "number": 26,
+      "globalNumber": 4298,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4298.mp3",
+      "ayah_number": 26,
+      "verse_key": "42:26"
+    },
+    {
+      "number": 27,
+      "globalNumber": 4299,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4299.mp3",
+      "ayah_number": 27,
+      "verse_key": "42:27"
+    },
+    {
+      "number": 28,
+      "globalNumber": 4300,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4300.mp3",
+      "ayah_number": 28,
+      "verse_key": "42:28"
+    },
+    {
+      "number": 29,
+      "globalNumber": 4301,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4301.mp3",
+      "ayah_number": 29,
+      "verse_key": "42:29"
+    },
+    {
+      "number": 30,
+      "globalNumber": 4302,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4302.mp3",
+      "ayah_number": 30,
+      "verse_key": "42:30"
+    },
+    {
+      "number": 31,
+      "globalNumber": 4303,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4303.mp3",
+      "ayah_number": 31,
+      "verse_key": "42:31"
+    },
+    {
+      "number": 32,
+      "globalNumber": 4304,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4304.mp3",
+      "ayah_number": 32,
+      "verse_key": "42:32"
+    },
+    {
+      "number": 33,
+      "globalNumber": 4305,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4305.mp3",
+      "ayah_number": 33,
+      "verse_key": "42:33"
+    },
+    {
+      "number": 34,
+      "globalNumber": 4306,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4306.mp3",
+      "ayah_number": 34,
+      "verse_key": "42:34"
+    },
+    {
+      "number": 35,
+      "globalNumber": 4307,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4307.mp3",
+      "ayah_number": 35,
+      "verse_key": "42:35"
+    },
+    {
+      "number": 36,
+      "globalNumber": 4308,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4308.mp3",
+      "ayah_number": 36,
+      "verse_key": "42:36"
+    },
+    {
+      "number": 37,
+      "globalNumber": 4309,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4309.mp3",
+      "ayah_number": 37,
+      "verse_key": "42:37"
+    },
+    {
+      "number": 38,
+      "globalNumber": 4310,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4310.mp3",
+      "ayah_number": 38,
+      "verse_key": "42:38"
+    },
+    {
+      "number": 39,
+      "globalNumber": 4311,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4311.mp3",
+      "ayah_number": 39,
+      "verse_key": "42:39"
+    },
+    {
+      "number": 40,
+      "globalNumber": 4312,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4312.mp3",
+      "ayah_number": 40,
+      "verse_key": "42:40"
+    },
+    {
+      "number": 41,
+      "globalNumber": 4313,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4313.mp3",
+      "ayah_number": 41,
+      "verse_key": "42:41"
+    },
+    {
+      "number": 42,
+      "globalNumber": 4314,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4314.mp3",
+      "ayah_number": 42,
+      "verse_key": "42:42"
+    },
+    {
+      "number": 43,
+      "globalNumber": 4315,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4315.mp3",
+      "ayah_number": 43,
+      "verse_key": "42:43"
+    },
+    {
+      "number": 44,
+      "globalNumber": 4316,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4316.mp3",
+      "ayah_number": 44,
+      "verse_key": "42:44"
+    },
+    {
+      "number": 45,
+      "globalNumber": 4317,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4317.mp3",
+      "ayah_number": 45,
+      "verse_key": "42:45"
+    },
+    {
+      "number": 46,
+      "globalNumber": 4318,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4318.mp3",
+      "ayah_number": 46,
+      "verse_key": "42:46"
+    },
+    {
+      "number": 47,
+      "globalNumber": 4319,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4319.mp3",
+      "ayah_number": 47,
+      "verse_key": "42:47"
+    },
+    {
+      "number": 48,
+      "globalNumber": 4320,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4320.mp3",
+      "ayah_number": 48,
+      "verse_key": "42:48"
+    },
+    {
+      "number": 49,
+      "globalNumber": 4321,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4321.mp3",
+      "ayah_number": 49,
+      "verse_key": "42:49"
+    },
+    {
+      "number": 50,
+      "globalNumber": 4322,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4322.mp3",
+      "ayah_number": 50,
+      "verse_key": "42:50"
+    },
+    {
+      "number": 51,
+      "globalNumber": 4323,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4323.mp3",
+      "ayah_number": 51,
+      "verse_key": "42:51"
+    },
+    {
+      "number": 52,
+      "globalNumber": 4324,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4324.mp3",
+      "ayah_number": 52,
+      "verse_key": "42:52"
+    },
+    {
+      "number": 53,
+      "globalNumber": 4325,
+      "audio": "https://cdn.islamic.network/quran/audio/192/ar.abdurrahmaansudais/4325.mp3",
+      "ayah_number": 53,
+      "verse_key": "42:53"
+    }
+  ]
+}

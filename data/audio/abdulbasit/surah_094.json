@@ -1,0 +1,67 @@
+{
+  "number": 94,
+  "name": "Ash-Sharh",
+  "arabicName": "سُورَةُ الشَّرۡحِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 8,
+  "reciter": "Abdul Basit",
+  "edition": "ar.abdulsamad",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6091,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6091.mp3",
+      "ayah_number": 1,
+      "verse_key": "94:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6092,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6092.mp3",
+      "ayah_number": 2,
+      "verse_key": "94:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6093,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6093.mp3",
+      "ayah_number": 3,
+      "verse_key": "94:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 6094,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6094.mp3",
+      "ayah_number": 4,
+      "verse_key": "94:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 6095,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6095.mp3",
+      "ayah_number": 5,
+      "verse_key": "94:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 6096,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6096.mp3",
+      "ayah_number": 6,
+      "verse_key": "94:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 6097,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6097.mp3",
+      "ayah_number": 7,
+      "verse_key": "94:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 6098,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6098.mp3",
+      "ayah_number": 8,
+      "verse_key": "94:8"
+    }
+  ]
+}

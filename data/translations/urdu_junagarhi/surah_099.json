@@ -1,0 +1,64 @@
+{
+  "number": 99,
+  "name": "Az-Zalzala",
+  "arabicName": "سُورَةُ الزَّلۡزَلَةِ",
+  "revelationType": "Medinan",
+  "totalAyahs": 8,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "99:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "جب زمین پوری طرح جھنجھوڑ دی جائے گی",
+      "ayah_number": 1,
+      "verse_key": "99:1"
+    },
+    {
+      "number": 2,
+      "text": "اور اپنے بوجھ باہر نکال پھینکے گی",
+      "ayah_number": 2,
+      "verse_key": "99:2"
+    },
+    {
+      "number": 3,
+      "text": "انسان کہنے لگے گا کہ اسے کیا ہوگیا؟",
+      "ayah_number": 3,
+      "verse_key": "99:3"
+    },
+    {
+      "number": 4,
+      "text": "اس دن زمین اپنی سب خبریں بیان کردے گی",
+      "ayah_number": 4,
+      "verse_key": "99:4"
+    },
+    {
+      "number": 5,
+      "text": "اس لئے کہ تیرے رب نے اسے حکم دیا ہوگا",
+      "ayah_number": 5,
+      "verse_key": "99:5"
+    },
+    {
+      "number": 6,
+      "text": "اس روز لوگ مختلف جماعتیں ہو کر (واپس) لوٹیں گے تاکہ انہیں ان کے اعمال دکھا دیئے جائیں",
+      "ayah_number": 6,
+      "verse_key": "99:6"
+    },
+    {
+      "number": 7,
+      "text": "پس جس نے ذره برابر نیکی کی ہوگی وه اسے دیکھ لے گا",
+      "ayah_number": 7,
+      "verse_key": "99:7"
+    },
+    {
+      "number": 8,
+      "text": "اور جس نے ذره برابر برائی کی ہوگی وه اسے دیکھ لے گا",
+      "ayah_number": 8,
+      "verse_key": "99:8"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "number": 80,
+  "name": "Abasa",
+  "arabicName": "سُورَةُ عَبَسَ",
+  "revelationType": "Meccan",
+  "totalAyahs": 42,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "80:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "وه ترش رو ہوا اور منھ موڑ لیا",
+      "ayah_number": 1,
+      "verse_key": "80:1"
+    },
+    {
+      "number": 2,
+      "text": "(صرف اس لئے) کہ اس کے پاس ایک نابینا آیا",
+      "ayah_number": 2,
+      "verse_key": "80:2"
+    },
+    {
+      "number": 3,
+      "text": "تجھے کیا خبر شاید وه سنور جاتا",
+      "ayah_number": 3,
+      "verse_key": "80:3"
+    },
+    {
+      "number": 4,
+      "text": "یا نصیحت سنتا اور اسے نصیحت فائده پہنچاتی",
+      "ayah_number": 4,
+      "verse_key": "80:4"
+    },
+    {
+      "number": 5,
+      "text": "جو بے پرواہی کرتا ہے",
+      "ayah_number": 5,
+      "verse_key": "80:5"
+    },
+    {
+      "number": 6,
+      "text": "اس کی طرف تو تو پوری توجہ کرتا ہے",
+      "ayah_number": 6,
+      "verse_key": "80:6"
+    },
+    {
+      "number": 7,
+      "text": "حاﻻنکہ اس کے نہ سنورنے سے تجھ پر کوئی الزام نہیں",
+      "ayah_number": 7,
+      "verse_key": "80:7"
+    },
+    {
+      "number": 8,
+      "text": "اور جو شخص تیرے پاس دوڑتا ہوا آتا ہے",
+      "ayah_number": 8,
+      "verse_key": "80:8"
+    },
+    {
+      "number": 9,
+      "text": "اور وه ڈر (بھی) رہا ہے",
+      "ayah_number": 9,
+      "verse_key": "80:9"
+    },
+    {
+      "number": 10,
+      "text": "تو اس سے بےرخی برتتا ہے",
+      "ayah_number": 10,
+      "verse_key": "80:10"
+    },
+    {
+      "number": 11,
+      "text": "یہ ٹھیک نہیں قرآن تو نصیحت (کی چیز) ہے",
+      "ayah_number": 11,
+      "verse_key": "80:11"
+    },
+    {
+      "number": 12,
+      "text": "جو چاہے اس سے نصیحت لے",
+      "ayah_number": 12,
+      "verse_key": "80:12"
+    },
+    {
+      "number": 13,
+      "text": "(یہ تو) پر عظمت صحیفوں میں (ہے)",
+      "ayah_number": 13,
+      "verse_key": "80:13"
+    },
+    {
+      "number": 14,
+      "text": "جو بلند وباﻻ اور پاک صاف ہے",
+      "ayah_number": 14,
+      "verse_key": "80:14"
+    },
+    {
+      "number": 15,
+      "text": "ایسے لکھنے والوں کے ہاتھوں میں ہے",
+      "ayah_number": 15,
+      "verse_key": "80:15"
+    },
+    {
+      "number": 16,
+      "text": "جو بزرگ اور پاکباز ہے",
+      "ayah_number": 16,
+      "verse_key": "80:16"
+    },
+    {
+      "number": 17,
+      "text": "اللہ کی مار انسان پر کیسا ناشکرا ہے",
+      "ayah_number": 17,
+      "verse_key": "80:17"
+    },
+    {
+      "number": 18,
+      "text": "اسے اللہ نے کس چیز سے پیدا کیا",
+      "ayah_number": 18,
+      "verse_key": "80:18"
+    },
+    {
+      "number": 19,
+      "text": "(اسے) ایک نطفہ سے، پھر اندازه پر رکھا اس کو",
+      "ayah_number": 19,
+      "verse_key": "80:19"
+    },
+    {
+      "number": 20,
+      "text": "پھر اس کے لئے راستہ آسان کیا",
+      "ayah_number": 20,
+      "verse_key": "80:20"
+    },
+    {
+      "number": 21,
+      "text": "پھر اسے موت دی اور پھر قبر میں دفن کیا",
+      "ayah_number": 21,
+      "verse_key": "80:21"
+    },
+    {
+      "number": 22,
+      "text": "پھر جب چاہے گا اسے زنده کر دے گا",
+      "ayah_number": 22,
+      "verse_key": "80:22"
+    },
+    {
+      "number": 23,
+      "text": "ہرگز نہیں۔ اس نے اب تک اللہ کے حکم کی بجا آوری نہیں کی",
+      "ayah_number": 23,
+      "verse_key": "80:23"
+    },
+    {
+      "number": 24,
+      "text": "انسان کو چاہئے کہ اپنے کھانے کو دیکھے",
+      "ayah_number": 24,
+      "verse_key": "80:24"
+    },
+    {
+      "number": 25,
+      "text": "کہ ہم نے خوب پانی برسایا",
+      "ayah_number": 25,
+      "verse_key": "80:25"
+    },
+    {
+      "number": 26,
+      "text": "پھر پھاڑا زمین کو اچھی طرح",
+      "ayah_number": 26,
+      "verse_key": "80:26"
+    },
+    {
+      "number": 27,
+      "text": "پھر اس میں سے اناج اگائے",
+      "ayah_number": 27,
+      "verse_key": "80:27"
+    },
+    {
+      "number": 28,
+      "text": "اور انگور اور ترکاری",
+      "ayah_number": 28,
+      "verse_key": "80:28"
+    },
+    {
+      "number": 29,
+      "text": "اور زیتون اور کھجور",
+      "ayah_number": 29,
+      "verse_key": "80:29"
+    },
+    {
+      "number": 30,
+      "text": "اور گنجان باغات",
+      "ayah_number": 30,
+      "verse_key": "80:30"
+    },
+    {
+      "number": 31,
+      "text": "اور میوه اور (گھاس) چاره (بھی اگایا)",
+      "ayah_number": 31,
+      "verse_key": "80:31"
+    },
+    {
+      "number": 32,
+      "text": "تمہارے استعمال وفائدے کے لئے اور تمہارے چوپایوں کے لئے",
+      "ayah_number": 32,
+      "verse_key": "80:32"
+    },
+    {
+      "number": 33,
+      "text": "پس جب کہ کان بہرے کر دینے والی (قیامت) آجائے گی",
+      "ayah_number": 33,
+      "verse_key": "80:33"
+    },
+    {
+      "number": 34,
+      "text": "اس دن آدمی اپنے بھائی سے",
+      "ayah_number": 34,
+      "verse_key": "80:34"
+    },
+    {
+      "number": 35,
+      "text": "اور اپنی ماں اور اپنے باپ سے",
+      "ayah_number": 35,
+      "verse_key": "80:35"
+    },
+    {
+      "number": 36,
+      "text": "اور اپنی بیوی اور اپنی اوﻻد سے بھاگے گا",
+      "ayah_number": 36,
+      "verse_key": "80:36"
+    },
+    {
+      "number": 37,
+      "text": "ان میں سے ہر ایک کو اس دن ایسی فکر (دامنگیر) ہوگی جو اس کے لئے کافی ہوگی",
+      "ayah_number": 37,
+      "verse_key": "80:37"
+    },
+    {
+      "number": 38,
+      "text": "اس دن بہت سے چہرے روشن ہوں گے",
+      "ayah_number": 38,
+      "verse_key": "80:38"
+    },
+    {
+      "number": 39,
+      "text": "(جو) ہنستے ہوئے اور ہشاش بشاش ہوں گے",
+      "ayah_number": 39,
+      "verse_key": "80:39"
+    },
+    {
+      "number": 40,
+      "text": "اور بہت سے چہرے اس دن غبار آلود ہوں گے",
+      "ayah_number": 40,
+      "verse_key": "80:40"
+    },
+    {
+      "number": 41,
+      "text": "جن پر سیاہی چڑھی ہوئی ہوگی",
+      "ayah_number": 41,
+      "verse_key": "80:41"
+    },
+    {
+      "number": 42,
+      "text": "وه یہی کافر بدکردار لوگ ہوں گے",
+      "ayah_number": 42,
+      "verse_key": "80:42"
+    }
+  ]
+}

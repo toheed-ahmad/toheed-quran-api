@@ -1,0 +1,46 @@
+{
+  "number": 105,
+  "name": "Al-Fil",
+  "arabicName": "سُورَةُ الفِيلِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 5,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "105:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "کیا تو نے نہ دیکھا کہ تیرے رب نے ہاتھی والوں کے ساتھ کیا کیا؟",
+      "ayah_number": 1,
+      "verse_key": "105:1"
+    },
+    {
+      "number": 2,
+      "text": "کیا ان کے مکر کو بےکار نہیں کردیا؟",
+      "ayah_number": 2,
+      "verse_key": "105:2"
+    },
+    {
+      "number": 3,
+      "text": "اور ان پر پرندوں کے جھنڈ کے جھنڈ بھیج دیئے",
+      "ayah_number": 3,
+      "verse_key": "105:3"
+    },
+    {
+      "number": 4,
+      "text": "جو انہیں مٹی اور پتھر کی کنکریاں مار رہے تھے",
+      "ayah_number": 4,
+      "verse_key": "105:4"
+    },
+    {
+      "number": 5,
+      "text": "پس انہیں کھائے ہوئے بھوسے کی طرح کردیا",
+      "ayah_number": 5,
+      "verse_key": "105:5"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "surah_id": 95,
+  "surah_name": "At-Tin",
+  "arabic_name": "سُورَةُ التِّينِ",
+  "revelation_type": "Meccan",
+  "total_ayahs": 8,
+  "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ",
+  "content": [
+    {
+      "ayah_number": 1,
+      "arabic_text": "وَ التِّیْنِ وَ الزَّیْتُوْنِۙ۝۱",
+      "juz": 30,
+      "page": 597,
+      "manzil": 7,
+      "ruku": 537,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "95:1"
+    },
+    {
+      "ayah_number": 2,
+      "arabic_text": "وَ طُوْرِ سِیْنِیْنَۙ۝۲",
+      "juz": 30,
+      "page": 597,
+      "manzil": 7,
+      "ruku": 537,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "95:2"
+    },
+    {
+      "ayah_number": 3,
+      "arabic_text": "وَ هٰذَا الْبَلَدِ الْاَمِیْنِۙ۝۳",
+      "juz": 30,
+      "page": 597,
+      "manzil": 7,
+      "ruku": 537,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "95:3"
+    },
+    {
+      "ayah_number": 4,
+      "arabic_text": "لَقَدْ خَلَقْنَا الْاِنْسَانَ فِیْۤ اَحْسَنِ تَقْوِیْمٍؗ۝۴",
+      "juz": 30,
+      "page": 597,
+      "manzil": 7,
+      "ruku": 537,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "95:4"
+    },
+    {
+      "ayah_number": 5,
+      "arabic_text": "ثُمَّ رَدَدْنٰهُ اَسْفَلَ سٰفِلِیْنَۙ۝۵",
+      "juz": 30,
+      "page": 597,
+      "manzil": 7,
+      "ruku": 537,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "95:5"
+    },
+    {
+      "ayah_number": 6,
+      "arabic_text": "اِلَّا الَّذِیْنَ اٰمَنُوْا وَ عَمِلُوا الصّٰلِحٰتِ فَلَهُمْ اَجْرٌ غَیْرُ مَمْنُوْنٍؕ۝۶",
+      "juz": 30,
+      "page": 597,
+      "manzil": 7,
+      "ruku": 537,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "95:6"
+    },
+    {
+      "ayah_number": 7,
+      "arabic_text": "فَمَا یُكَذِّبُكَ بَعْدُ بِالدِّیْنِؕ۝۷",
+      "juz": 30,
+      "page": 597,
+      "manzil": 7,
+      "ruku": 537,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "95:7"
+    },
+    {
+      "ayah_number": 8,
+      "arabic_text": "اَلَیْسَ اللّٰهُ بِاَحْكَمِ الْحٰكِمِیْنَ۠۝۸",
+      "juz": 30,
+      "page": 597,
+      "manzil": 7,
+      "ruku": 537,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "95:8"
+    }
+  ]
+}

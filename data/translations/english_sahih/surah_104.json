@@ -1,0 +1,66 @@
+{
+  "number": 104,
+  "name": "Al-Humaza",
+  "arabicName": "سُورَةُ الهُمَزَةِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 9,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "Woe to every scorner and mocker",
+      "ayah_number": 1,
+      "verse_key": "104:1"
+    },
+    {
+      "number": 2,
+      "text": "Who collects wealth and [continuously] counts it.",
+      "ayah_number": 2,
+      "verse_key": "104:2"
+    },
+    {
+      "number": 3,
+      "text": "He thinks that his wealth will make him immortal.",
+      "ayah_number": 3,
+      "verse_key": "104:3"
+    },
+    {
+      "number": 4,
+      "text": "No! He will surely be thrown into the Crusher.",
+      "ayah_number": 4,
+      "verse_key": "104:4"
+    },
+    {
+      "number": 5,
+      "text": "And what can make you know what is the Crusher?",
+      "ayah_number": 5,
+      "verse_key": "104:5"
+    },
+    {
+      "number": 6,
+      "text": "It is the fire of Allah, [eternally] fueled,",
+      "ayah_number": 6,
+      "verse_key": "104:6"
+    },
+    {
+      "number": 7,
+      "text": "Which mounts directed at the hearts.",
+      "ayah_number": 7,
+      "verse_key": "104:7"
+    },
+    {
+      "number": 8,
+      "text": "Indeed, Hellfire will be closed down upon them",
+      "ayah_number": 8,
+      "verse_key": "104:8"
+    },
+    {
+      "number": 9,
+      "text": "In extended columns.",
+      "ayah_number": 9,
+      "verse_key": "104:9"
+    }
+  ]
+}

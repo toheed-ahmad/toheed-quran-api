@@ -1,0 +1,95 @@
+{
+  "number": 66,
+  "name": "At-Tahrim",
+  "arabicName": "سُورَةُ التَّحۡرِيمِ",
+  "revelationType": "Medinan",
+  "totalAyahs": 12,
+  "reciter": "Muhammad Siddiq Al-Minshawi",
+  "edition": "ar.minshawi",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 5230,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5230.mp3",
+      "ayah_number": 1,
+      "verse_key": "66:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 5231,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5231.mp3",
+      "ayah_number": 2,
+      "verse_key": "66:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 5232,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5232.mp3",
+      "ayah_number": 3,
+      "verse_key": "66:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 5233,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5233.mp3",
+      "ayah_number": 4,
+      "verse_key": "66:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 5234,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5234.mp3",
+      "ayah_number": 5,
+      "verse_key": "66:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 5235,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5235.mp3",
+      "ayah_number": 6,
+      "verse_key": "66:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 5236,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5236.mp3",
+      "ayah_number": 7,
+      "verse_key": "66:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 5237,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5237.mp3",
+      "ayah_number": 8,
+      "verse_key": "66:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 5238,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5238.mp3",
+      "ayah_number": 9,
+      "verse_key": "66:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 5239,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5239.mp3",
+      "ayah_number": 10,
+      "verse_key": "66:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 5240,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5240.mp3",
+      "ayah_number": 11,
+      "verse_key": "66:11"
+    },
+    {
+      "number": 12,
+      "globalNumber": 5241,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5241.mp3",
+      "ayah_number": 12,
+      "verse_key": "66:12"
+    }
+  ]
+}

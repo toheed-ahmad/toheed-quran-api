@@ -1,0 +1,38 @@
+{
+  "number": 106,
+  "name": "Quraish",
+  "arabicName": "سُورَةُ قُرَيۡشٍ",
+  "revelationType": "Meccan",
+  "totalAyahs": 4,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "106:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "اس لیے کہ قریش کو مانوس کر دیا",
+      "ayah_number": 1,
+      "verse_key": "106:1"
+    },
+    {
+      "number": 2,
+      "text": "ان کو جاڑے اور گرمی کے سفر سے مانوس کرنے کے باعث",
+      "ayah_number": 2,
+      "verse_key": "106:2"
+    },
+    {
+      "number": 3,
+      "text": "ان کو اس گھرکے مالک کی عبادت کرنی چاہیئے",
+      "ayah_number": 3,
+      "verse_key": "106:3"
+    },
+    {
+      "number": 4,
+      "text": "جس نے ان کو بھوک میں کھلایا اور ان کو خوف سے امن دیا",
+      "ayah_number": 4,
+      "verse_key": "106:4"
+    }
+  ]
+}

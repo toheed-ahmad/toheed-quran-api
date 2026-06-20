@@ -1,0 +1,142 @@
+{
+  "surah_id": 101,
+  "surah_name": "Al-Qaari'a",
+  "arabic_name": "سُورَةُ القَارِعَةِ",
+  "revelation_type": "Meccan",
+  "total_ayahs": 11,
+  "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ",
+  "content": [
+    {
+      "ayah_number": 1,
+      "arabic_text": "اَلْقَارِعَةُۙ۝۱",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 543,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "101:1"
+    },
+    {
+      "ayah_number": 2,
+      "arabic_text": "مَا الْقَارِعَةُۚ۝۲",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 543,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "101:2"
+    },
+    {
+      "ayah_number": 3,
+      "arabic_text": "وَ مَاۤ اَدْرٰىكَ مَا الْقَارِعَةُؕ۝۳",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 543,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "101:3"
+    },
+    {
+      "ayah_number": 4,
+      "arabic_text": "یَوْمَ یَكُوْنُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوْثِۙ۝۴",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 543,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "101:4"
+    },
+    {
+      "ayah_number": 5,
+      "arabic_text": "وَ تَكُوْنُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوْشِؕ۝۵",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 543,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "101:5"
+    },
+    {
+      "ayah_number": 6,
+      "arabic_text": "فَاَمَّا مَنْ ثَقُلَتْ مَوَازِیْنُهٗۙ۝۶",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 543,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "101:6"
+    },
+    {
+      "ayah_number": 7,
+      "arabic_text": "فَهُوَ فِیْ عِیْشَةٍ رَّاضِیَةٍؕ۝۷",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 543,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "101:7"
+    },
+    {
+      "ayah_number": 8,
+      "arabic_text": "وَ اَمَّا مَنْ خَفَّتْ مَوَازِیْنُهٗۙ۝۸",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 543,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "101:8"
+    },
+    {
+      "ayah_number": 9,
+      "arabic_text": "فَاُمُّهٗ هَاوِیَةٌؕ۝۹",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 543,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "101:9"
+    },
+    {
+      "ayah_number": 10,
+      "arabic_text": "وَ مَاۤ اَدْرٰىكَ مَاهِیَهْؕ۝۱۰",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 543,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "101:10"
+    },
+    {
+      "ayah_number": 11,
+      "arabic_text": "نَارٌ حَامِیَةٌ۠۝۱۱",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 543,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "101:11"
+    }
+  ]
+}

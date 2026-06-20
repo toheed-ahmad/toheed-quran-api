@@ -1,0 +1,70 @@
+{
+  "surah_id": 111,
+  "surah_name": "Al-Masad",
+  "arabic_name": "سُورَةُ المَسَدِ",
+  "revelation_type": "Meccan",
+  "total_ayahs": 5,
+  "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ",
+  "content": [
+    {
+      "ayah_number": 1,
+      "arabic_text": "تَبَّتْ یَدَاۤ اَبِیْ لَهَبٍ وَّ تَبَّؕ۝۱",
+      "juz": 30,
+      "page": 603,
+      "manzil": 7,
+      "ruku": 553,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "111:1"
+    },
+    {
+      "ayah_number": 2,
+      "arabic_text": "مَاۤ اَغْنٰی عَنْهُ مَالُهٗ وَ مَا كَسَبَؕ۝۲",
+      "juz": 30,
+      "page": 603,
+      "manzil": 7,
+      "ruku": 553,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "111:2"
+    },
+    {
+      "ayah_number": 3,
+      "arabic_text": "سَیَصْلٰی نَارًا ذَاتَ لَهَبٍۚۖ۝۳",
+      "juz": 30,
+      "page": 603,
+      "manzil": 7,
+      "ruku": 553,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "111:3"
+    },
+    {
+      "ayah_number": 4,
+      "arabic_text": "وَّ امْرَاَتُهٗ ؕ حَمَّالَةَ الْحَطَبِۚ۝۴",
+      "juz": 30,
+      "page": 603,
+      "manzil": 7,
+      "ruku": 553,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "111:4"
+    },
+    {
+      "ayah_number": 5,
+      "arabic_text": "فِیْ جِیْدِهَا حَبْلٌ مِّنْ مَّسَدٍ۠۝۵",
+      "juz": 30,
+      "page": 603,
+      "manzil": 7,
+      "ruku": 553,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "111:5"
+    }
+  ]
+}

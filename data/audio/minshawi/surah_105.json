@@ -1,0 +1,46 @@
+{
+  "number": 105,
+  "name": "Al-Fil",
+  "arabicName": "سُورَةُ الفِيلِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 5,
+  "reciter": "Muhammad Siddiq Al-Minshawi",
+  "edition": "ar.minshawi",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6189,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6189.mp3",
+      "ayah_number": 1,
+      "verse_key": "105:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6190,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6190.mp3",
+      "ayah_number": 2,
+      "verse_key": "105:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6191,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6191.mp3",
+      "ayah_number": 3,
+      "verse_key": "105:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 6192,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6192.mp3",
+      "ayah_number": 4,
+      "verse_key": "105:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 6193,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6193.mp3",
+      "ayah_number": 5,
+      "verse_key": "105:5"
+    }
+  ]
+}

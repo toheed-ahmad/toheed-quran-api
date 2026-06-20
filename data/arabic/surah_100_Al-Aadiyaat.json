@@ -1,0 +1,142 @@
+{
+  "surah_id": 100,
+  "surah_name": "Al-Aadiyaat",
+  "arabic_name": "سُورَةُ العَادِيَاتِ",
+  "revelation_type": "Meccan",
+  "total_ayahs": 11,
+  "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ",
+  "content": [
+    {
+      "ayah_number": 1,
+      "arabic_text": "وَ الْعٰدِیٰتِ ضَبْحًاۙ۝۱",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 542,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "100:1"
+    },
+    {
+      "ayah_number": 2,
+      "arabic_text": "فَالْمُوْرِیٰتِ قَدْحًاۙ۝۲",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 542,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "100:2"
+    },
+    {
+      "ayah_number": 3,
+      "arabic_text": "فَالْمُغِیْرٰتِ صُبْحًاۙ۝۳",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 542,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "100:3"
+    },
+    {
+      "ayah_number": 4,
+      "arabic_text": "فَاَثَرْنَ بِهٖ نَقْعًاۙ۝۴",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 542,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "100:4"
+    },
+    {
+      "ayah_number": 5,
+      "arabic_text": "فَوَسَطْنَ بِهٖ جَمْعًاۙ۝۵",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 542,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "100:5"
+    },
+    {
+      "ayah_number": 6,
+      "arabic_text": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌۚ۝۶",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 542,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "100:6"
+    },
+    {
+      "ayah_number": 7,
+      "arabic_text": "وَ اِنَّهٗ عَلٰی ذٰلِكَ لَشَهِیْدٌۚ۝۷",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 542,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "100:7"
+    },
+    {
+      "ayah_number": 8,
+      "arabic_text": "وَ اِنَّهٗ لِحُبِّ الْخَیْرِ لَشَدِیْدٌؕ۝۸",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 542,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "100:8"
+    },
+    {
+      "ayah_number": 9,
+      "arabic_text": "اَفَلَا یَعْلَمُ اِذَا بُعْثِرَ مَا فِی الْقُبُوْرِۙ۝۹",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 542,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "100:9"
+    },
+    {
+      "ayah_number": 10,
+      "arabic_text": "وَ حُصِّلَ مَا فِی الصُّدُوْرِۙ۝۱۰",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 542,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "100:10"
+    },
+    {
+      "ayah_number": 11,
+      "arabic_text": "اِنَّ رَبَّهُمْ بِهِمْ یَوْمَىِٕذٍ لَّخَبِیْرٌ۠۝۱۱",
+      "juz": 30,
+      "page": 600,
+      "manzil": 7,
+      "ruku": 542,
+      "hizb": 60,
+      "hizbQuarter": 240,
+      "sajdah": false,
+      "verse_key": "100:11"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "number": 80,
+  "name": "Abasa",
+  "arabicName": "سُورَةُ عَبَسَ",
+  "revelationType": "Meccan",
+  "totalAyahs": 42,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "वह अपनी बात पर चीं ब जबीं हो गया",
+      "ayah_number": 1,
+      "verse_key": "80:1"
+    },
+    {
+      "number": 2,
+      "text": "और मुँह फेर बैठा कि उसके पास नाबीना आ गया",
+      "ayah_number": 2,
+      "verse_key": "80:2"
+    },
+    {
+      "number": 3,
+      "text": "और तुमको क्या मालूम यायद वह (तालीम से) पाकीज़गी हासिल करता",
+      "ayah_number": 3,
+      "verse_key": "80:3"
+    },
+    {
+      "number": 4,
+      "text": "या वह नसीहत सुनता तो नसीहत उसके काम आती",
+      "ayah_number": 4,
+      "verse_key": "80:4"
+    },
+    {
+      "number": 5,
+      "text": "तो जो कुछ परवाह नहीं करता",
+      "ayah_number": 5,
+      "verse_key": "80:5"
+    },
+    {
+      "number": 6,
+      "text": "उसके तो तुम दरपै हो जाते हो हालॉकि अगर वह न सुधरे",
+      "ayah_number": 6,
+      "verse_key": "80:6"
+    },
+    {
+      "number": 7,
+      "text": "तो तुम ज़िम्मेदार नहीं",
+      "ayah_number": 7,
+      "verse_key": "80:7"
+    },
+    {
+      "number": 8,
+      "text": "और जो तुम्हारे पास लपकता हुआ आता है",
+      "ayah_number": 8,
+      "verse_key": "80:8"
+    },
+    {
+      "number": 9,
+      "text": "और (ख़ुदा से) डरता है",
+      "ayah_number": 9,
+      "verse_key": "80:9"
+    },
+    {
+      "number": 10,
+      "text": "तो तुम उससे बेरूख़ी करते हो",
+      "ayah_number": 10,
+      "verse_key": "80:10"
+    },
+    {
+      "number": 11,
+      "text": "देखो ये (क़ुरान) तो सरासर नसीहत है",
+      "ayah_number": 11,
+      "verse_key": "80:11"
+    },
+    {
+      "number": 12,
+      "text": "तो जो चाहे इसे याद रखे",
+      "ayah_number": 12,
+      "verse_key": "80:12"
+    },
+    {
+      "number": 13,
+      "text": "(लौहे महफूज़ के) बहुत मोअज़ज़िज औराक़ में (लिखा हुआ) है",
+      "ayah_number": 13,
+      "verse_key": "80:13"
+    },
+    {
+      "number": 14,
+      "text": "बुलन्द मरतबा और पाक हैं",
+      "ayah_number": 14,
+      "verse_key": "80:14"
+    },
+    {
+      "number": 15,
+      "text": "(ऐसे) लिखने वालों के हाथों में है",
+      "ayah_number": 15,
+      "verse_key": "80:15"
+    },
+    {
+      "number": 16,
+      "text": "जो बुज़ुर्ग नेकोकार हैं",
+      "ayah_number": 16,
+      "verse_key": "80:16"
+    },
+    {
+      "number": 17,
+      "text": "इन्सान हलाक हो जाए वह क्या कैसा नाशुक्रा है",
+      "ayah_number": 17,
+      "verse_key": "80:17"
+    },
+    {
+      "number": 18,
+      "text": "(ख़ुदा ने) उसे किस चीज़ से पैदा किया",
+      "ayah_number": 18,
+      "verse_key": "80:18"
+    },
+    {
+      "number": 19,
+      "text": "नुत्फे से उसे पैदा किया फिर उसका अन्दाज़ा मुक़र्रर किया",
+      "ayah_number": 19,
+      "verse_key": "80:19"
+    },
+    {
+      "number": 20,
+      "text": "फिर उसका रास्ता आसान कर दिया",
+      "ayah_number": 20,
+      "verse_key": "80:20"
+    },
+    {
+      "number": 21,
+      "text": "फिर उसे मौत दी फिर उसे कब्र में दफ़न कराया",
+      "ayah_number": 21,
+      "verse_key": "80:21"
+    },
+    {
+      "number": 22,
+      "text": "फिर जब चाहेगा उठा खड़ा करेगा",
+      "ayah_number": 22,
+      "verse_key": "80:22"
+    },
+    {
+      "number": 23,
+      "text": "सच तो यह है कि ख़ुदा ने जो हुक्म उसे दिया उसने उसको पूरा न किया",
+      "ayah_number": 23,
+      "verse_key": "80:23"
+    },
+    {
+      "number": 24,
+      "text": "तो इन्सान को अपने घाटे ही तरफ ग़ौर करना चाहिए",
+      "ayah_number": 24,
+      "verse_key": "80:24"
+    },
+    {
+      "number": 25,
+      "text": "कि हम ही ने (बादल) से पानी बरसाया",
+      "ayah_number": 25,
+      "verse_key": "80:25"
+    },
+    {
+      "number": 26,
+      "text": "फिर हम ही ने ज़मीन (दरख्त उगाकर) चीरी फाड़ी",
+      "ayah_number": 26,
+      "verse_key": "80:26"
+    },
+    {
+      "number": 27,
+      "text": "फिर हमने उसमें अनाज उगाया",
+      "ayah_number": 27,
+      "verse_key": "80:27"
+    },
+    {
+      "number": 28,
+      "text": "और अंगूर और तरकारियाँ",
+      "ayah_number": 28,
+      "verse_key": "80:28"
+    },
+    {
+      "number": 29,
+      "text": "और ज़ैतून और खजूरें",
+      "ayah_number": 29,
+      "verse_key": "80:29"
+    },
+    {
+      "number": 30,
+      "text": "और घने घने बाग़ और मेवे",
+      "ayah_number": 30,
+      "verse_key": "80:30"
+    },
+    {
+      "number": 31,
+      "text": "और चारा (ये सब कुछ) तुम्हारे और तुम्हारे",
+      "ayah_number": 31,
+      "verse_key": "80:31"
+    },
+    {
+      "number": 32,
+      "text": "चारपायों के फायदे के लिए (बनाया)",
+      "ayah_number": 32,
+      "verse_key": "80:32"
+    },
+    {
+      "number": 33,
+      "text": "तो जब कानों के परदे फाड़ने वाली (क़यामत) आ मौजूद होगी",
+      "ayah_number": 33,
+      "verse_key": "80:33"
+    },
+    {
+      "number": 34,
+      "text": "उस दिन आदमी अपने भाई",
+      "ayah_number": 34,
+      "verse_key": "80:34"
+    },
+    {
+      "number": 35,
+      "text": "और अपनी माँ और अपने बाप",
+      "ayah_number": 35,
+      "verse_key": "80:35"
+    },
+    {
+      "number": 36,
+      "text": "और अपने लड़के बालों से भागेगा",
+      "ayah_number": 36,
+      "verse_key": "80:36"
+    },
+    {
+      "number": 37,
+      "text": "उस दिन हर शख़्श (अपनी नजात की) ऐसी फ़िक्र में होगा जो उसके (मशग़ूल होने के) लिए काफ़ी हों",
+      "ayah_number": 37,
+      "verse_key": "80:37"
+    },
+    {
+      "number": 38,
+      "text": "बहुत से चेहरे तो उस दिन चमकते होंगे",
+      "ayah_number": 38,
+      "verse_key": "80:38"
+    },
+    {
+      "number": 39,
+      "text": "ख़न्दाँ शांदाँ (यही नेको कार हैं)",
+      "ayah_number": 39,
+      "verse_key": "80:39"
+    },
+    {
+      "number": 40,
+      "text": "और बहुत से चेहरे ऐसे होंगे जिन पर गर्द पड़ी होगी",
+      "ayah_number": 40,
+      "verse_key": "80:40"
+    },
+    {
+      "number": 41,
+      "text": "उस पर सियाही छाई हुई होगी",
+      "ayah_number": 41,
+      "verse_key": "80:41"
+    },
+    {
+      "number": 42,
+      "text": "यही कुफ्फ़ार बदकार हैं",
+      "ayah_number": 42,
+      "verse_key": "80:42"
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "number": 55,
+  "name": "Ar-Rahmaan",
+  "arabicName": "سُورَةُ الرَّحۡمَٰن",
+  "revelationType": "Medinan",
+  "totalAyahs": 78,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "The Most Merciful",
+      "ayah_number": 1,
+      "verse_key": "55:1"
+    },
+    {
+      "number": 2,
+      "text": "Taught the Qur'an,",
+      "ayah_number": 2,
+      "verse_key": "55:2"
+    },
+    {
+      "number": 3,
+      "text": "Created man,",
+      "ayah_number": 3,
+      "verse_key": "55:3"
+    },
+    {
+      "number": 4,
+      "text": "[And] taught him eloquence.",
+      "ayah_number": 4,
+      "verse_key": "55:4"
+    },
+    {
+      "number": 5,
+      "text": "The sun and the moon [move] by precise calculation,",
+      "ayah_number": 5,
+      "verse_key": "55:5"
+    },
+    {
+      "number": 6,
+      "text": "And the stars and trees prostrate.",
+      "ayah_number": 6,
+      "verse_key": "55:6"
+    },
+    {
+      "number": 7,
+      "text": "And the heaven He raised and imposed the balance",
+      "ayah_number": 7,
+      "verse_key": "55:7"
+    },
+    {
+      "number": 8,
+      "text": "That you not transgress within the balance.",
+      "ayah_number": 8,
+      "verse_key": "55:8"
+    },
+    {
+      "number": 9,
+      "text": "And establish weight in justice and do not make deficient the balance.",
+      "ayah_number": 9,
+      "verse_key": "55:9"
+    },
+    {
+      "number": 10,
+      "text": "And the earth He laid [out] for the creatures.",
+      "ayah_number": 10,
+      "verse_key": "55:10"
+    },
+    {
+      "number": 11,
+      "text": "Therein is fruit and palm trees having sheaths [of dates]",
+      "ayah_number": 11,
+      "verse_key": "55:11"
+    },
+    {
+      "number": 12,
+      "text": "And grain having husks and scented plants.",
+      "ayah_number": 12,
+      "verse_key": "55:12"
+    },
+    {
+      "number": 13,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 13,
+      "verse_key": "55:13"
+    },
+    {
+      "number": 14,
+      "text": "He created man from clay like [that of] pottery.",
+      "ayah_number": 14,
+      "verse_key": "55:14"
+    },
+    {
+      "number": 15,
+      "text": "And He created the jinn from a smokeless flame of fire.",
+      "ayah_number": 15,
+      "verse_key": "55:15"
+    },
+    {
+      "number": 16,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 16,
+      "verse_key": "55:16"
+    },
+    {
+      "number": 17,
+      "text": "[He is] Lord of the two sunrises and Lord of the two sunsets.",
+      "ayah_number": 17,
+      "verse_key": "55:17"
+    },
+    {
+      "number": 18,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 18,
+      "verse_key": "55:18"
+    },
+    {
+      "number": 19,
+      "text": "He released the two seas, meeting [side by side];",
+      "ayah_number": 19,
+      "verse_key": "55:19"
+    },
+    {
+      "number": 20,
+      "text": "Between them is a barrier [so] neither of them transgresses.",
+      "ayah_number": 20,
+      "verse_key": "55:20"
+    },
+    {
+      "number": 21,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 21,
+      "verse_key": "55:21"
+    },
+    {
+      "number": 22,
+      "text": "From both of them emerge pearl and coral.",
+      "ayah_number": 22,
+      "verse_key": "55:22"
+    },
+    {
+      "number": 23,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 23,
+      "verse_key": "55:23"
+    },
+    {
+      "number": 24,
+      "text": "And to Him belong the ships [with sails] elevated in the sea like mountains.",
+      "ayah_number": 24,
+      "verse_key": "55:24"
+    },
+    {
+      "number": 25,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 25,
+      "verse_key": "55:25"
+    },
+    {
+      "number": 26,
+      "text": "Everyone upon the earth will perish,",
+      "ayah_number": 26,
+      "verse_key": "55:26"
+    },
+    {
+      "number": 27,
+      "text": "And there will remain the Face of your Lord, Owner of Majesty and Honor.",
+      "ayah_number": 27,
+      "verse_key": "55:27"
+    },
+    {
+      "number": 28,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 28,
+      "verse_key": "55:28"
+    },
+    {
+      "number": 29,
+      "text": "Whoever is within the heavens and earth asks Him; every day He is bringing about a matter.",
+      "ayah_number": 29,
+      "verse_key": "55:29"
+    },
+    {
+      "number": 30,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 30,
+      "verse_key": "55:30"
+    },
+    {
+      "number": 31,
+      "text": "We will attend to you, O prominent beings.",
+      "ayah_number": 31,
+      "verse_key": "55:31"
+    },
+    {
+      "number": 32,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 32,
+      "verse_key": "55:32"
+    },
+    {
+      "number": 33,
+      "text": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah].",
+      "ayah_number": 33,
+      "verse_key": "55:33"
+    },
+    {
+      "number": 34,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 34,
+      "verse_key": "55:34"
+    },
+    {
+      "number": 35,
+      "text": "There will be sent upon you a flame of fire and smoke, and you will not defend yourselves.",
+      "ayah_number": 35,
+      "verse_key": "55:35"
+    },
+    {
+      "number": 36,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 36,
+      "verse_key": "55:36"
+    },
+    {
+      "number": 37,
+      "text": "And when the heaven is split open and becomes rose-colored like oil -",
+      "ayah_number": 37,
+      "verse_key": "55:37"
+    },
+    {
+      "number": 38,
+      "text": "So which of the favors of your Lord would you deny? -",
+      "ayah_number": 38,
+      "verse_key": "55:38"
+    },
+    {
+      "number": 39,
+      "text": "Then on that Day none will be asked about his sin among men or jinn.",
+      "ayah_number": 39,
+      "verse_key": "55:39"
+    },
+    {
+      "number": 40,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 40,
+      "verse_key": "55:40"
+    },
+    {
+      "number": 41,
+      "text": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet.",
+      "ayah_number": 41,
+      "verse_key": "55:41"
+    },
+    {
+      "number": 42,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 42,
+      "verse_key": "55:42"
+    },
+    {
+      "number": 43,
+      "text": "This is Hell, which the criminals deny.",
+      "ayah_number": 43,
+      "verse_key": "55:43"
+    },
+    {
+      "number": 44,
+      "text": "They will go around between it and scalding water, heated [to the utmost degree].",
+      "ayah_number": 44,
+      "verse_key": "55:44"
+    },
+    {
+      "number": 45,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 45,
+      "verse_key": "55:45"
+    },
+    {
+      "number": 46,
+      "text": "But for he who has feared the position of his Lord are two gardens -",
+      "ayah_number": 46,
+      "verse_key": "55:46"
+    },
+    {
+      "number": 47,
+      "text": "So which of the favors of your Lord would you deny? -",
+      "ayah_number": 47,
+      "verse_key": "55:47"
+    },
+    {
+      "number": 48,
+      "text": "Having [spreading] branches.",
+      "ayah_number": 48,
+      "verse_key": "55:48"
+    },
+    {
+      "number": 49,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 49,
+      "verse_key": "55:49"
+    },
+    {
+      "number": 50,
+      "text": "In both of them are two springs, flowing.",
+      "ayah_number": 50,
+      "verse_key": "55:50"
+    },
+    {
+      "number": 51,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 51,
+      "verse_key": "55:51"
+    },
+    {
+      "number": 52,
+      "text": "In both of them are of every fruit, two kinds.",
+      "ayah_number": 52,
+      "verse_key": "55:52"
+    },
+    {
+      "number": 53,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 53,
+      "verse_key": "55:53"
+    },
+    {
+      "number": 54,
+      "text": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
+      "ayah_number": 54,
+      "verse_key": "55:54"
+    },
+    {
+      "number": 55,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 55,
+      "verse_key": "55:55"
+    },
+    {
+      "number": 56,
+      "text": "In them are women limiting [their] glances, untouched before them by man or jinni -",
+      "ayah_number": 56,
+      "verse_key": "55:56"
+    },
+    {
+      "number": 57,
+      "text": "So which of the favors of your Lord would you deny? -",
+      "ayah_number": 57,
+      "verse_key": "55:57"
+    },
+    {
+      "number": 58,
+      "text": "As if they were rubies and coral.",
+      "ayah_number": 58,
+      "verse_key": "55:58"
+    },
+    {
+      "number": 59,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 59,
+      "verse_key": "55:59"
+    },
+    {
+      "number": 60,
+      "text": "Is the reward for good [anything] but good?",
+      "ayah_number": 60,
+      "verse_key": "55:60"
+    },
+    {
+      "number": 61,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 61,
+      "verse_key": "55:61"
+    },
+    {
+      "number": 62,
+      "text": "And below them both [in excellence] are two [other] gardens -",
+      "ayah_number": 62,
+      "verse_key": "55:62"
+    },
+    {
+      "number": 63,
+      "text": "So which of the favors of your Lord would you deny? -",
+      "ayah_number": 63,
+      "verse_key": "55:63"
+    },
+    {
+      "number": 64,
+      "text": "Dark green [in color].",
+      "ayah_number": 64,
+      "verse_key": "55:64"
+    },
+    {
+      "number": 65,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 65,
+      "verse_key": "55:65"
+    },
+    {
+      "number": 66,
+      "text": "In both of them are two springs, spouting.",
+      "ayah_number": 66,
+      "verse_key": "55:66"
+    },
+    {
+      "number": 67,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 67,
+      "verse_key": "55:67"
+    },
+    {
+      "number": 68,
+      "text": "In both of them are fruit and palm trees and pomegranates.",
+      "ayah_number": 68,
+      "verse_key": "55:68"
+    },
+    {
+      "number": 69,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 69,
+      "verse_key": "55:69"
+    },
+    {
+      "number": 70,
+      "text": "In them are good and beautiful women -",
+      "ayah_number": 70,
+      "verse_key": "55:70"
+    },
+    {
+      "number": 71,
+      "text": "So which of the favors of your Lord would you deny? -",
+      "ayah_number": 71,
+      "verse_key": "55:71"
+    },
+    {
+      "number": 72,
+      "text": "Fair ones reserved in pavilions -",
+      "ayah_number": 72,
+      "verse_key": "55:72"
+    },
+    {
+      "number": 73,
+      "text": "So which of the favors of your Lord would you deny? -",
+      "ayah_number": 73,
+      "verse_key": "55:73"
+    },
+    {
+      "number": 74,
+      "text": "Untouched before them by man or jinni -",
+      "ayah_number": 74,
+      "verse_key": "55:74"
+    },
+    {
+      "number": 75,
+      "text": "So which of the favors of your Lord would you deny? -",
+      "ayah_number": 75,
+      "verse_key": "55:75"
+    },
+    {
+      "number": 76,
+      "text": "Reclining on green cushions and beautiful fine carpets.",
+      "ayah_number": 76,
+      "verse_key": "55:76"
+    },
+    {
+      "number": 77,
+      "text": "So which of the favors of your Lord would you deny?",
+      "ayah_number": 77,
+      "verse_key": "55:77"
+    },
+    {
+      "number": 78,
+      "text": "Blessed is the name of your Lord, Owner of Majesty and Honor.",
+      "ayah_number": 78,
+      "verse_key": "55:78"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "number": 110,
+  "name": "An-Nasr",
+  "arabicName": "سُورَةُ النَّصۡرِ",
+  "revelationType": "Medinan",
+  "totalAyahs": 3,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "110:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "جب اللہ کی مدد اور فتح آجائے",
+      "ayah_number": 1,
+      "verse_key": "110:1"
+    },
+    {
+      "number": 2,
+      "text": "اور تو لوگوں کو اللہ کے دین میں جوق در جوق آتا دیکھ لے",
+      "ayah_number": 2,
+      "verse_key": "110:2"
+    },
+    {
+      "number": 3,
+      "text": "تو اپنے رب کی تسبیح کرنے لگ حمد کے ساتھ اور اس سے مغفرت کی دعا مانگ، بیشک وه بڑا ہی توبہ قبول کرنے واﻻ ہے",
+      "ayah_number": 3,
+      "verse_key": "110:3"
+    }
+  ]
+}

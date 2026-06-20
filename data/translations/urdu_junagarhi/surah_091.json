@@ -1,0 +1,106 @@
+{
+  "number": 91,
+  "name": "Ash-Shams",
+  "arabicName": "سُورَةُ الشَّمۡسِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 15,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "91:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "قسم ہے سورج کی اور اس کی دھوپ کی",
+      "ayah_number": 1,
+      "verse_key": "91:1"
+    },
+    {
+      "number": 2,
+      "text": "قسم ہے چاند کی جب اس کے پیچھے آئے",
+      "ayah_number": 2,
+      "verse_key": "91:2"
+    },
+    {
+      "number": 3,
+      "text": "قسم ہے دن کی جب سورج کو نمایاں کرے",
+      "ayah_number": 3,
+      "verse_key": "91:3"
+    },
+    {
+      "number": 4,
+      "text": "قسم ہے رات کی جب اسے ڈھانﭗ لے",
+      "ayah_number": 4,
+      "verse_key": "91:4"
+    },
+    {
+      "number": 5,
+      "text": "قسم ہے آسمان کی اور اس کے بنانے کی",
+      "ayah_number": 5,
+      "verse_key": "91:5"
+    },
+    {
+      "number": 6,
+      "text": "قسم ہے زمین کی اور اسے ہموار کرنے کی",
+      "ayah_number": 6,
+      "verse_key": "91:6"
+    },
+    {
+      "number": 7,
+      "text": "قسم ہے نفس کی اور اسے درست بنانے کی",
+      "ayah_number": 7,
+      "verse_key": "91:7"
+    },
+    {
+      "number": 8,
+      "text": "پھر سمجھ دی اس کو بدکاری کی اور بچ کر چلنے کی",
+      "ayah_number": 8,
+      "verse_key": "91:8"
+    },
+    {
+      "number": 9,
+      "text": "جس نے اسے پاک کیا وه کامیاب ہوا",
+      "ayah_number": 9,
+      "verse_key": "91:9"
+    },
+    {
+      "number": 10,
+      "text": "اور جس نے اسے خاک میں ملا دیا وه ناکام ہوا",
+      "ayah_number": 10,
+      "verse_key": "91:10"
+    },
+    {
+      "number": 11,
+      "text": "(قوم) ﺛمود نے اپنی سرکشی کے باعﺚ جھٹلایا",
+      "ayah_number": 11,
+      "verse_key": "91:11"
+    },
+    {
+      "number": 12,
+      "text": "جب ان میں کا بڑا بدبخت اٹھ کھڑا ہوا",
+      "ayah_number": 12,
+      "verse_key": "91:12"
+    },
+    {
+      "number": 13,
+      "text": "انہیں اللہ کے رسول نے فرما دیا تھا کہ اللہ تعالیٰ کی اونٹنی اور اس کے پینے کی باری کی (حفاﻇت کرو)",
+      "ayah_number": 13,
+      "verse_key": "91:13"
+    },
+    {
+      "number": 14,
+      "text": "ان لوگوں نے اپنے پیغمبر کو جھوٹا سمجھ کر اس اونٹنی کی کوچیں کاٹ دیں، پس ان کے رب نے ان کے گناہوں کے باعﺚ ان پر ہلاکت ڈالی اور پھر ہلاکت کو عام کر دیا اور اس بستی کو برابر کردیا",
+      "ayah_number": 14,
+      "verse_key": "91:14"
+    },
+    {
+      "number": 15,
+      "text": "وه نہیں ڈرتا اس کے تباه کن انجام سے",
+      "ayah_number": 15,
+      "verse_key": "91:15"
+    }
+  ]
+}

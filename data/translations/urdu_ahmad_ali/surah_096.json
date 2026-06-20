@@ -1,0 +1,128 @@
+{
+  "number": 96,
+  "name": "Al-Alaq",
+  "arabicName": "سُورَةُ العَلَقِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 19,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "96:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "اپنے رب کے نام سے پڑھیئے جس نے سب کو پیدا کیا",
+      "ayah_number": 1,
+      "verse_key": "96:1"
+    },
+    {
+      "number": 2,
+      "text": "انسان کو خون بستہ سے پیدا کیا",
+      "ayah_number": 2,
+      "verse_key": "96:2"
+    },
+    {
+      "number": 3,
+      "text": "پڑھیئے اور آپ کا رب سب سے بڑھ کر کرم والا ہے",
+      "ayah_number": 3,
+      "verse_key": "96:3"
+    },
+    {
+      "number": 4,
+      "text": "جس نے قلم سے سکھایا",
+      "ayah_number": 4,
+      "verse_key": "96:4"
+    },
+    {
+      "number": 5,
+      "text": "انسان کو سکھایا جو وہ نہ جانتا تھا",
+      "ayah_number": 5,
+      "verse_key": "96:5"
+    },
+    {
+      "number": 6,
+      "text": "ہرگز نہیں بے شک آدمی سرکش ہو جاتا ہے",
+      "ayah_number": 6,
+      "verse_key": "96:6"
+    },
+    {
+      "number": 7,
+      "text": "جب کہ اپنے آپ کو غنی پاتا ہے",
+      "ayah_number": 7,
+      "verse_key": "96:7"
+    },
+    {
+      "number": 8,
+      "text": "بے شک آپ کے رب ہی کی طرف لوٹ کر جانا ہے",
+      "ayah_number": 8,
+      "verse_key": "96:8"
+    },
+    {
+      "number": 9,
+      "text": "کیا آپ نے اس کو دیکھا جو منع کرتا ہے",
+      "ayah_number": 9,
+      "verse_key": "96:9"
+    },
+    {
+      "number": 10,
+      "text": "ایک بندے کو جب کہ وہ نماز پڑھتا ہے",
+      "ayah_number": 10,
+      "verse_key": "96:10"
+    },
+    {
+      "number": 11,
+      "text": "بھلا دیکھو تو سہی اگر وہ راہ پر ہوتا",
+      "ayah_number": 11,
+      "verse_key": "96:11"
+    },
+    {
+      "number": 12,
+      "text": "یا پرہیز گاری سکھاتا",
+      "ayah_number": 12,
+      "verse_key": "96:12"
+    },
+    {
+      "number": 13,
+      "text": "بھلا دیکھو تو سہی اگر اس نے جھٹلایا اور منہ موڑ لیا",
+      "ayah_number": 13,
+      "verse_key": "96:13"
+    },
+    {
+      "number": 14,
+      "text": "تو کیا وہ نہیں جانتا کہ الله دیکھ رہا ہے",
+      "ayah_number": 14,
+      "verse_key": "96:14"
+    },
+    {
+      "number": 15,
+      "text": "ہرگزایسا نہیں چاہیئے اگر وہ باز نہ آیا تو ہم پیشانی کے بال پکڑ کر گھسیٹیں گے",
+      "ayah_number": 15,
+      "verse_key": "96:15"
+    },
+    {
+      "number": 16,
+      "text": "پیشانی جھوٹی خطا کار",
+      "ayah_number": 16,
+      "verse_key": "96:16"
+    },
+    {
+      "number": 17,
+      "text": "پس وہ اپنے مجلس والوں کو بلا لے",
+      "ayah_number": 17,
+      "verse_key": "96:17"
+    },
+    {
+      "number": 18,
+      "text": "ہم بھی مؤکلین دوزخ کو بلا لیں گے",
+      "ayah_number": 18,
+      "verse_key": "96:18"
+    },
+    {
+      "number": 19,
+      "text": "ہر گز ایسا نہیں چاہیئے آپ اس کا کہانہ مانیے اور سجدہ کیجیئے اور قرب حاصل کیجیئے",
+      "ayah_number": 19,
+      "verse_key": "96:19"
+    }
+  ]
+}

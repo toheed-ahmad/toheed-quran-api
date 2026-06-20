@@ -1,0 +1,78 @@
+{
+  "number": 100,
+  "name": "Al-Aadiyaat",
+  "arabicName": "سُورَةُ العَادِيَاتِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 11,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "By the racers, panting,",
+      "ayah_number": 1,
+      "verse_key": "100:1"
+    },
+    {
+      "number": 2,
+      "text": "And the producers of sparks [when] striking",
+      "ayah_number": 2,
+      "verse_key": "100:2"
+    },
+    {
+      "number": 3,
+      "text": "And the chargers at dawn,",
+      "ayah_number": 3,
+      "verse_key": "100:3"
+    },
+    {
+      "number": 4,
+      "text": "Stirring up thereby [clouds of] dust,",
+      "ayah_number": 4,
+      "verse_key": "100:4"
+    },
+    {
+      "number": 5,
+      "text": "Arriving thereby in the center collectively,",
+      "ayah_number": 5,
+      "verse_key": "100:5"
+    },
+    {
+      "number": 6,
+      "text": "Indeed mankind, to his Lord, is ungrateful.",
+      "ayah_number": 6,
+      "verse_key": "100:6"
+    },
+    {
+      "number": 7,
+      "text": "And indeed, he is to that a witness.",
+      "ayah_number": 7,
+      "verse_key": "100:7"
+    },
+    {
+      "number": 8,
+      "text": "And indeed he is, in love of wealth, intense.",
+      "ayah_number": 8,
+      "verse_key": "100:8"
+    },
+    {
+      "number": 9,
+      "text": "But does he not know that when the contents of the graves are scattered",
+      "ayah_number": 9,
+      "verse_key": "100:9"
+    },
+    {
+      "number": 10,
+      "text": "And that within the breasts is obtained,",
+      "ayah_number": 10,
+      "verse_key": "100:10"
+    },
+    {
+      "number": 11,
+      "text": "Indeed, their Lord with them, that Day, is [fully] Acquainted.",
+      "ayah_number": 11,
+      "verse_key": "100:11"
+    }
+  ]
+}

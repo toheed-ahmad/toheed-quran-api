@@ -1,0 +1,64 @@
+{
+  "number": 95,
+  "name": "At-Tin",
+  "arabicName": "سُورَةُ التِّينِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 8,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "95:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "قسم ہے انجیر کی اور زیتون کی",
+      "ayah_number": 1,
+      "verse_key": "95:1"
+    },
+    {
+      "number": 2,
+      "text": "اور طور سِینِین کی",
+      "ayah_number": 2,
+      "verse_key": "95:2"
+    },
+    {
+      "number": 3,
+      "text": "اور اس امن والے شہر کی",
+      "ayah_number": 3,
+      "verse_key": "95:3"
+    },
+    {
+      "number": 4,
+      "text": "یقیناً ہم نے انسان کو بہترین صورت میں پیدا کیا",
+      "ayah_number": 4,
+      "verse_key": "95:4"
+    },
+    {
+      "number": 5,
+      "text": "پھر اسے نیچوں سے نیچا کر دیا",
+      "ayah_number": 5,
+      "verse_key": "95:5"
+    },
+    {
+      "number": 6,
+      "text": "لیکن جو لوگ ایمان ﻻئے اور (پھر) نیک عمل کیے تو ان کے لئے ایسا اجر ہے جو کبھی ختم نہ ہوگا",
+      "ayah_number": 6,
+      "verse_key": "95:6"
+    },
+    {
+      "number": 7,
+      "text": "پس تجھے اب روز جزا کے جھٹلانے پر کون سی چیز آماده کرتی ہے",
+      "ayah_number": 7,
+      "verse_key": "95:7"
+    },
+    {
+      "number": 8,
+      "text": "کیا اللہ تعالیٰ (سب) حاکموں کا حاکم نہیں ہے",
+      "ayah_number": 8,
+      "verse_key": "95:8"
+    }
+  ]
+}

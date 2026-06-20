@@ -1,0 +1,50 @@
+{
+  "number": 114,
+  "name": "An-Naas",
+  "arabicName": "سُورَةُ النَّاسِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 6,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "114:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "کہہ دو میں لوگوں کے رب کی پناہ میں آیا",
+      "ayah_number": 1,
+      "verse_key": "114:1"
+    },
+    {
+      "number": 2,
+      "text": "لوگوں کے بادشاہ کی",
+      "ayah_number": 2,
+      "verse_key": "114:2"
+    },
+    {
+      "number": 3,
+      "text": "لوگوں کے معبود کی",
+      "ayah_number": 3,
+      "verse_key": "114:3"
+    },
+    {
+      "number": 4,
+      "text": "اس شیطان کے شر سے جووسوسہ ڈال کر چھپ جاتا ہے",
+      "ayah_number": 4,
+      "verse_key": "114:4"
+    },
+    {
+      "number": 5,
+      "text": "جو لوگوں کے سینوں میں وسوسہ ڈالتا ہے",
+      "ayah_number": 5,
+      "verse_key": "114:5"
+    },
+    {
+      "number": 6,
+      "text": "جنوں اور انسانوں میں سے",
+      "ayah_number": 6,
+      "verse_key": "114:6"
+    }
+  ]
+}

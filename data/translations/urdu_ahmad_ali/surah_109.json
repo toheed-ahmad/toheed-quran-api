@@ -1,0 +1,50 @@
+{
+  "number": 109,
+  "name": "Al-Kaafiroon",
+  "arabicName": "سُورَةُ الكَافِرُونَ",
+  "revelationType": "Meccan",
+  "totalAyahs": 6,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "109:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "کہہ دو اے کافرو",
+      "ayah_number": 1,
+      "verse_key": "109:1"
+    },
+    {
+      "number": 2,
+      "text": "نہ تومیں تمہارے معبودوں کی عبادت کرتا ہوں",
+      "ayah_number": 2,
+      "verse_key": "109:2"
+    },
+    {
+      "number": 3,
+      "text": "اور نہ تم ہی میرے معبود کی عبادت کرتے ہو",
+      "ayah_number": 3,
+      "verse_key": "109:3"
+    },
+    {
+      "number": 4,
+      "text": "اور نہ میں تمہارے معبودوں کی عبادت کروں گا",
+      "ayah_number": 4,
+      "verse_key": "109:4"
+    },
+    {
+      "number": 5,
+      "text": "اور نہ تم میرے معبود کی عبادت کرو گے",
+      "ayah_number": 5,
+      "verse_key": "109:5"
+    },
+    {
+      "number": 6,
+      "text": "تمہارے لیے تمہارا دین ہے اور میرے لیے میرا دین",
+      "ayah_number": 6,
+      "verse_key": "109:6"
+    }
+  ]
+}

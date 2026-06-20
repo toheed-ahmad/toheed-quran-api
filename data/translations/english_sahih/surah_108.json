@@ -1,0 +1,30 @@
+{
+  "number": 108,
+  "name": "Al-Kawthar",
+  "arabicName": "سُورَةُ الكَوۡثَرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 3,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
+      "ayah_number": 1,
+      "verse_key": "108:1"
+    },
+    {
+      "number": 2,
+      "text": "So pray to your Lord and sacrifice [to Him alone].",
+      "ayah_number": 2,
+      "verse_key": "108:2"
+    },
+    {
+      "number": 3,
+      "text": "Indeed, your enemy is the one cut off.",
+      "ayah_number": 3,
+      "verse_key": "108:3"
+    }
+  ]
+}

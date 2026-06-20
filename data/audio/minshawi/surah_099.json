@@ -1,0 +1,67 @@
+{
+  "number": 99,
+  "name": "Az-Zalzala",
+  "arabicName": "سُورَةُ الزَّلۡزَلَةِ",
+  "revelationType": "Medinan",
+  "totalAyahs": 8,
+  "reciter": "Muhammad Siddiq Al-Minshawi",
+  "edition": "ar.minshawi",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6139,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6139.mp3",
+      "ayah_number": 1,
+      "verse_key": "99:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6140,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6140.mp3",
+      "ayah_number": 2,
+      "verse_key": "99:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6141,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6141.mp3",
+      "ayah_number": 3,
+      "verse_key": "99:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 6142,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6142.mp3",
+      "ayah_number": 4,
+      "verse_key": "99:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 6143,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6143.mp3",
+      "ayah_number": 5,
+      "verse_key": "99:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 6144,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6144.mp3",
+      "ayah_number": 6,
+      "verse_key": "99:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 6145,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6145.mp3",
+      "ayah_number": 7,
+      "verse_key": "99:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 6146,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6146.mp3",
+      "ayah_number": 8,
+      "verse_key": "99:8"
+    }
+  ]
+}

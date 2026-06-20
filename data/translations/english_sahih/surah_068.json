@@ -1,0 +1,324 @@
+{
+  "number": 68,
+  "name": "Al-Qalam",
+  "arabicName": "سُورَةُ القَلَمِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 52,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "Nun. By the pen and what they inscribe,",
+      "ayah_number": 1,
+      "verse_key": "68:1"
+    },
+    {
+      "number": 2,
+      "text": "You are not, [O Muhammad], by the favor of your Lord, a madman.",
+      "ayah_number": 2,
+      "verse_key": "68:2"
+    },
+    {
+      "number": 3,
+      "text": "And indeed, for you is a reward uninterrupted.",
+      "ayah_number": 3,
+      "verse_key": "68:3"
+    },
+    {
+      "number": 4,
+      "text": "And indeed, you are of a great moral character.",
+      "ayah_number": 4,
+      "verse_key": "68:4"
+    },
+    {
+      "number": 5,
+      "text": "So you will see and they will see",
+      "ayah_number": 5,
+      "verse_key": "68:5"
+    },
+    {
+      "number": 6,
+      "text": "Which of you is the afflicted [by a devil].",
+      "ayah_number": 6,
+      "verse_key": "68:6"
+    },
+    {
+      "number": 7,
+      "text": "Indeed, your Lord is most knowing of who has gone astray from His way, and He is most knowing of the [rightly] guided.",
+      "ayah_number": 7,
+      "verse_key": "68:7"
+    },
+    {
+      "number": 8,
+      "text": "Then do not obey the deniers.",
+      "ayah_number": 8,
+      "verse_key": "68:8"
+    },
+    {
+      "number": 9,
+      "text": "They wish that you would soften [in your position], so they would soften [toward you].",
+      "ayah_number": 9,
+      "verse_key": "68:9"
+    },
+    {
+      "number": 10,
+      "text": "And do not obey every worthless habitual swearer",
+      "ayah_number": 10,
+      "verse_key": "68:10"
+    },
+    {
+      "number": 11,
+      "text": "[And] scorner, going about with malicious gossip -",
+      "ayah_number": 11,
+      "verse_key": "68:11"
+    },
+    {
+      "number": 12,
+      "text": "A preventer of good, transgressing and sinful,",
+      "ayah_number": 12,
+      "verse_key": "68:12"
+    },
+    {
+      "number": 13,
+      "text": "Cruel, moreover, and an illegitimate pretender.",
+      "ayah_number": 13,
+      "verse_key": "68:13"
+    },
+    {
+      "number": 14,
+      "text": "Because he is a possessor of wealth and children,",
+      "ayah_number": 14,
+      "verse_key": "68:14"
+    },
+    {
+      "number": 15,
+      "text": "When Our verses are recited to him, he says, \"Legends of the former peoples.\"",
+      "ayah_number": 15,
+      "verse_key": "68:15"
+    },
+    {
+      "number": 16,
+      "text": "We will brand him upon the snout.",
+      "ayah_number": 16,
+      "verse_key": "68:16"
+    },
+    {
+      "number": 17,
+      "text": "Indeed, We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning",
+      "ayah_number": 17,
+      "verse_key": "68:17"
+    },
+    {
+      "number": 18,
+      "text": "Without making exception.",
+      "ayah_number": 18,
+      "verse_key": "68:18"
+    },
+    {
+      "number": 19,
+      "text": "So there came upon the garden an affliction from your Lord while they were asleep.",
+      "ayah_number": 19,
+      "verse_key": "68:19"
+    },
+    {
+      "number": 20,
+      "text": "And it became as though reaped.",
+      "ayah_number": 20,
+      "verse_key": "68:20"
+    },
+    {
+      "number": 21,
+      "text": "And they called one another at morning,",
+      "ayah_number": 21,
+      "verse_key": "68:21"
+    },
+    {
+      "number": 22,
+      "text": "[Saying], \"Go early to your crop if you would cut the fruit.\"",
+      "ayah_number": 22,
+      "verse_key": "68:22"
+    },
+    {
+      "number": 23,
+      "text": "So they set out, while lowering their voices,",
+      "ayah_number": 23,
+      "verse_key": "68:23"
+    },
+    {
+      "number": 24,
+      "text": "[Saying], \"There will surely not enter it today upon you [any] poor person.\"",
+      "ayah_number": 24,
+      "verse_key": "68:24"
+    },
+    {
+      "number": 25,
+      "text": "And they went early in determination, [assuming themselves] able.",
+      "ayah_number": 25,
+      "verse_key": "68:25"
+    },
+    {
+      "number": 26,
+      "text": "But when they saw it, they said, \"Indeed, we are lost;",
+      "ayah_number": 26,
+      "verse_key": "68:26"
+    },
+    {
+      "number": 27,
+      "text": "Rather, we have been deprived.\"",
+      "ayah_number": 27,
+      "verse_key": "68:27"
+    },
+    {
+      "number": 28,
+      "text": "The most moderate of them said, \"Did I not say to you, 'Why do you not exalt [Allah]?' \"",
+      "ayah_number": 28,
+      "verse_key": "68:28"
+    },
+    {
+      "number": 29,
+      "text": "They said, \"Exalted is our Lord! Indeed, we were wrongdoers.\"",
+      "ayah_number": 29,
+      "verse_key": "68:29"
+    },
+    {
+      "number": 30,
+      "text": "Then they approached one another, blaming each other.",
+      "ayah_number": 30,
+      "verse_key": "68:30"
+    },
+    {
+      "number": 31,
+      "text": "They said, \"O woe to us; indeed we were transgressors.",
+      "ayah_number": 31,
+      "verse_key": "68:31"
+    },
+    {
+      "number": 32,
+      "text": "Perhaps our Lord will substitute for us [one] better than it. Indeed, we are toward our Lord desirous.\"",
+      "ayah_number": 32,
+      "verse_key": "68:32"
+    },
+    {
+      "number": 33,
+      "text": "Such is the punishment [of this world]. And the punishment of the Hereafter is greater, if they only knew.",
+      "ayah_number": 33,
+      "verse_key": "68:33"
+    },
+    {
+      "number": 34,
+      "text": "Indeed, for the righteous with their Lord are the Gardens of Pleasure.",
+      "ayah_number": 34,
+      "verse_key": "68:34"
+    },
+    {
+      "number": 35,
+      "text": "Then will We treat the Muslims like the criminals?",
+      "ayah_number": 35,
+      "verse_key": "68:35"
+    },
+    {
+      "number": 36,
+      "text": "What is [the matter] with you? How do you judge?",
+      "ayah_number": 36,
+      "verse_key": "68:36"
+    },
+    {
+      "number": 37,
+      "text": "Or do you have a scripture in which you learn",
+      "ayah_number": 37,
+      "verse_key": "68:37"
+    },
+    {
+      "number": 38,
+      "text": "That indeed for you is whatever you choose?",
+      "ayah_number": 38,
+      "verse_key": "68:38"
+    },
+    {
+      "number": 39,
+      "text": "Or do you have oaths [binding] upon Us, extending until the Day of Resurrection, that indeed for you is whatever you judge?",
+      "ayah_number": 39,
+      "verse_key": "68:39"
+    },
+    {
+      "number": 40,
+      "text": "Ask them which of them, for that [claim], is responsible.",
+      "ayah_number": 40,
+      "verse_key": "68:40"
+    },
+    {
+      "number": 41,
+      "text": "Or do they have partners? Then let them bring their partners, if they should be truthful.",
+      "ayah_number": 41,
+      "verse_key": "68:41"
+    },
+    {
+      "number": 42,
+      "text": "The Day the shin will be uncovered and they are invited to prostration but the disbelievers will not be able,",
+      "ayah_number": 42,
+      "verse_key": "68:42"
+    },
+    {
+      "number": 43,
+      "text": "Their eyes humbled, humiliation will cover them. And they used to be invited to prostration while they were sound.",
+      "ayah_number": 43,
+      "verse_key": "68:43"
+    },
+    {
+      "number": 44,
+      "text": "So leave Me, [O Muhammad], with [the matter of] whoever denies the Qur'an. We will progressively lead them [to punishment] from where they do not know.",
+      "ayah_number": 44,
+      "verse_key": "68:44"
+    },
+    {
+      "number": 45,
+      "text": "And I will give them time. Indeed, My plan is firm.",
+      "ayah_number": 45,
+      "verse_key": "68:45"
+    },
+    {
+      "number": 46,
+      "text": "Or do you ask of them a payment, so they are by debt burdened down?",
+      "ayah_number": 46,
+      "verse_key": "68:46"
+    },
+    {
+      "number": 47,
+      "text": "Or have they [knowledge of] the unseen, so they write [it] down?",
+      "ayah_number": 47,
+      "verse_key": "68:47"
+    },
+    {
+      "number": 48,
+      "text": "Then be patient for the decision of your Lord, [O Muhammad], and be not like the companion of the fish when he called out while he was distressed.",
+      "ayah_number": 48,
+      "verse_key": "68:48"
+    },
+    {
+      "number": 49,
+      "text": "If not that a favor from his Lord overtook him, he would have been thrown onto the naked shore while he was censured.",
+      "ayah_number": 49,
+      "verse_key": "68:49"
+    },
+    {
+      "number": 50,
+      "text": "And his Lord chose him and made him of the righteous.",
+      "ayah_number": 50,
+      "verse_key": "68:50"
+    },
+    {
+      "number": 51,
+      "text": "And indeed, those who disbelieve would almost make you slip with their eyes when they hear the message, and they say, \"Indeed, he is mad.\"",
+      "ayah_number": 51,
+      "verse_key": "68:51"
+    },
+    {
+      "number": 52,
+      "text": "But it is not except a reminder to the worlds.",
+      "ayah_number": 52,
+      "verse_key": "68:52"
+    }
+  ]
+}

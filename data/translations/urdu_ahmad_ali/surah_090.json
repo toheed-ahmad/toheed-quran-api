@@ -1,0 +1,134 @@
+{
+  "number": 90,
+  "name": "Al-Balad",
+  "arabicName": "سُورَةُ البَلَدِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 20,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "90:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "ا س شہر کی قسم ہے",
+      "ayah_number": 1,
+      "verse_key": "90:1"
+    },
+    {
+      "number": 2,
+      "text": "حالانکہ آپ اس شہر میں مقیم ہیں",
+      "ayah_number": 2,
+      "verse_key": "90:2"
+    },
+    {
+      "number": 3,
+      "text": "اورباپ کی اور اس کی اولاد کی قسم ہے",
+      "ayah_number": 3,
+      "verse_key": "90:3"
+    },
+    {
+      "number": 4,
+      "text": "کہ بےشک ہم نے انسان کو مصیبت میں پیدا کیا ہے",
+      "ayah_number": 4,
+      "verse_key": "90:4"
+    },
+    {
+      "number": 5,
+      "text": "کیا وہ خیال کرتا ہےکہ اس پر کوئی بھی ہرگز قابو نہ پا سکے گا",
+      "ayah_number": 5,
+      "verse_key": "90:5"
+    },
+    {
+      "number": 6,
+      "text": "کہتا ہے کہ میں نے مال برباد کر ڈالا",
+      "ayah_number": 6,
+      "verse_key": "90:6"
+    },
+    {
+      "number": 7,
+      "text": "کیا وہ خیال کرتا ہے کہ اسے کسی نے بھی نہیں دیکھا",
+      "ayah_number": 7,
+      "verse_key": "90:7"
+    },
+    {
+      "number": 8,
+      "text": "کیا ہم نے اس کے لیے دو آنکھیں نہیں بنائیں",
+      "ayah_number": 8,
+      "verse_key": "90:8"
+    },
+    {
+      "number": 9,
+      "text": "اور زبان اور دو ہونٹ",
+      "ayah_number": 9,
+      "verse_key": "90:9"
+    },
+    {
+      "number": 10,
+      "text": "اور ہم نے اسے دونوں راستے دکھائے",
+      "ayah_number": 10,
+      "verse_key": "90:10"
+    },
+    {
+      "number": 11,
+      "text": "پس وہ (دین کی) گھاٹی میں سے نہ ہو کر نکلا",
+      "ayah_number": 11,
+      "verse_key": "90:11"
+    },
+    {
+      "number": 12,
+      "text": "اور آپ کو کیا معلوم کہ وہ گھاٹی کیا ہے",
+      "ayah_number": 12,
+      "verse_key": "90:12"
+    },
+    {
+      "number": 13,
+      "text": "گردن کا چھوڑانا",
+      "ayah_number": 13,
+      "verse_key": "90:13"
+    },
+    {
+      "number": 14,
+      "text": "یا بھوک کے دن میں کھلانا",
+      "ayah_number": 14,
+      "verse_key": "90:14"
+    },
+    {
+      "number": 15,
+      "text": "کسی رشتہ دار یتیم کو",
+      "ayah_number": 15,
+      "verse_key": "90:15"
+    },
+    {
+      "number": 16,
+      "text": "یا کسی خاک نشین مسکین کو",
+      "ayah_number": 16,
+      "verse_key": "90:16"
+    },
+    {
+      "number": 17,
+      "text": "پھر وہ ان میں سے ہو جو ایمان لائے اور انہوں نے ایک دوسرے کو صبر کی وصیت کی اور رحم کرنے کی وصیت کی",
+      "ayah_number": 17,
+      "verse_key": "90:17"
+    },
+    {
+      "number": 18,
+      "text": "یہی لوگ دائیں والے ہیں",
+      "ayah_number": 18,
+      "verse_key": "90:18"
+    },
+    {
+      "number": 19,
+      "text": "اور جنہوں نے ہماری آیتوں سے انکار کیا وہی بائیں والے ہیں",
+      "ayah_number": 19,
+      "verse_key": "90:19"
+    },
+    {
+      "number": 20,
+      "text": "انہیں پر چاروں طرف سے بند کی ہوئی آگ ہے",
+      "ayah_number": 20,
+      "verse_key": "90:20"
+    }
+  ]
+}

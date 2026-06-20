@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toheed Quran Dashboard | مکمل قرآنی ڈیش بورڈ</title>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cairo:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Cairo', 'Amiri', sans-serif;
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            min-height: 100vh;
+            color: #fff;
+        }
+
+        /* Navbar */
+        .navbar {
+            background: rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(10px);
+            padding: 1rem 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #ffd89b, #c7e9fb);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+
+        .logo i {
+            color: #ffd89b;
+            margin-left: 10px;
+        }
+
+        .search-box {
+            display: flex;
+            gap: 10px;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 0.5rem 1rem;
+            border-radius: 50px;
+        }
+
+        .search-box input {
+            background: transparent;
+            border: none;
+            color: white;
+            font-size: 1rem;
+            outline: none;
+            font-family: 'Cairo', sans-serif;
+        }
+
+        .search-box input::placeholder {
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .search-box button {
+            background: none;
+            border: none;
+            color: #ffd89b;
+            cursor: pointer;
+            font-size: 1.2rem;
+        }
+
+        /* Main Container */
+        .main-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            gap: 2rem;
+        }
+
+        /* Sidebar - Surah List */
+        .sidebar {
+            background: rgba(255, 255, 255, 0.08);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 1rem;
+            height: calc(100vh - 100px);
+            position: sticky;
+            top: 80px;
+            overflow-y: auto;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .sidebar h3 {
+            font-size: 1.3rem;
+            margin-bottom: 1rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #ffd89b;
+            display: inline-block;
+        }
+
+        .surah-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .surah-item {
+            background: rgba(255, 255, 255, 0.05);
+            padding: 0.8rem 1rem;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border: 1px solid transparent;
+        }
+
+        .surah-item:hover {
+            background: rgba(255, 216, 155, 0.2);
+            transform: translateX(-5px);
+            border-color: #ffd89b;
+        }
+
+        .surah-item.active {
+            background: linear-gradient(135deg, rgba(255, 216, 155, 0.3), rgba(199, 233, 251, 0.2));
+            border-color: #ffd89b;
+        }
+
+        .surah-number {
+            background: #ffd89b;
+            color: #1a1a2e;
+            width: 35px;
+            height: 35px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            font-weight: bold;
+        }
+
+        .surah-name {
+            flex: 1;
+            margin-right: 15px;
+        }
+
+        .surah-name-ar {
+            font-family: 'Amiri', serif;
+            font-size: 1.1rem;
+            font-weight: 600;
+        }
+
+        .surah-name-en {
+            font-size: 0.8rem;
+            opacity: 0.7;
+        }
+
+        /* Main Content */
+        .content-area {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 2rem;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        /* Surah Header */
+        .surah-header {
+            text-align: center;
+            padding: 2rem;
+            background: linear-gradient(135deg, rgba(255, 216, 155, 0.1), rgba(199, 233, 251, 0.05));
+            border-radius: 20px;
+            margin-bottom: 2rem;
+        }
+
+        .surah-arabic-name {
+            font-family: 'Amiri', serif;
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #ffd89b;
+        }
+
+        .surah-info {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .surah-info span {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 0.3rem 1rem;
+            border-radius: 20px;
+            font-size: 0.9rem;
+        }
+
+        /* Ayah Cards */
+        .ayah-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            transition: all 0.3s ease;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .ayah-card:hover {
+            background: rgba(255, 255, 255, 0.08);
+            border-color: rgba(255, 216, 155, 0.3);
+        }
+
+        .ayah-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .ayah-number {
+            background: #ffd89b;
+            color: #1a1a2e;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            font-weight: bold;
+        }
+
+        .ayah-actions {
+            display: flex;
+            gap: 10px;
+        }
+
+        .btn {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+            font-family: 'Cairo', sans-serif;
+        }
+
+        .btn-edit {
+            background: #4c9aff;
+            color: white;
+        }
+
+        .btn-edit:hover {
+            background: #3a7bcb;
+            transform: scale(1.05);
+        }
+
+        .btn-delete {
+            background: #ff6b6b;
+            color: white;
+        }
+
+        .btn-delete:hover {
+            background: #ee5a5a;
+            transform: scale(1.05);
+        }
+
+        .btn-save {
+            background: #51cf66;
+            color: white;
+        }
+
+        .btn-cancel {
+            background: #868e96;
+            color: white;
+        }
+
+        .arabic-text {
+            font-family: 'Amiri', serif;
+            font-size: 1.8rem;
+            line-height: 2.5rem;
+            text-align: center;
+            margin: 1rem 0;
+            color: #ffd89b;
+            direction: rtl;
+        }
+
+        .section-title {
+            color: #ffd89b;
+            font-size: 1.1rem;
+            margin: 1rem 0 0.5rem 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding-bottom: 5px;
+        }
+
+        .translations, .tafseers {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 1rem;
+            margin-top: 0.5rem;
+        }
+
+        .translation-box, .tafseer-box {
+            background: rgba(0, 0, 0, 0.2);
+            padding: 1rem;
+            border-radius: 12px;
+            border-right: 3px solid #ffd89b;
+        }
+
+        .tafseer-box {
+            border-right: 3px solid #c7e9fb;
+        }
+
+        .translation-box h4, .tafseer-box h4 {
+            color: #ffd89b;
+            margin-bottom: 0.5rem;
+            font-size: 0.95rem;
+        }
+
+        .tafseer-box h4 {
+            color: #c7e9fb;
+        }
+
+        .translation-box p, .tafseer-box p {
+            line-height: 1.6;
+            font-size: 0.95rem;
+            white-space: pre-wrap;
+        }
+
+        /* Edit Mode Textarea */
+        .edit-mode textarea {
+            width: 100%;
+            height: 100px;
+            padding: 0.8rem;
+            border-radius: 8px;
+            border: 1px solid #ffd89b;
+            background: rgba(0, 0, 0, 0.7);
+            color: white;
+            font-family: 'Cairo', 'Amiri', sans-serif;
+            font-size: 0.95rem;
+            resize: vertical;
+        }
+
+        /* Loading & Messages */
+        .loading {
+            text-align: center;
+            padding: 3rem;
+        }
+
+        .loading i {
+            font-size: 3rem;
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            background: #51cf66;
+            color: white;
+            padding: 1rem 2rem;
+            border-radius: 12px;
+            z-index: 2000;
+            animation: slideIn 0.3s ease;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .toast.error {
+            background: #ff6b6b;
+        }
+
+        @keyframes slideIn {
+            from { transform: translateX(100%); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: rgba(255, 255, 255, 0.1); border-radius: 10px; }
+        ::-webkit-scrollbar-thumb { background: #ffd89b; border-radius: 10px; }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .main-container { grid-template-columns: 1fr; }
+            .sidebar { height: auto; position: relative; top: 0; }
+            .nav-container { flex-direction: column; }
+        }
+
+        /* Add Ayah Button & Modal */
+        .btn-add {
+            background: #51cf66;
+            color: white;
+            width: 100%;
+            margin-top: 1rem;
+            padding: 1rem;
+            font-size: 1rem;
+        }
+
+        .modal {
+            position: fixed;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: rgba(0, 0, 0, 0.85);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 3000;
+        }
+
+        .modal-content {
+            background: #1a1a2e;
+            padding: 2rem;
+            border-radius: 20px;
+            max-width: 600px;
+            width: 90%;
+            max-height: 90vh;
+            overflow-y: auto;
+            border: 1px solid #ffd89b;
+        }
+
+        .modal-content h3 {
+            margin-bottom: 1rem;
+            color: #ffd89b;
+        }
+
+        .modal-content input, .modal-content textarea {
+            width: 100%;
+            padding: 0.8rem;
+            margin: 0.5rem 0;
+            border-radius: 8px;
+            border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(0, 0, 0, 0.5);
+            color: white;
+            font-family: inherit;
+        }
+
+        .modal-content textarea { height: 80px; resize: vertical; }
+        .modal-actions { display: flex; gap: 10px; margin-top: 1rem; }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <i class="fas fa-quran"></i>
+                Toheed Quran Dashboard
+            </div>
+            <div class="search-box">
+                <input type="text" id="searchInput" oninput="searchSurahs()" placeholder="سورت کا نام تلاش کریں...">
+                <button onclick="searchSurahs()"><i class="fas fa-search"></i></button>
+            </div>
+        </div>
+    </nav>
+
+    <div class="main-container">
+        <aside class="sidebar">
+            <h3><i class="fas fa-list"></i> سورتیں (114)</h3>
+            <div class="surah-list" id="surahList">
+                <div class="loading"><i class="fas fa-spinner"></i> Loading...</div>
+            </div>
+        </aside>
+
+        <main class="content-area" id="contentArea">
+            <div style="text-align: center; padding: 3rem;">
+                <i class="fas fa-quran" style="font-size: 4rem; opacity: 0.5; color: #ffd89b;"></i>
+                <h2 style="margin-top:1rem;">قرآن پاک ڈیش بورڈ</h2>
+                <p style="opacity:0.7; margin-top:0.5rem;">براہ کرم بائیں طرف موجود فہرست سے کوئی سورت منتخب کریں۔</p>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        let currentSurah = null;
+        let editMode = false;
+        let currentEditingAyah = null;
+
+        // Load all surahs list
+        async function loadSurahs() {
+            try {
+                const response = await fetch('/api/dashboard/surahs');
+                const data = await response.json();
+                if (data.success) {
+                    displaySurahList(data.data);
+                } else {
+                    showToast('سورتوں کی لسٹ لوڈ کرنے میں ناکامی۔', 'error');
+                }
+            } catch (error) {
+                console.error('Error loading surahs:', error);
+                showToast('سرور سے رابطہ کرنے میں ناکامی۔', 'error');
+            }
+        }
+
+        function displaySurahList(surahs) {
+            const container = document.getElementById('surahList');
+            container.innerHTML = '';
+            
+            surahs.forEach(surah => {
+                const surahDiv = document.createElement('div');
+                surahDiv.className = 'surah-item';
+                surahDiv.id = `surah-sidebar-${surah.id}`;
+                surahDiv.onclick = () => {
+                    document.querySelectorAll('.surah-item').forEach(item => item.classList.remove('active'));
+                    surahDiv.classList.add('active');
+                    loadSurah(surah.id);
+                };
+                surahDiv.innerHTML = `
+                    <div class="surah-number">${surah.id}</div>
+                    <div class="surah-name">
+                        <div class="surah-name-ar">${surah.name}</div>
+                        <div class="surah-name-en">${surah.englishName}</div>
+                    </div>
+                    <i class="fas fa-chevron-left"></i>
+                `;
+                container.appendChild(surahDiv);
+            });
+        }
+
+        async function loadSurah(surahId) {
+            try {
+                showLoading();
+                const response = await fetch(`/api/dashboard/surah/${surahId}`);
+                const data = await response.json();
+                if (data.success) {
+                    currentSurah = data.data;
+                    displaySurahContent(currentSurah);
+                } else {
+                    showToast('سورت کا ڈیٹا لوڈ نہیں ہو سکا۔', 'error');
+                }
+            } catch (error) {
+                console.error('Error loading surah:', error);
+                showToast('ڈیٹا لوڈ کرنے میں خرابی۔', 'error');
+            }
+        }
+
+        function displaySurahContent(surah) {
+            const container = document.getElementById('contentArea');
+            const metadata = surah.metadata;
+            
+            let ayahsHtml = '';
+            surah.ayahs.forEach(ayah => {
+                ayahsHtml += `
+                    <div class="ayah-card" id="ayah-${ayah.ayahNumberInSurah}">
+                        <div class="ayah-header">
+                            <div class="ayah-number">${ayah.ayahNumberInSurah}</div>
+                            <div class="ayah-actions">
+                                <button class="btn btn-edit" onclick="enableEditMode(${ayah.ayahNumberInSurah})">
+                                    <i class="fas fa-edit"></i> Edit
+                                </button>
+                                <button class="btn btn-delete" onclick="deleteAyah(${metadata.surahNumber}, ${ayah.ayahNumberInSurah})">
+                                    <i class="fas fa-trash"></i> Delete
+                                </button>
+                            </div>
+                        </div>
+                        <div class="arabic-text">${ayah.arabic}</div>
+                        
+                        <div class="section-title"><i class="fas fa-language"></i> تراجم (Translations)</div>
+                        <div class="translations">
+                            <div class="translation-box">
+                                <h4>اردو ترجمہ</h4>
+                                <p class="translation-ur-${ayah.ayahNumberInSurah}">${ayah.translations?.urdu || 'دستیاب نہیں'}</p>
+                            </div>
+                            <div class="translation-box">
+                                <h4>English Translation</h4>
+                                <p class="translation-en-${ayah.ayahNumberInSurah}">${ayah.translations?.english || 'N/A'}</p>
+                            </div>
+                            <div class="translation-box">
+                                <h4>हिंदी अनुवाद</h4>
+                                <p class="translation-hi-${ayah.ayahNumberInSurah}">${ayah.translations?.hindi || 'उपलब्ध नहीं है'}</p>
+                            </div>
+                        </div>
+
+                        <div class="section-title"><i class="fas fa-book"></i> تفاسیر (Tafseer)</div>
+                        <div class="tafseers">
+                            <div class="tafseer-box">
+                                <h4>اردو تفسیر</h4>
+                                <p class="tafseer-ur-${ayah.ayahNumberInSurah}">${ayah.tafseer?.urdu || 'دستیاب نہیں'}</p>
+                            </div>
+                            <div class="tafseer-box">
+                                <h4>English Tafseer</h4>
+                                <p class="tafseer-en-${ayah.ayahNumberInSurah}">${ayah.tafseer?.english || 'N/A'}</p>
+                            </div>
+                            <div class="tafseer-box">
+                                <h4>हिंदी तफ़्सीर</h4>
+                                <p class="tafseer-hi-${ayah.ayahNumberInSurah}">${ayah.tafseer?.hindi || 'उपलब्ध नहीं है'}</p>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            });
+            
+            container.innerHTML = `
+                <div class="surah-header">
+                    <div class="surah-arabic-name">${metadata.surahNameArabic}</div>
+                    <h2>${metadata.surahNameEnglish} (${metadata.surahNameTranslation})</h2>
+                    <div class="surah-info">
+                        <span><i class="fas fa-map-marker-alt"></i> ${metadata.revelationType}</span>
+                        <span><i class="fas fa-list-ol"></i> ${metadata.numberOfAyahs} Ayahs</span>
+                        <span><i class="fas fa-hashtag"></i> Surah ${metadata.surahNumber}</span>
+                    </div>
+                </div>
+                ${ayahsHtml}
+                <button class="btn btn-add" onclick="showAddAyahModal()">
+                    <i class="fas fa-plus"></i> Add New Ayah (نئی آیت شامل کریں)
+                </button>
+            `;
+        }
+
+        function enableEditMode(ayahNumber) {
+            if (editMode && currentEditingAyah === ayahNumber) {
+                disableEditMode();
+                return;
+            }
+            
+            disableEditMode();
+            editMode = true;
+            currentEditingAyah = ayahNumber;
+            
+            const card = document.getElementById(`ayah-${ayahNumber}`);
+            
+            const urduText = card.querySelector(`.translation-ur-${ayahNumber}`).innerText;
+            const englishText = card.querySelector(`.translation-en-${ayahNumber}`).innerText;
+            const hindiText = card.querySelector(`.translation-hi-${ayahNumber}`).innerText;
+            
+            const tafseerUrdu = card.querySelector(`.tafseer-ur-${ayahNumber}`).innerText;
+            const tafseerEnglish = card.querySelector(`.tafseer-en-${ayahNumber}`).innerText;
+            const tafseerHindi = card.querySelector(`.tafseer-hi-${ayahNumber}`).innerText;
+            
+            card.classList.add('edit-mode');
+            card.querySelector('.ayah-actions').innerHTML = `
+                <button class="btn btn-save" onclick="saveAyah(${currentSurah.metadata.surahNumber}, ${ayahNumber})">
+                    <i class="fas fa-save"></i> Save
+                </button>
+                <button class="btn btn-cancel" onclick="disableEditMode()">
+                    <i class="fas fa-times"></i> Cancel
+                </button>
+            `;
+            
+            // Replace Translation Texts with Textareas
+            card.querySelector('.translations').innerHTML = `
+                <div class="translation-box">
+                    <h4>اردو ترجمہ</h4>
+                    <textarea id="edit-urdu-${ayahNumber}">${urduText === 'دستیاب نہیں' ? '' : urduText}</textarea>
+                </div>
+                <div class="translation-box">
+                    <h4>English Translation</h4>
+                    <textarea id="edit-english-${ayahNumber}">${englishText === 'N/A' ? '' : englishText}</textarea>
+                </div>
+                <div class="translation-box">
+                    <h4>हिंदी अनुवाद</h4>
+                    <textarea id="edit-hindi-${ayahNumber}">${hindiText === 'उपलब्ध नहीं है' ? '' : hindiText}</textarea>
+                </div>
+            `;
+            
+            // Replace Tafseer Texts with Textareas
+            card.querySelector('.tafseers').innerHTML = `
+                <div class="tafseer-box">
+                    <h4>اردو تفسیر</h4>
+                    <textarea id="edit-tafseer-ur-${ayahNumber}">${tafseerUrdu === 'دستیاب نہیں' ? '' : tafseerUrdu}</textarea>
+                </div>
+                <div class="tafseer-box">
+                    <h4>English Tafseer</h4>
+                    <textarea id="edit-tafseer-en-${ayahNumber}">${tafseerEnglish === 'N/A' ? '' : tafseerEnglish}</textarea>
+                </div>
+                <div class="tafseer-box">
+                    <h4>हिंदी तफ़्सीर</h4>
+                    <textarea id="edit-tafseer-hi-${ayahNumber}">${tafseerHindi === 'उपलब्ध नहीं ہے' ? '' : tafseerHindi}</textarea>
+                </div>
+            `;
+        }
+        
+        async function saveAyah(surahId, ayahNumber) {
+            const formattedSurahId = surahId.toString().padStart(3, '0');
+            
+            const payload = {
+                translations: {
+                    urdu: document.getElementById(`edit-urdu-${ayahNumber}`).value,
+                    english: document.getElementById(`edit-english-${ayahNumber}`).value,
+                    hindi: document.getElementById(`edit-hindi-${ayahNumber}`).value
+                },
+                tafseer: {
+                    urdu: document.getElementById(`edit-tafseer-ur-${ayahNumber}`).value,
+                    english: document.getElementById(`edit-tafseer-en-${ayahNumber}`).value,
+                    hindi: document.getElementById(`edit-tafseer-hi-${ayahNumber}`).value
+                }
+            };
+            
+            try {
+                const response = await fetch(`/api/dashboard/surah/${formattedSurahId}/ayah/${ayahNumber}`, {
+                    method: 'PUT',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(payload)
+                });
+                
+                if (response.ok) {
+                    showToast('آیت کا ڈیٹا کامیابی سے اپڈیٹ ہو گیا۔');
+                    editMode = false;
+                    currentEditingAyah = null;
+                    loadSurah(surahId);
+                } else {
+                    showToast('ڈیٹا محفوظ کرنے میں ناکامی آئی۔', 'error');
+                }
+            } catch (error) {
+                console.error('Error saving ayah:', error);
+                showToast('سرور میں تکنیکی خرابی۔', 'error');
+            }
+        }
+        
+        async function deleteAyah(surahId, ayahNumber) {
+            if (confirm('کیا آپ واقعی یہ آیت حذف کرنا چاہتے ہیں؟')) {
+                try {
+                    const formattedSurahId = surahId.toString().padStart(3, '0');
+                    const response = await fetch(`/api/dashboard/surah/${formattedSurahId}/ayah/${ayahNumber}`, {
+                        method: 'DELETE'
+                    });
+                    
+                    if (response.ok) {
+                        showToast('آیت کامیابی سے حذف کر دی گئی۔');
+                        loadSurah(surahId);
+                    } else {
+                        showToast('آیت حذف کرنے میں ناکامی۔', 'error');
+                    }
+                } catch (error) {
+                    console.error('Error deleting ayah:', error);
+                    showToast('حذف کرنے کے دوران ایرر آیا۔', 'error');
+                }
+            }
+        }
+        
+        function disableEditMode() {
+            editMode = false;
+            currentEditingAyah = null;
+            if (currentSurah) {
+                displaySurahContent(currentSurah);
+            }
+        }
+        
+        function showAddAyahModal() {
+            const modalHtml = `
+                <div class="modal" id="addAyahModal">
+                    <div class="modal-content">
+                        <h3>Add New Ayah (نئی آیت شامل کریں)</h3>
+                        
+                        <label>عربی متن (Arabic Text)</label>
+                        <textarea id="newArabicText" placeholder="یہاں عربی آیت لکھیں..." dir="rtl"></textarea>
+                        
+                        <label>اردو ترجمہ</label>
+                        <textarea id="newUrduTranslation" placeholder="اردو ترجمہ لکھیں..."></textarea>
+                        
+                        <label>English Translation</label>
+                        <textarea id="newEnglishTranslation" placeholder="Enter English Translation..."></textarea>
+                        
+                        <label>हिंदी अनुवाद</label>
+                        <textarea id="newHindiTranslation" placeholder="हिंदी अनुवाद लिखें..."></textarea>
+                        
+                        <label>اردو تفسیر</label>
+                        <textarea id="newUrduTafseer" placeholder="اردو تفسیر لکھیں..."></textarea>
+
+                        <label>English Tafseer</label>
+                        <textarea id="newEnglishTafseer" placeholder="Enter English Tafseer..."></textarea>
+
+                        <label>हिंदी तफ़्सीर</label>
+                        <textarea id="newHindiTafseer" placeholder="हिंदी तफ़्सीर लिखें..."></textarea>
+                        
+                        <div class="modal-actions">
+                            <button class="btn btn-save" onclick="addNewAyah()">شامل کریں (Add)</button>
+                            <button class="btn btn-cancel" onclick="closeModal()">کینسل (Cancel)</button>
+                        </div>
+                    </div>
+                </div>
+            `;
+            document.body.insertAdjacentHTML('beforeend', modalHtml);
+        }
+        
+        async function addNewAyah() {
+            const nextAyahNum = currentSurah.ayahs.length + 1;
+            const newAyah = {
+                ayahNumber: nextAyahNum,
+                ayahNumberInSurah: nextAyahNum,
+                juz: 1, manzil: 1, page: 1, ruku: 1, hizbQuarter: 1, sajda: false,
+                arabic: document.getElementById('newArabicText').value,
+                translations: {
+                    urdu: document.getElementById('newUrduTranslation').value,
+                    english: document.getElementById('newEnglishTranslation').value,
+                    hindi: document.getElementById('newHindiTranslation').value
+                },
+                tafseer: {
+                    urdu: document.getElementById('newUrduTafseer').value,
+                    english: document.getElementById('newEnglishTafseer').value,
+                    hindi: document.getElementById('newHindiTafseer').value
+                }
+            };
+            
+            try {
+                const formattedSurahId = currentSurah.metadata.surahNumber.toString().padStart(3, '0');
+                const response = await fetch(`/api/dashboard/surah/${formattedSurahId}/ayah`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(newAyah)
+                });
+                
+                if (response.ok) {
+                    showToast('نئی آیت کامیابی سے شامل کر دی گئی!');
+                    closeModal();
+                    loadSurah(currentSurah.metadata.surahNumber);
+                } else {
+                    showToast('آیت شامل کرنے میں ناکامی۔', 'error');
+                }
+            } catch (error) {
+                console.error('Error adding ayah:', error);
+                showToast('سرور کے ساتھ کنکشن کی خرابی۔', 'error');
+            }
+        }
+        
+        function closeModal() {
+            const modal = document.getElementById('addAyahModal');
+            if (modal) modal.remove();
+        }
+        
+        function searchSurahs() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase().trim();
+            const surahItems = document.querySelectorAll('.surah-item');
+            
+            surahItems.forEach(item => {
+                const nameAr = item.querySelector('.surah-name-ar')?.innerText.toLowerCase() || '';
+                const nameEn = item.querySelector('.surah-name-en')?.innerText.toLowerCase() || '';
+                const id = item.querySelector('.surah-number')?.innerText || '';
+                
+                if (nameAr.includes(searchTerm) || nameEn.includes(searchTerm) || id === searchTerm) {
+                    item.style.display = 'flex';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        }
+        
+        function showLoading() {
+            const container = document.getElementById('contentArea');
+            container.innerHTML = '<div class="loading"><i class="fas fa-spinner"></i><p style="margin-top:1rem;">ڈیٹا لوڈ ہو رہا ہے، براہ کرم انتظار کریں...</p></div>';
+        }
+        
+        function showToast(message, type = 'success') {
+            // Remove previous toasts if exist
+            document.querySelectorAll('.toast').forEach(t => t.remove());
+            
+            const toast = document.createElement('div');
+            toast.className = `toast ${type}`;
+            toast.innerHTML = `<i class="fas ${type === 'success' ? 'fa-check-circle' : 'fa-exclamation-circle'}"></i> <span>${message}</span>`;
+            document.body.appendChild(toast);
+            setTimeout(() => toast.remove(), 4000);
+        }
+        
+        // Initialize App
+        loadSurahs();
+    </script>
+</body>
+</html>

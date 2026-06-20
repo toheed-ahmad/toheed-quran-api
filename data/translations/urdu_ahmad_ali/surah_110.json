@@ -1,0 +1,32 @@
+{
+  "number": 110,
+  "name": "An-Nasr",
+  "arabicName": "سُورَةُ النَّصۡرِ",
+  "revelationType": "Medinan",
+  "totalAyahs": 3,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "110:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "جب الله کی مدد اور فتح آ چکی",
+      "ayah_number": 1,
+      "verse_key": "110:1"
+    },
+    {
+      "number": 2,
+      "text": "اورآپ نے لوگوں کو الله کے دین میں جوق در جوق داخل ہوتے دیکھ لیا",
+      "ayah_number": 2,
+      "verse_key": "110:2"
+    },
+    {
+      "number": 3,
+      "text": "تو اپنے رب کی حمد کے ساتھ تسبیح کیجیئے اور اس سے معافی مانگیئے بےشک وہ بڑا توبہ قبول کرنے والا ہے",
+      "ayah_number": 3,
+      "verse_key": "110:3"
+    }
+  ]
+}

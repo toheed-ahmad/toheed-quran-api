@@ -1,0 +1,39 @@
+{
+  "number": 106,
+  "name": "Quraish",
+  "arabicName": "سُورَةُ قُرَيۡشٍ",
+  "revelationType": "Meccan",
+  "totalAyahs": 4,
+  "reciter": "Maher Al Muaiqly",
+  "edition": "ar.mahermuaiqly",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6194,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6194.mp3",
+      "ayah_number": 1,
+      "verse_key": "106:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6195,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6195.mp3",
+      "ayah_number": 2,
+      "verse_key": "106:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6196,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6196.mp3",
+      "ayah_number": 3,
+      "verse_key": "106:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 6197,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6197.mp3",
+      "ayah_number": 4,
+      "verse_key": "106:4"
+    }
+  ]
+}

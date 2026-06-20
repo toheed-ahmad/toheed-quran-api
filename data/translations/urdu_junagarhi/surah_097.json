@@ -1,0 +1,46 @@
+{
+  "number": 97,
+  "name": "Al-Qadr",
+  "arabicName": "سُورَةُ القَدۡرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 5,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "97:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "یقیناً ہم نے اسے شب قدر میں نازل فرمایا",
+      "ayah_number": 1,
+      "verse_key": "97:1"
+    },
+    {
+      "number": 2,
+      "text": "تو کیا سمجھا کہ شب قدر کیا ہے؟",
+      "ayah_number": 2,
+      "verse_key": "97:2"
+    },
+    {
+      "number": 3,
+      "text": "شب قدر ایک ہزار مہینوں سے بہتر ہے",
+      "ayah_number": 3,
+      "verse_key": "97:3"
+    },
+    {
+      "number": 4,
+      "text": "اس (میں ہر کام) کے سر انجام دینے کو اپنے رب کے حکم سے فرشتے اور روح (جبرائیل) اترتے ہیں",
+      "ayah_number": 4,
+      "verse_key": "97:4"
+    },
+    {
+      "number": 5,
+      "text": "یہ رات سراسر سلامتی کی ہوتی ہے اور فجر کے طلوع ہونے تک (رہتی ہے)",
+      "ayah_number": 5,
+      "verse_key": "97:5"
+    }
+  ]
+}

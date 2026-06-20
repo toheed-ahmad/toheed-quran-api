@@ -1,0 +1,102 @@
+{
+  "number": 60,
+  "name": "Al-Mumtahana",
+  "arabicName": "سُورَةُ المُمۡتَحنَةِ",
+  "revelationType": "Medinan",
+  "totalAyahs": 13,
+  "reciter": "Maher Al Muaiqly",
+  "edition": "ar.mahermuaiqly",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 5151,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5151.mp3",
+      "ayah_number": 1,
+      "verse_key": "60:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 5152,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5152.mp3",
+      "ayah_number": 2,
+      "verse_key": "60:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 5153,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5153.mp3",
+      "ayah_number": 3,
+      "verse_key": "60:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 5154,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5154.mp3",
+      "ayah_number": 4,
+      "verse_key": "60:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 5155,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5155.mp3",
+      "ayah_number": 5,
+      "verse_key": "60:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 5156,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5156.mp3",
+      "ayah_number": 6,
+      "verse_key": "60:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 5157,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5157.mp3",
+      "ayah_number": 7,
+      "verse_key": "60:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 5158,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5158.mp3",
+      "ayah_number": 8,
+      "verse_key": "60:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 5159,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5159.mp3",
+      "ayah_number": 9,
+      "verse_key": "60:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 5160,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5160.mp3",
+      "ayah_number": 10,
+      "verse_key": "60:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 5161,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5161.mp3",
+      "ayah_number": 11,
+      "verse_key": "60:11"
+    },
+    {
+      "number": 12,
+      "globalNumber": 5162,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5162.mp3",
+      "ayah_number": 12,
+      "verse_key": "60:12"
+    },
+    {
+      "number": 13,
+      "globalNumber": 5163,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5163.mp3",
+      "ayah_number": 13,
+      "verse_key": "60:13"
+    }
+  ]
+}

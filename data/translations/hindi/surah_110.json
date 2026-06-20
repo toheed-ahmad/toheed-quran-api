@@ -1,0 +1,29 @@
+{
+  "number": 110,
+  "name": "An-Nasr",
+  "arabicName": "سُورَةُ النَّصۡرِ",
+  "revelationType": "Medinan",
+  "totalAyahs": 3,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "ऐ रसूल जब ख़ुदा की मदद आ पहँचेगी",
+      "ayah_number": 1,
+      "verse_key": "110:1"
+    },
+    {
+      "number": 2,
+      "text": "और फतेह (मक्का) हो जाएगी और तुम लोगों को देखोगे कि गोल के गोल ख़ुदा के दीन में दाख़िल हो रहे हैं",
+      "ayah_number": 2,
+      "verse_key": "110:2"
+    },
+    {
+      "number": 3,
+      "text": "तो तुम अपने परवरदिगार की तारीफ़ के साथ तसबीह करना और उसी से मग़फेरत की दुआ माँगना वह बेशक बड़ा माफ़ करने वाला है",
+      "ayah_number": 3,
+      "verse_key": "110:3"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "number": 107,
+  "name": "Al-Maa'un",
+  "arabicName": "سُورَةُ المَاعُونِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 7,
+  "reciter": "Muhammad Siddiq Al-Minshawi",
+  "edition": "ar.minshawi",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6198,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6198.mp3",
+      "ayah_number": 1,
+      "verse_key": "107:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6199,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6199.mp3",
+      "ayah_number": 2,
+      "verse_key": "107:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6200,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6200.mp3",
+      "ayah_number": 3,
+      "verse_key": "107:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 6201,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6201.mp3",
+      "ayah_number": 4,
+      "verse_key": "107:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 6202,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6202.mp3",
+      "ayah_number": 5,
+      "verse_key": "107:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 6203,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6203.mp3",
+      "ayah_number": 6,
+      "verse_key": "107:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 6204,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6204.mp3",
+      "ayah_number": 7,
+      "verse_key": "107:7"
+    }
+  ]
+}

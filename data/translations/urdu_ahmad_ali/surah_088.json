@@ -1,0 +1,170 @@
+{
+  "number": 88,
+  "name": "Al-Ghaashiya",
+  "arabicName": "سُورَةُ الغَاشِيَةِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 26,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "88:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "کیا آپ کے پاس سب پرچھا جانے والی (قیامت) کا حال پہنچا",
+      "ayah_number": 1,
+      "verse_key": "88:1"
+    },
+    {
+      "number": 2,
+      "text": "کئی چہرو ں پر اس دن ذلت برس رہی ہوگی",
+      "ayah_number": 2,
+      "verse_key": "88:2"
+    },
+    {
+      "number": 3,
+      "text": "محنت کرنے والے تھکنے والے",
+      "ayah_number": 3,
+      "verse_key": "88:3"
+    },
+    {
+      "number": 4,
+      "text": "دھکتی ہوئی آگ میں کریں گے",
+      "ayah_number": 4,
+      "verse_key": "88:4"
+    },
+    {
+      "number": 5,
+      "text": "انہیں ابلتے ہوئے چشمے سے پلایا جائے گا",
+      "ayah_number": 5,
+      "verse_key": "88:5"
+    },
+    {
+      "number": 6,
+      "text": "ان کے لیے کوئی کھانا سوائے کانٹے دار جھاڑی کے نہ ہوگا",
+      "ayah_number": 6,
+      "verse_key": "88:6"
+    },
+    {
+      "number": 7,
+      "text": "جو نہ فربہ کرتی ہے اور نہ بھوک کود ور کرتی ہے",
+      "ayah_number": 7,
+      "verse_key": "88:7"
+    },
+    {
+      "number": 8,
+      "text": "کئی منہ اس دن ہشاش بشاش ہوں گے",
+      "ayah_number": 8,
+      "verse_key": "88:8"
+    },
+    {
+      "number": 9,
+      "text": "اپنی کوشش سے خوش ہوں گے",
+      "ayah_number": 9,
+      "verse_key": "88:9"
+    },
+    {
+      "number": 10,
+      "text": "اونچے باغ میں ہوں گے",
+      "ayah_number": 10,
+      "verse_key": "88:10"
+    },
+    {
+      "number": 11,
+      "text": "وہاں کوئی لغو بات نہیں سنیں گے",
+      "ayah_number": 11,
+      "verse_key": "88:11"
+    },
+    {
+      "number": 12,
+      "text": "وہاں ایک چشمہ جاری ہوگا",
+      "ayah_number": 12,
+      "verse_key": "88:12"
+    },
+    {
+      "number": 13,
+      "text": "وہاں اونچے اونچے تخت ہوں گے",
+      "ayah_number": 13,
+      "verse_key": "88:13"
+    },
+    {
+      "number": 14,
+      "text": "اور آبخورے سامنے چنے ہوئے",
+      "ayah_number": 14,
+      "verse_key": "88:14"
+    },
+    {
+      "number": 15,
+      "text": "اورگاؤ تکیے قطار سے لگے ہوئے",
+      "ayah_number": 15,
+      "verse_key": "88:15"
+    },
+    {
+      "number": 16,
+      "text": "اور مخملی فرش بچھے ہوئے",
+      "ayah_number": 16,
+      "verse_key": "88:16"
+    },
+    {
+      "number": 17,
+      "text": "پھر کیا وہ اونٹوں کی طرف نہیں دیکھتے کہ کیسے بنائے گئے ہیں",
+      "ayah_number": 17,
+      "verse_key": "88:17"
+    },
+    {
+      "number": 18,
+      "text": "اور آسمان کی طرف کہ کیسے بلند کیے گئے ہیں",
+      "ayah_number": 18,
+      "verse_key": "88:18"
+    },
+    {
+      "number": 19,
+      "text": "اور پہاڑوں کی طرف کہ کیسے کھڑے کیے گئے ہیں",
+      "ayah_number": 19,
+      "verse_key": "88:19"
+    },
+    {
+      "number": 20,
+      "text": "اور زمین کی طرف کہ کیسے بچھائی گئی ہے",
+      "ayah_number": 20,
+      "verse_key": "88:20"
+    },
+    {
+      "number": 21,
+      "text": "پس آپ نصیحت کیجئے بے شک آپ تو نصیحت کرنے والے ہیں",
+      "ayah_number": 21,
+      "verse_key": "88:21"
+    },
+    {
+      "number": 22,
+      "text": "آپ ان پر کوئی داروغہ نہیں ہیں",
+      "ayah_number": 22,
+      "verse_key": "88:22"
+    },
+    {
+      "number": 23,
+      "text": "مگر جس نے منہ موڑا اورانکار کیا",
+      "ayah_number": 23,
+      "verse_key": "88:23"
+    },
+    {
+      "number": 24,
+      "text": "سو اسے الله بہت بڑا عذاب دے گا",
+      "ayah_number": 24,
+      "verse_key": "88:24"
+    },
+    {
+      "number": 25,
+      "text": "بےشک ہماری طرف ہی ان کو لوٹ کر آنا ہے",
+      "ayah_number": 25,
+      "verse_key": "88:25"
+    },
+    {
+      "number": 26,
+      "text": "پھر ہمارےہی ذمہ ان کا حساب لینا ہے",
+      "ayah_number": 26,
+      "verse_key": "88:26"
+    }
+  ]
+}

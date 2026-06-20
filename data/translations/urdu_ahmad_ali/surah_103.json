@@ -1,0 +1,32 @@
+{
+  "number": 103,
+  "name": "Al-Asr",
+  "arabicName": "سُورَةُ العَصۡرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 3,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "103:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "زمانہ کی قسم ہے",
+      "ayah_number": 1,
+      "verse_key": "103:1"
+    },
+    {
+      "number": 2,
+      "text": "بے شک انسان گھاٹے میں ہے",
+      "ayah_number": 2,
+      "verse_key": "103:2"
+    },
+    {
+      "number": 3,
+      "text": "مگر جو لوگ ایمان لائے اور نیک کام کیے اور حق پر قائم رہنے کی اور صبر کرنے کی آپس میں وصیت کرتے رہے",
+      "ayah_number": 3,
+      "verse_key": "103:3"
+    }
+  ]
+}

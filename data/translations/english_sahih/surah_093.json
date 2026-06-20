@@ -1,0 +1,78 @@
+{
+  "number": 93,
+  "name": "Ad-Dhuhaa",
+  "arabicName": "سُورَةُ الضُّحَىٰ",
+  "revelationType": "Meccan",
+  "totalAyahs": 11,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "By the morning brightness",
+      "ayah_number": 1,
+      "verse_key": "93:1"
+    },
+    {
+      "number": 2,
+      "text": "And [by] the night when it covers with darkness,",
+      "ayah_number": 2,
+      "verse_key": "93:2"
+    },
+    {
+      "number": 3,
+      "text": "Your Lord has not taken leave of you, [O Muhammad], nor has He detested [you].",
+      "ayah_number": 3,
+      "verse_key": "93:3"
+    },
+    {
+      "number": 4,
+      "text": "And the Hereafter is better for you than the first [life].",
+      "ayah_number": 4,
+      "verse_key": "93:4"
+    },
+    {
+      "number": 5,
+      "text": "And your Lord is going to give you, and you will be satisfied.",
+      "ayah_number": 5,
+      "verse_key": "93:5"
+    },
+    {
+      "number": 6,
+      "text": "Did He not find you an orphan and give [you] refuge?",
+      "ayah_number": 6,
+      "verse_key": "93:6"
+    },
+    {
+      "number": 7,
+      "text": "And He found you lost and guided [you],",
+      "ayah_number": 7,
+      "verse_key": "93:7"
+    },
+    {
+      "number": 8,
+      "text": "And He found you poor and made [you] self-sufficient.",
+      "ayah_number": 8,
+      "verse_key": "93:8"
+    },
+    {
+      "number": 9,
+      "text": "So as for the orphan, do not oppress [him].",
+      "ayah_number": 9,
+      "verse_key": "93:9"
+    },
+    {
+      "number": 10,
+      "text": "And as for the petitioner, do not repel [him].",
+      "ayah_number": 10,
+      "verse_key": "93:10"
+    },
+    {
+      "number": 11,
+      "text": "But as for the favor of your Lord, report [it].",
+      "ayah_number": 11,
+      "verse_key": "93:11"
+    }
+  ]
+}

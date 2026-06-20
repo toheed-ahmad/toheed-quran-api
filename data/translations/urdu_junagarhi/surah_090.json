@@ -1,0 +1,136 @@
+{
+  "number": 90,
+  "name": "Al-Balad",
+  "arabicName": "سُورَةُ البَلَدِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 20,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "90:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "میں اس شہر کی قسم کھاتا ہوں",
+      "ayah_number": 1,
+      "verse_key": "90:1"
+    },
+    {
+      "number": 2,
+      "text": "اور آپ اس شہر میں مقیم ہیں",
+      "ayah_number": 2,
+      "verse_key": "90:2"
+    },
+    {
+      "number": 3,
+      "text": "اور (قسم ہے) انسانی باپ اور اوﻻد کی",
+      "ayah_number": 3,
+      "verse_key": "90:3"
+    },
+    {
+      "number": 4,
+      "text": "یقیناً ہم نے انسان کو (بڑی) مشقت میں پیدا کیا ہے",
+      "ayah_number": 4,
+      "verse_key": "90:4"
+    },
+    {
+      "number": 5,
+      "text": "کیا یہ گمان کرتا ہے کہ یہ کسی کے بس میں ہی نہیں؟",
+      "ayah_number": 5,
+      "verse_key": "90:5"
+    },
+    {
+      "number": 6,
+      "text": "کہتا (پھرتا) ہے کہ میں نے تو بہت کچھ مال خرچ کر ڈاﻻ",
+      "ayah_number": 6,
+      "verse_key": "90:6"
+    },
+    {
+      "number": 7,
+      "text": "کیا (یوں) سمجھتا ہے کہ کسی نے اسے دیکھا (ہی) نہیں؟",
+      "ayah_number": 7,
+      "verse_key": "90:7"
+    },
+    {
+      "number": 8,
+      "text": "کیا ہم نے اس کی دو آنکھیں نہیں بنائیں",
+      "ayah_number": 8,
+      "verse_key": "90:8"
+    },
+    {
+      "number": 9,
+      "text": "اور زبان اور ہونٹ (نہیں بنائے)",
+      "ayah_number": 9,
+      "verse_key": "90:9"
+    },
+    {
+      "number": 10,
+      "text": "ہم نے دکھا دیئے اس کو دونوں راستے",
+      "ayah_number": 10,
+      "verse_key": "90:10"
+    },
+    {
+      "number": 11,
+      "text": "سو اس سے نہ ہو سکا کہ گھاٹی میں داخل ہوتا",
+      "ayah_number": 11,
+      "verse_key": "90:11"
+    },
+    {
+      "number": 12,
+      "text": "اور کیا سمجھا کہ گھاٹی ہے کیا؟",
+      "ayah_number": 12,
+      "verse_key": "90:12"
+    },
+    {
+      "number": 13,
+      "text": "کسی گردن (غلام لونڈی) کو آزاد کرنا",
+      "ayah_number": 13,
+      "verse_key": "90:13"
+    },
+    {
+      "number": 14,
+      "text": "یا بھوک والے دن کھانا کھلانا",
+      "ayah_number": 14,
+      "verse_key": "90:14"
+    },
+    {
+      "number": 15,
+      "text": "کسی رشتہ دار یتیم کو",
+      "ayah_number": 15,
+      "verse_key": "90:15"
+    },
+    {
+      "number": 16,
+      "text": "یا خاکسار مسکین کو",
+      "ayah_number": 16,
+      "verse_key": "90:16"
+    },
+    {
+      "number": 17,
+      "text": "پھر ان لوگوں میں سے ہو جاتا جو ایمان ﻻتے اور ایک دوسرے کو صبر کی اور رحم کرنے کی وصیت کرتے ہیں",
+      "ayah_number": 17,
+      "verse_key": "90:17"
+    },
+    {
+      "number": 18,
+      "text": "یہی لوگ ہیں دائیں بازو والے (خوش بختی والے)",
+      "ayah_number": 18,
+      "verse_key": "90:18"
+    },
+    {
+      "number": 19,
+      "text": "اور جن لوگوں نے ہماری آیتوں کے ساتھ کفر کیا یہ کم بختی والے ہیں",
+      "ayah_number": 19,
+      "verse_key": "90:19"
+    },
+    {
+      "number": 20,
+      "text": "انہی پر آگ ہوگی جو چاروں طرف سے گھیری ہوئی ہوگی",
+      "ayah_number": 20,
+      "verse_key": "90:20"
+    }
+  ]
+}

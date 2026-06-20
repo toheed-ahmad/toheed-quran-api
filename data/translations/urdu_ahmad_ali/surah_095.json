@@ -1,0 +1,62 @@
+{
+  "number": 95,
+  "name": "At-Tin",
+  "arabicName": "سُورَةُ التِّينِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 8,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "95:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "انجیر اور زیتون کی قسم ہے",
+      "ayah_number": 1,
+      "verse_key": "95:1"
+    },
+    {
+      "number": 2,
+      "text": "اور طور سینا کی",
+      "ayah_number": 2,
+      "verse_key": "95:2"
+    },
+    {
+      "number": 3,
+      "text": "اور اس شہر (مکہ) کی جو امن والا ہے",
+      "ayah_number": 3,
+      "verse_key": "95:3"
+    },
+    {
+      "number": 4,
+      "text": "بے شک ہم نے انسان کو بڑے عمدہ انداز میں پیدا کیا ہے",
+      "ayah_number": 4,
+      "verse_key": "95:4"
+    },
+    {
+      "number": 5,
+      "text": "پھر ہم نے اسے سب سے نیچے پھینک دیا ہے",
+      "ayah_number": 5,
+      "verse_key": "95:5"
+    },
+    {
+      "number": 6,
+      "text": "مگر جو ایمان لائے اور نیک کام کئے سو ان کے لیے تو بے انتہا بدلہ ہے",
+      "ayah_number": 6,
+      "verse_key": "95:6"
+    },
+    {
+      "number": 7,
+      "text": "پھر اس کے بعد آپ کو قیامت کے معاملہ میں کون جھٹلا سکتا ہے",
+      "ayah_number": 7,
+      "verse_key": "95:7"
+    },
+    {
+      "number": 8,
+      "text": "کیا الله سب حاکموں سے بڑا حاکم نہیں (ضرور ہے)",
+      "ayah_number": 8,
+      "verse_key": "95:8"
+    }
+  ]
+}

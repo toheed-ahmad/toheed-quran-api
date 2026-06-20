@@ -1,0 +1,74 @@
+{
+  "number": 104,
+  "name": "Al-Humaza",
+  "arabicName": "سُورَةُ الهُمَزَةِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 9,
+  "reciter": "Mishary Rashid Alafasy",
+  "edition": "ar.alafasy",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6180,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6180.mp3",
+      "ayah_number": 1,
+      "verse_key": "104:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6181,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6181.mp3",
+      "ayah_number": 2,
+      "verse_key": "104:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6182,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6182.mp3",
+      "ayah_number": 3,
+      "verse_key": "104:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 6183,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6183.mp3",
+      "ayah_number": 4,
+      "verse_key": "104:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 6184,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6184.mp3",
+      "ayah_number": 5,
+      "verse_key": "104:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 6185,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6185.mp3",
+      "ayah_number": 6,
+      "verse_key": "104:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 6186,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6186.mp3",
+      "ayah_number": 7,
+      "verse_key": "104:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 6187,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6187.mp3",
+      "ayah_number": 8,
+      "verse_key": "104:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 6188,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6188.mp3",
+      "ayah_number": 9,
+      "verse_key": "104:9"
+    }
+  ]
+}

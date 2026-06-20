@@ -1,0 +1,256 @@
+{
+  "number": 46,
+  "name": "Al-Ahqaf",
+  "arabicName": "سُورَةُ الأَحۡقَافِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 35,
+  "reciter": "Abdul Basit",
+  "edition": "ar.abdulsamad",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 4511,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4511.mp3",
+      "ayah_number": 1,
+      "verse_key": "46:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 4512,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4512.mp3",
+      "ayah_number": 2,
+      "verse_key": "46:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 4513,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4513.mp3",
+      "ayah_number": 3,
+      "verse_key": "46:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 4514,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4514.mp3",
+      "ayah_number": 4,
+      "verse_key": "46:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 4515,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4515.mp3",
+      "ayah_number": 5,
+      "verse_key": "46:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 4516,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4516.mp3",
+      "ayah_number": 6,
+      "verse_key": "46:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 4517,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4517.mp3",
+      "ayah_number": 7,
+      "verse_key": "46:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 4518,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4518.mp3",
+      "ayah_number": 8,
+      "verse_key": "46:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 4519,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4519.mp3",
+      "ayah_number": 9,
+      "verse_key": "46:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 4520,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4520.mp3",
+      "ayah_number": 10,
+      "verse_key": "46:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 4521,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4521.mp3",
+      "ayah_number": 11,
+      "verse_key": "46:11"
+    },
+    {
+      "number": 12,
+      "globalNumber": 4522,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4522.mp3",
+      "ayah_number": 12,
+      "verse_key": "46:12"
+    },
+    {
+      "number": 13,
+      "globalNumber": 4523,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4523.mp3",
+      "ayah_number": 13,
+      "verse_key": "46:13"
+    },
+    {
+      "number": 14,
+      "globalNumber": 4524,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4524.mp3",
+      "ayah_number": 14,
+      "verse_key": "46:14"
+    },
+    {
+      "number": 15,
+      "globalNumber": 4525,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4525.mp3",
+      "ayah_number": 15,
+      "verse_key": "46:15"
+    },
+    {
+      "number": 16,
+      "globalNumber": 4526,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4526.mp3",
+      "ayah_number": 16,
+      "verse_key": "46:16"
+    },
+    {
+      "number": 17,
+      "globalNumber": 4527,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4527.mp3",
+      "ayah_number": 17,
+      "verse_key": "46:17"
+    },
+    {
+      "number": 18,
+      "globalNumber": 4528,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4528.mp3",
+      "ayah_number": 18,
+      "verse_key": "46:18"
+    },
+    {
+      "number": 19,
+      "globalNumber": 4529,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4529.mp3",
+      "ayah_number": 19,
+      "verse_key": "46:19"
+    },
+    {
+      "number": 20,
+      "globalNumber": 4530,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4530.mp3",
+      "ayah_number": 20,
+      "verse_key": "46:20"
+    },
+    {
+      "number": 21,
+      "globalNumber": 4531,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4531.mp3",
+      "ayah_number": 21,
+      "verse_key": "46:21"
+    },
+    {
+      "number": 22,
+      "globalNumber": 4532,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4532.mp3",
+      "ayah_number": 22,
+      "verse_key": "46:22"
+    },
+    {
+      "number": 23,
+      "globalNumber": 4533,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4533.mp3",
+      "ayah_number": 23,
+      "verse_key": "46:23"
+    },
+    {
+      "number": 24,
+      "globalNumber": 4534,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4534.mp3",
+      "ayah_number": 24,
+      "verse_key": "46:24"
+    },
+    {
+      "number": 25,
+      "globalNumber": 4535,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4535.mp3",
+      "ayah_number": 25,
+      "verse_key": "46:25"
+    },
+    {
+      "number": 26,
+      "globalNumber": 4536,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4536.mp3",
+      "ayah_number": 26,
+      "verse_key": "46:26"
+    },
+    {
+      "number": 27,
+      "globalNumber": 4537,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4537.mp3",
+      "ayah_number": 27,
+      "verse_key": "46:27"
+    },
+    {
+      "number": 28,
+      "globalNumber": 4538,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4538.mp3",
+      "ayah_number": 28,
+      "verse_key": "46:28"
+    },
+    {
+      "number": 29,
+      "globalNumber": 4539,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4539.mp3",
+      "ayah_number": 29,
+      "verse_key": "46:29"
+    },
+    {
+      "number": 30,
+      "globalNumber": 4540,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4540.mp3",
+      "ayah_number": 30,
+      "verse_key": "46:30"
+    },
+    {
+      "number": 31,
+      "globalNumber": 4541,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4541.mp3",
+      "ayah_number": 31,
+      "verse_key": "46:31"
+    },
+    {
+      "number": 32,
+      "globalNumber": 4542,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4542.mp3",
+      "ayah_number": 32,
+      "verse_key": "46:32"
+    },
+    {
+      "number": 33,
+      "globalNumber": 4543,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4543.mp3",
+      "ayah_number": 33,
+      "verse_key": "46:33"
+    },
+    {
+      "number": 34,
+      "globalNumber": 4544,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4544.mp3",
+      "ayah_number": 34,
+      "verse_key": "46:34"
+    },
+    {
+      "number": 35,
+      "globalNumber": 4545,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/4545.mp3",
+      "ayah_number": 35,
+      "verse_key": "46:35"
+    }
+  ]
+}

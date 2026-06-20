@@ -1,0 +1,53 @@
+{
+  "number": 1,
+  "name": "Al-Faatiha",
+  "arabicName": "سُورَةُ ٱلْفَاتِحَةِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 7,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "अल्लाह के नाम से जो रहमान व रहीम है।",
+      "ayah_number": 1,
+      "verse_key": "1:1"
+    },
+    {
+      "number": 2,
+      "text": "तारीफ़ अल्लाह ही के लिये है जो तमाम क़ायनात का रब है।",
+      "ayah_number": 2,
+      "verse_key": "1:2"
+    },
+    {
+      "number": 3,
+      "text": "रहमान और रहीम है।",
+      "ayah_number": 3,
+      "verse_key": "1:3"
+    },
+    {
+      "number": 4,
+      "text": "रोज़े जज़ा का मालिक है।",
+      "ayah_number": 4,
+      "verse_key": "1:4"
+    },
+    {
+      "number": 5,
+      "text": "हम तेरी ही इबादत करते हैं, और तुझ ही से मदद मांगते है।",
+      "ayah_number": 5,
+      "verse_key": "1:5"
+    },
+    {
+      "number": 6,
+      "text": "हमें सीधा रास्ता दिखा।",
+      "ayah_number": 6,
+      "verse_key": "1:6"
+    },
+    {
+      "number": 7,
+      "text": "उन लोगों का रास्ता जिन पर तूने इनाम फ़रमाया, जो माअतूब नहीं हुए, जो भटके हुए नहीं है।",
+      "ayah_number": 7,
+      "verse_key": "1:7"
+    }
+  ]
+}

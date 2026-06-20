@@ -1,0 +1,47 @@
+{
+  "number": 109,
+  "name": "Al-Kaafiroon",
+  "arabicName": "سُورَةُ الكَافِرُونَ",
+  "revelationType": "Meccan",
+  "totalAyahs": 6,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "(ऐ रसूल) तुम कह दो कि ऐ काफिरों",
+      "ayah_number": 1,
+      "verse_key": "109:1"
+    },
+    {
+      "number": 2,
+      "text": "तुम जिन चीज़ों को पूजते हो, मैं उनको नहीं पूजता",
+      "ayah_number": 2,
+      "verse_key": "109:2"
+    },
+    {
+      "number": 3,
+      "text": "और जिस (ख़ुदा) की मैं इबादत करता हूँ उसकी तुम इबादत नहीं करते",
+      "ayah_number": 3,
+      "verse_key": "109:3"
+    },
+    {
+      "number": 4,
+      "text": "और जिन्हें तुम पूजते हो मैं उनका पूजने वाला नहीं",
+      "ayah_number": 4,
+      "verse_key": "109:4"
+    },
+    {
+      "number": 5,
+      "text": "और जिसकी मैं इबादत करता हूँ उसकी तुम इबादत करने वाले नहीं",
+      "ayah_number": 5,
+      "verse_key": "109:5"
+    },
+    {
+      "number": 6,
+      "text": "तुम्हारे लिए तुम्हारा दीन मेरे लिए मेरा दीन",
+      "ayah_number": 6,
+      "verse_key": "109:6"
+    }
+  ]
+}

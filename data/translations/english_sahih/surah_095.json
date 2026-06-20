@@ -1,0 +1,60 @@
+{
+  "number": 95,
+  "name": "At-Tin",
+  "arabicName": "سُورَةُ التِّينِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 8,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "By the fig and the olive",
+      "ayah_number": 1,
+      "verse_key": "95:1"
+    },
+    {
+      "number": 2,
+      "text": "And [by] Mount Sinai",
+      "ayah_number": 2,
+      "verse_key": "95:2"
+    },
+    {
+      "number": 3,
+      "text": "And [by] this secure city [Makkah],",
+      "ayah_number": 3,
+      "verse_key": "95:3"
+    },
+    {
+      "number": 4,
+      "text": "We have certainly created man in the best of stature;",
+      "ayah_number": 4,
+      "verse_key": "95:4"
+    },
+    {
+      "number": 5,
+      "text": "Then We return him to the lowest of the low,",
+      "ayah_number": 5,
+      "verse_key": "95:5"
+    },
+    {
+      "number": 6,
+      "text": "Except for those who believe and do righteous deeds, for they will have a reward uninterrupted.",
+      "ayah_number": 6,
+      "verse_key": "95:6"
+    },
+    {
+      "number": 7,
+      "text": "So what yet causes you to deny the Recompense?",
+      "ayah_number": 7,
+      "verse_key": "95:7"
+    },
+    {
+      "number": 8,
+      "text": "Is not Allah the most just of judges?",
+      "ayah_number": 8,
+      "verse_key": "95:8"
+    }
+  ]
+}

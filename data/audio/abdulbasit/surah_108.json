@@ -1,0 +1,32 @@
+{
+  "number": 108,
+  "name": "Al-Kawthar",
+  "arabicName": "سُورَةُ الكَوۡثَرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 3,
+  "reciter": "Abdul Basit",
+  "edition": "ar.abdulsamad",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6205,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6205.mp3",
+      "ayah_number": 1,
+      "verse_key": "108:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6206,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6206.mp3",
+      "ayah_number": 2,
+      "verse_key": "108:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6207,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6207.mp3",
+      "ayah_number": 3,
+      "verse_key": "108:3"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "number": 100,
+  "name": "Al-Aadiyaat",
+  "arabicName": "سُورَةُ العَادِيَاتِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 11,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "100:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "ہانپتے ہوئے دوڑنے والے گھوڑوں کی قسم!",
+      "ayah_number": 1,
+      "verse_key": "100:1"
+    },
+    {
+      "number": 2,
+      "text": "پھر ٹاپ مار کر آگ جھاڑنے والوں کی قسم!",
+      "ayah_number": 2,
+      "verse_key": "100:2"
+    },
+    {
+      "number": 3,
+      "text": "پھر صبح کے وقت دھاوا بولنے والوں کی قسم",
+      "ayah_number": 3,
+      "verse_key": "100:3"
+    },
+    {
+      "number": 4,
+      "text": "پس اس وقت گرد وغبار اڑاتے ہیں",
+      "ayah_number": 4,
+      "verse_key": "100:4"
+    },
+    {
+      "number": 5,
+      "text": "پھر اسی کے ساتھ فوجیوں کے درمیان گھس جاتے ہیں",
+      "ayah_number": 5,
+      "verse_key": "100:5"
+    },
+    {
+      "number": 6,
+      "text": "یقیناً انسان اپنے رب کا بڑا ناشکرا ہے",
+      "ayah_number": 6,
+      "verse_key": "100:6"
+    },
+    {
+      "number": 7,
+      "text": "اور یقیناً وه خود بھی اس پر گواه ہے",
+      "ayah_number": 7,
+      "verse_key": "100:7"
+    },
+    {
+      "number": 8,
+      "text": "یہ مال کی محنت میں بھی بڑا سخت ہے",
+      "ayah_number": 8,
+      "verse_key": "100:8"
+    },
+    {
+      "number": 9,
+      "text": "کیا اسے وه وقت معلوم نہیں جب قبروں میں جو (کچھ) ہے نکال لیا جائے گا",
+      "ayah_number": 9,
+      "verse_key": "100:9"
+    },
+    {
+      "number": 10,
+      "text": "اور سینوں کی پوشیده باتیں ﻇاہر کر دی جائیں گی",
+      "ayah_number": 10,
+      "verse_key": "100:10"
+    },
+    {
+      "number": 11,
+      "text": "بیشک ان کا رب اس دن ان کے حال سے پورا باخبر ہوگا",
+      "ayah_number": 11,
+      "verse_key": "100:11"
+    }
+  ]
+}

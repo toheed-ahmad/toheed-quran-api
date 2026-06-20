@@ -1,0 +1,88 @@
+{
+  "number": 100,
+  "name": "Al-Aadiyaat",
+  "arabicName": "سُورَةُ العَادِيَاتِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 11,
+  "reciter": "Maher Al Muaiqly",
+  "edition": "ar.mahermuaiqly",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6147,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6147.mp3",
+      "ayah_number": 1,
+      "verse_key": "100:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6148,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6148.mp3",
+      "ayah_number": 2,
+      "verse_key": "100:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6149,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6149.mp3",
+      "ayah_number": 3,
+      "verse_key": "100:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 6150,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6150.mp3",
+      "ayah_number": 4,
+      "verse_key": "100:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 6151,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6151.mp3",
+      "ayah_number": 5,
+      "verse_key": "100:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 6152,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6152.mp3",
+      "ayah_number": 6,
+      "verse_key": "100:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 6153,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6153.mp3",
+      "ayah_number": 7,
+      "verse_key": "100:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 6154,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6154.mp3",
+      "ayah_number": 8,
+      "verse_key": "100:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 6155,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6155.mp3",
+      "ayah_number": 9,
+      "verse_key": "100:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 6156,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6156.mp3",
+      "ayah_number": 10,
+      "verse_key": "100:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 6157,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6157.mp3",
+      "ayah_number": 11,
+      "verse_key": "100:11"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "number": 92,
+  "name": "Al-Lail",
+  "arabicName": "سُورَةُ اللَّيۡلِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 21,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "92:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "قسم ہے اس رات کی جب چھا جائے",
+      "ayah_number": 1,
+      "verse_key": "92:1"
+    },
+    {
+      "number": 2,
+      "text": "اور قسم ہے دن کی جب روشن ہو",
+      "ayah_number": 2,
+      "verse_key": "92:2"
+    },
+    {
+      "number": 3,
+      "text": "اور قسم ہے اس ذات کی جس نے نر وماده کو پیدا کیا",
+      "ayah_number": 3,
+      "verse_key": "92:3"
+    },
+    {
+      "number": 4,
+      "text": "یقیناً تمہاری کوشش مختلف قسم کی ہے",
+      "ayah_number": 4,
+      "verse_key": "92:4"
+    },
+    {
+      "number": 5,
+      "text": "جس نے دیا (اللہ کی راه میں) اور ڈرا (اپنے رب سے)",
+      "ayah_number": 5,
+      "verse_key": "92:5"
+    },
+    {
+      "number": 6,
+      "text": "اور نیک بات کی تصدیق کرتا رہے گا",
+      "ayah_number": 6,
+      "verse_key": "92:6"
+    },
+    {
+      "number": 7,
+      "text": "تو ہم بھی اس کو آسان راستے کی سہولت دیں گے",
+      "ayah_number": 7,
+      "verse_key": "92:7"
+    },
+    {
+      "number": 8,
+      "text": "لیکن جس نے بخیلی کی اور بے پرواہی برتی",
+      "ayah_number": 8,
+      "verse_key": "92:8"
+    },
+    {
+      "number": 9,
+      "text": "اور نیک بات کی تکذیب کی",
+      "ayah_number": 9,
+      "verse_key": "92:9"
+    },
+    {
+      "number": 10,
+      "text": "تو ہم بھی اس کی تنگی ومشکل کے سامان میسر کر دیں گے",
+      "ayah_number": 10,
+      "verse_key": "92:10"
+    },
+    {
+      "number": 11,
+      "text": "اس کا مال اسے (اوندھا) گرنے کے وقت کچھ کام نہ آئے گا",
+      "ayah_number": 11,
+      "verse_key": "92:11"
+    },
+    {
+      "number": 12,
+      "text": "بیشک راه دکھا دینا ہمارے ذمہ ہے",
+      "ayah_number": 12,
+      "verse_key": "92:12"
+    },
+    {
+      "number": 13,
+      "text": "اور ہمارے ہی ہاتھ آخرت اور دنیا ہے",
+      "ayah_number": 13,
+      "verse_key": "92:13"
+    },
+    {
+      "number": 14,
+      "text": "میں نے تو تمہیں شعلے مارتی ہوئی آگ سے ڈرا دیا ہے",
+      "ayah_number": 14,
+      "verse_key": "92:14"
+    },
+    {
+      "number": 15,
+      "text": "جس میں صرف وہی بدبخت داخل ہوگا",
+      "ayah_number": 15,
+      "verse_key": "92:15"
+    },
+    {
+      "number": 16,
+      "text": "جس نے جھٹلایا اور (اس کی پیروی سے) منھ پھیر لیا",
+      "ayah_number": 16,
+      "verse_key": "92:16"
+    },
+    {
+      "number": 17,
+      "text": "اور اس سے ایسا شخص دور رکھا جائے گا جو بڑا پرہیزگار ہو گا",
+      "ayah_number": 17,
+      "verse_key": "92:17"
+    },
+    {
+      "number": 18,
+      "text": "جو پاکی حاصل کرنے کے لئے اپنا مال دیتا ہے",
+      "ayah_number": 18,
+      "verse_key": "92:18"
+    },
+    {
+      "number": 19,
+      "text": "کسی کا اس پر کوئی احسان نہیں کہ جس کا بدلہ دیا جا رہا ہو",
+      "ayah_number": 19,
+      "verse_key": "92:19"
+    },
+    {
+      "number": 20,
+      "text": "بلکہ صرف اپنے پروردگار بزرگ وبلند کی رضا چاہنے کے لئے",
+      "ayah_number": 20,
+      "verse_key": "92:20"
+    },
+    {
+      "number": 21,
+      "text": "یقیناً وه (اللہ بھی) عنقریب رضامند ہو جائے گا",
+      "ayah_number": 21,
+      "verse_key": "92:21"
+    }
+  ]
+}

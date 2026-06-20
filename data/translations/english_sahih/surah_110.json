@@ -1,0 +1,30 @@
+{
+  "number": 110,
+  "name": "An-Nasr",
+  "arabicName": "سُورَةُ النَّصۡرِ",
+  "revelationType": "Medinan",
+  "totalAyahs": 3,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "When the victory of Allah has come and the conquest,",
+      "ayah_number": 1,
+      "verse_key": "110:1"
+    },
+    {
+      "number": 2,
+      "text": "And you see the people entering into the religion of Allah in multitudes,",
+      "ayah_number": 2,
+      "verse_key": "110:2"
+    },
+    {
+      "number": 3,
+      "text": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance.",
+      "ayah_number": 3,
+      "verse_key": "110:3"
+    }
+  ]
+}

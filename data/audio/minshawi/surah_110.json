@@ -1,0 +1,32 @@
+{
+  "number": 110,
+  "name": "An-Nasr",
+  "arabicName": "سُورَةُ النَّصۡرِ",
+  "revelationType": "Medinan",
+  "totalAyahs": 3,
+  "reciter": "Muhammad Siddiq Al-Minshawi",
+  "edition": "ar.minshawi",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6214,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6214.mp3",
+      "ayah_number": 1,
+      "verse_key": "110:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6215,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6215.mp3",
+      "ayah_number": 2,
+      "verse_key": "110:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6216,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6216.mp3",
+      "ayah_number": 3,
+      "verse_key": "110:3"
+    }
+  ]
+}

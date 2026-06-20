@@ -1,0 +1,128 @@
+{
+  "number": 82,
+  "name": "Al-Infitaar",
+  "arabicName": "سُورَةُ الانفِطَارِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 19,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "82:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "جب آسمان پھٹ جائے",
+      "ayah_number": 1,
+      "verse_key": "82:1"
+    },
+    {
+      "number": 2,
+      "text": "اورجب ستارے جھڑ جائیں",
+      "ayah_number": 2,
+      "verse_key": "82:2"
+    },
+    {
+      "number": 3,
+      "text": "اور جب سمندر ابل پڑیں",
+      "ayah_number": 3,
+      "verse_key": "82:3"
+    },
+    {
+      "number": 4,
+      "text": "اور جب قبریں اکھاڑ دی جائیں",
+      "ayah_number": 4,
+      "verse_key": "82:4"
+    },
+    {
+      "number": 5,
+      "text": "تب ہر شخص جان لے گا کہ کیا آگے بھیجا اور کیا پیچھے چھوڑ آیا",
+      "ayah_number": 5,
+      "verse_key": "82:5"
+    },
+    {
+      "number": 6,
+      "text": "اے انسان تجھے اپنے رب کریم کے بارے میں کس چیز نے مغرور کر دیا",
+      "ayah_number": 6,
+      "verse_key": "82:6"
+    },
+    {
+      "number": 7,
+      "text": "جس نے تجھے پیدا کیا پھر تجھے ٹھیک کیا پھر تجھے برابر کیا",
+      "ayah_number": 7,
+      "verse_key": "82:7"
+    },
+    {
+      "number": 8,
+      "text": "جس صورت میں چاہا تیرے اعضا کو جوڑ دیا",
+      "ayah_number": 8,
+      "verse_key": "82:8"
+    },
+    {
+      "number": 9,
+      "text": "نہیں نہیں بلکہ تم جزا کو نہیں مانتے",
+      "ayah_number": 9,
+      "verse_key": "82:9"
+    },
+    {
+      "number": 10,
+      "text": "اور بے شک تم پر محافظ ہیں",
+      "ayah_number": 10,
+      "verse_key": "82:10"
+    },
+    {
+      "number": 11,
+      "text": "عزت والے اعمال لکھنے والے",
+      "ayah_number": 11,
+      "verse_key": "82:11"
+    },
+    {
+      "number": 12,
+      "text": "وہ جانتے ہیں جو تم کرتے ہو",
+      "ayah_number": 12,
+      "verse_key": "82:12"
+    },
+    {
+      "number": 13,
+      "text": "بےشک نیک لوگ نعمت میں ہوں گے",
+      "ayah_number": 13,
+      "verse_key": "82:13"
+    },
+    {
+      "number": 14,
+      "text": "اور بے شک نافرمان دوزخ میں ہوں گے",
+      "ayah_number": 14,
+      "verse_key": "82:14"
+    },
+    {
+      "number": 15,
+      "text": "انصاف کے دن اس میں داخل ہوں گے",
+      "ayah_number": 15,
+      "verse_key": "82:15"
+    },
+    {
+      "number": 16,
+      "text": "اور وہ اس سے کہیں جانے نہ پائیں گے",
+      "ayah_number": 16,
+      "verse_key": "82:16"
+    },
+    {
+      "number": 17,
+      "text": "اورتجھے کیا معلوم انصاف کا دن کیا ہے",
+      "ayah_number": 17,
+      "verse_key": "82:17"
+    },
+    {
+      "number": 18,
+      "text": "پھر تجھے کیا خبر کہ انصاف کا دن کیا ہے",
+      "ayah_number": 18,
+      "verse_key": "82:18"
+    },
+    {
+      "number": 19,
+      "text": "جس دن کوئی کسی کے لیے کچھ بھی نہ کر سکے گااور اس دن الله ہی کا حکم ہوگا",
+      "ayah_number": 19,
+      "verse_key": "82:19"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "number": 113,
+  "name": "Al-Falaq",
+  "arabicName": "سُورَةُ الفَلَقِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 5,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "113:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "آپ کہہ دیجئے! کہ میں صبح کے رب کی پناه میں آتا ہوں",
+      "ayah_number": 1,
+      "verse_key": "113:1"
+    },
+    {
+      "number": 2,
+      "text": "ہر اس چیز کے شر سے جو اس نے پیدا کی ہے",
+      "ayah_number": 2,
+      "verse_key": "113:2"
+    },
+    {
+      "number": 3,
+      "text": "اور اندھیری رات کی تاریکی کے شر سے جب اس کا اندھیرا پھیل جائے",
+      "ayah_number": 3,
+      "verse_key": "113:3"
+    },
+    {
+      "number": 4,
+      "text": "اور گره (لگا کر ان) میں پھونکنے والیوں کے شر سے (بھی)",
+      "ayah_number": 4,
+      "verse_key": "113:4"
+    },
+    {
+      "number": 5,
+      "text": "اور حسد کرنے والے کی برائی سے بھی جب وه حسد کرے",
+      "ayah_number": 5,
+      "verse_key": "113:5"
+    }
+  ]
+}

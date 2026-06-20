@@ -1,0 +1,62 @@
+{
+  "number": 99,
+  "name": "Az-Zalzala",
+  "arabicName": "سُورَةُ الزَّلۡزَلَةِ",
+  "revelationType": "Medinan",
+  "totalAyahs": 8,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "99:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "جب زمین بڑے زور سے ہلا دی جائے گی",
+      "ayah_number": 1,
+      "verse_key": "99:1"
+    },
+    {
+      "number": 2,
+      "text": "اور زمین اپنے بوجھ نکال پھینکے گی",
+      "ayah_number": 2,
+      "verse_key": "99:2"
+    },
+    {
+      "number": 3,
+      "text": "اور انسان کہے گا کہ اس کو کیا ہوگیا",
+      "ayah_number": 3,
+      "verse_key": "99:3"
+    },
+    {
+      "number": 4,
+      "text": "اس دن وہ اپنی خبریں بیا ن کرے گی",
+      "ayah_number": 4,
+      "verse_key": "99:4"
+    },
+    {
+      "number": 5,
+      "text": "اس لئے کہ آپ کا رب اس کو حکم دے گا",
+      "ayah_number": 5,
+      "verse_key": "99:5"
+    },
+    {
+      "number": 6,
+      "text": "اس دن لوگ مختلف حالتوں میں لوٹیں گے تاکہ انہیں ان کے اعمال دکھائے جائیں",
+      "ayah_number": 6,
+      "verse_key": "99:6"
+    },
+    {
+      "number": 7,
+      "text": "پھر جس نے ذرہ بھر نیکی کی ہے وہ اس کو دیکھ لے گا",
+      "ayah_number": 7,
+      "verse_key": "99:7"
+    },
+    {
+      "number": 8,
+      "text": "اورجس نے ذرہ بھر برائی کی ہے وہ اس کو دیکھ لے گا",
+      "ayah_number": 8,
+      "verse_key": "99:8"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "number": 93,
+  "name": "Ad-Dhuhaa",
+  "arabicName": "سُورَةُ الضُّحَىٰ",
+  "revelationType": "Meccan",
+  "totalAyahs": 11,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "93:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "قسم ہے چاشت کے وقت کی",
+      "ayah_number": 1,
+      "verse_key": "93:1"
+    },
+    {
+      "number": 2,
+      "text": "اور قسم ہے رات کی جب چھا جائے",
+      "ayah_number": 2,
+      "verse_key": "93:2"
+    },
+    {
+      "number": 3,
+      "text": "نہ تو تیرے رب نے تجھے چھوڑا ہے اور نہ وه بیزار ہو گیا ہے",
+      "ayah_number": 3,
+      "verse_key": "93:3"
+    },
+    {
+      "number": 4,
+      "text": "یقیناً تیرے لئے انجام آغاز سے بہتر ہوگا",
+      "ayah_number": 4,
+      "verse_key": "93:4"
+    },
+    {
+      "number": 5,
+      "text": "تجھے تیرا رب بہت جلد (انعام) دے گا اور تو راضی (وخوش) ہو جائے گا",
+      "ayah_number": 5,
+      "verse_key": "93:5"
+    },
+    {
+      "number": 6,
+      "text": "کیا اس نے تجھے یتیم پا کر جگہ نہیں دی",
+      "ayah_number": 6,
+      "verse_key": "93:6"
+    },
+    {
+      "number": 7,
+      "text": "اور تجھے راه بھوﻻ پا کر ہدایت نہیں دی",
+      "ayah_number": 7,
+      "verse_key": "93:7"
+    },
+    {
+      "number": 8,
+      "text": "اور تجھے نادار پاکر تونگر نہیں بنا دیا؟",
+      "ayah_number": 8,
+      "verse_key": "93:8"
+    },
+    {
+      "number": 9,
+      "text": "پس یتیم پر تو بھی سختی نہ کیا کر",
+      "ayah_number": 9,
+      "verse_key": "93:9"
+    },
+    {
+      "number": 10,
+      "text": "اور نہ سوال کرنے والے کو ڈانٹ ڈپٹ",
+      "ayah_number": 10,
+      "verse_key": "93:10"
+    },
+    {
+      "number": 11,
+      "text": "اور اپنے رب کی نعمتوں کو بیان کرتا ره",
+      "ayah_number": 11,
+      "verse_key": "93:11"
+    }
+  ]
+}

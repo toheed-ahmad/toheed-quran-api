@@ -1,0 +1,851 @@
+{
+  "number": 5,
+  "name": "Al-Maaida",
+  "arabicName": "سُورَةُ المَائـِدَةِ",
+  "revelationType": "Medinan",
+  "totalAyahs": 120,
+  "reciter": "Abdul Basit",
+  "edition": "ar.abdulsamad",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 670,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/670.mp3",
+      "ayah_number": 1,
+      "verse_key": "5:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 671,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/671.mp3",
+      "ayah_number": 2,
+      "verse_key": "5:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 672,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/672.mp3",
+      "ayah_number": 3,
+      "verse_key": "5:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 673,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/673.mp3",
+      "ayah_number": 4,
+      "verse_key": "5:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 674,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/674.mp3",
+      "ayah_number": 5,
+      "verse_key": "5:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 675,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/675.mp3",
+      "ayah_number": 6,
+      "verse_key": "5:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 676,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/676.mp3",
+      "ayah_number": 7,
+      "verse_key": "5:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 677,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/677.mp3",
+      "ayah_number": 8,
+      "verse_key": "5:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 678,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/678.mp3",
+      "ayah_number": 9,
+      "verse_key": "5:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 679,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/679.mp3",
+      "ayah_number": 10,
+      "verse_key": "5:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 680,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/680.mp3",
+      "ayah_number": 11,
+      "verse_key": "5:11"
+    },
+    {
+      "number": 12,
+      "globalNumber": 681,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/681.mp3",
+      "ayah_number": 12,
+      "verse_key": "5:12"
+    },
+    {
+      "number": 13,
+      "globalNumber": 682,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/682.mp3",
+      "ayah_number": 13,
+      "verse_key": "5:13"
+    },
+    {
+      "number": 14,
+      "globalNumber": 683,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/683.mp3",
+      "ayah_number": 14,
+      "verse_key": "5:14"
+    },
+    {
+      "number": 15,
+      "globalNumber": 684,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/684.mp3",
+      "ayah_number": 15,
+      "verse_key": "5:15"
+    },
+    {
+      "number": 16,
+      "globalNumber": 685,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/685.mp3",
+      "ayah_number": 16,
+      "verse_key": "5:16"
+    },
+    {
+      "number": 17,
+      "globalNumber": 686,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/686.mp3",
+      "ayah_number": 17,
+      "verse_key": "5:17"
+    },
+    {
+      "number": 18,
+      "globalNumber": 687,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/687.mp3",
+      "ayah_number": 18,
+      "verse_key": "5:18"
+    },
+    {
+      "number": 19,
+      "globalNumber": 688,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/688.mp3",
+      "ayah_number": 19,
+      "verse_key": "5:19"
+    },
+    {
+      "number": 20,
+      "globalNumber": 689,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/689.mp3",
+      "ayah_number": 20,
+      "verse_key": "5:20"
+    },
+    {
+      "number": 21,
+      "globalNumber": 690,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/690.mp3",
+      "ayah_number": 21,
+      "verse_key": "5:21"
+    },
+    {
+      "number": 22,
+      "globalNumber": 691,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/691.mp3",
+      "ayah_number": 22,
+      "verse_key": "5:22"
+    },
+    {
+      "number": 23,
+      "globalNumber": 692,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/692.mp3",
+      "ayah_number": 23,
+      "verse_key": "5:23"
+    },
+    {
+      "number": 24,
+      "globalNumber": 693,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/693.mp3",
+      "ayah_number": 24,
+      "verse_key": "5:24"
+    },
+    {
+      "number": 25,
+      "globalNumber": 694,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/694.mp3",
+      "ayah_number": 25,
+      "verse_key": "5:25"
+    },
+    {
+      "number": 26,
+      "globalNumber": 695,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/695.mp3",
+      "ayah_number": 26,
+      "verse_key": "5:26"
+    },
+    {
+      "number": 27,
+      "globalNumber": 696,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/696.mp3",
+      "ayah_number": 27,
+      "verse_key": "5:27"
+    },
+    {
+      "number": 28,
+      "globalNumber": 697,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/697.mp3",
+      "ayah_number": 28,
+      "verse_key": "5:28"
+    },
+    {
+      "number": 29,
+      "globalNumber": 698,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/698.mp3",
+      "ayah_number": 29,
+      "verse_key": "5:29"
+    },
+    {
+      "number": 30,
+      "globalNumber": 699,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/699.mp3",
+      "ayah_number": 30,
+      "verse_key": "5:30"
+    },
+    {
+      "number": 31,
+      "globalNumber": 700,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/700.mp3",
+      "ayah_number": 31,
+      "verse_key": "5:31"
+    },
+    {
+      "number": 32,
+      "globalNumber": 701,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/701.mp3",
+      "ayah_number": 32,
+      "verse_key": "5:32"
+    },
+    {
+      "number": 33,
+      "globalNumber": 702,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/702.mp3",
+      "ayah_number": 33,
+      "verse_key": "5:33"
+    },
+    {
+      "number": 34,
+      "globalNumber": 703,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/703.mp3",
+      "ayah_number": 34,
+      "verse_key": "5:34"
+    },
+    {
+      "number": 35,
+      "globalNumber": 704,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/704.mp3",
+      "ayah_number": 35,
+      "verse_key": "5:35"
+    },
+    {
+      "number": 36,
+      "globalNumber": 705,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/705.mp3",
+      "ayah_number": 36,
+      "verse_key": "5:36"
+    },
+    {
+      "number": 37,
+      "globalNumber": 706,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/706.mp3",
+      "ayah_number": 37,
+      "verse_key": "5:37"
+    },
+    {
+      "number": 38,
+      "globalNumber": 707,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/707.mp3",
+      "ayah_number": 38,
+      "verse_key": "5:38"
+    },
+    {
+      "number": 39,
+      "globalNumber": 708,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/708.mp3",
+      "ayah_number": 39,
+      "verse_key": "5:39"
+    },
+    {
+      "number": 40,
+      "globalNumber": 709,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/709.mp3",
+      "ayah_number": 40,
+      "verse_key": "5:40"
+    },
+    {
+      "number": 41,
+      "globalNumber": 710,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/710.mp3",
+      "ayah_number": 41,
+      "verse_key": "5:41"
+    },
+    {
+      "number": 42,
+      "globalNumber": 711,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/711.mp3",
+      "ayah_number": 42,
+      "verse_key": "5:42"
+    },
+    {
+      "number": 43,
+      "globalNumber": 712,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/712.mp3",
+      "ayah_number": 43,
+      "verse_key": "5:43"
+    },
+    {
+      "number": 44,
+      "globalNumber": 713,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/713.mp3",
+      "ayah_number": 44,
+      "verse_key": "5:44"
+    },
+    {
+      "number": 45,
+      "globalNumber": 714,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/714.mp3",
+      "ayah_number": 45,
+      "verse_key": "5:45"
+    },
+    {
+      "number": 46,
+      "globalNumber": 715,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/715.mp3",
+      "ayah_number": 46,
+      "verse_key": "5:46"
+    },
+    {
+      "number": 47,
+      "globalNumber": 716,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/716.mp3",
+      "ayah_number": 47,
+      "verse_key": "5:47"
+    },
+    {
+      "number": 48,
+      "globalNumber": 717,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/717.mp3",
+      "ayah_number": 48,
+      "verse_key": "5:48"
+    },
+    {
+      "number": 49,
+      "globalNumber": 718,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/718.mp3",
+      "ayah_number": 49,
+      "verse_key": "5:49"
+    },
+    {
+      "number": 50,
+      "globalNumber": 719,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/719.mp3",
+      "ayah_number": 50,
+      "verse_key": "5:50"
+    },
+    {
+      "number": 51,
+      "globalNumber": 720,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/720.mp3",
+      "ayah_number": 51,
+      "verse_key": "5:51"
+    },
+    {
+      "number": 52,
+      "globalNumber": 721,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/721.mp3",
+      "ayah_number": 52,
+      "verse_key": "5:52"
+    },
+    {
+      "number": 53,
+      "globalNumber": 722,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/722.mp3",
+      "ayah_number": 53,
+      "verse_key": "5:53"
+    },
+    {
+      "number": 54,
+      "globalNumber": 723,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/723.mp3",
+      "ayah_number": 54,
+      "verse_key": "5:54"
+    },
+    {
+      "number": 55,
+      "globalNumber": 724,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/724.mp3",
+      "ayah_number": 55,
+      "verse_key": "5:55"
+    },
+    {
+      "number": 56,
+      "globalNumber": 725,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/725.mp3",
+      "ayah_number": 56,
+      "verse_key": "5:56"
+    },
+    {
+      "number": 57,
+      "globalNumber": 726,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/726.mp3",
+      "ayah_number": 57,
+      "verse_key": "5:57"
+    },
+    {
+      "number": 58,
+      "globalNumber": 727,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/727.mp3",
+      "ayah_number": 58,
+      "verse_key": "5:58"
+    },
+    {
+      "number": 59,
+      "globalNumber": 728,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/728.mp3",
+      "ayah_number": 59,
+      "verse_key": "5:59"
+    },
+    {
+      "number": 60,
+      "globalNumber": 729,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/729.mp3",
+      "ayah_number": 60,
+      "verse_key": "5:60"
+    },
+    {
+      "number": 61,
+      "globalNumber": 730,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/730.mp3",
+      "ayah_number": 61,
+      "verse_key": "5:61"
+    },
+    {
+      "number": 62,
+      "globalNumber": 731,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/731.mp3",
+      "ayah_number": 62,
+      "verse_key": "5:62"
+    },
+    {
+      "number": 63,
+      "globalNumber": 732,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/732.mp3",
+      "ayah_number": 63,
+      "verse_key": "5:63"
+    },
+    {
+      "number": 64,
+      "globalNumber": 733,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/733.mp3",
+      "ayah_number": 64,
+      "verse_key": "5:64"
+    },
+    {
+      "number": 65,
+      "globalNumber": 734,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/734.mp3",
+      "ayah_number": 65,
+      "verse_key": "5:65"
+    },
+    {
+      "number": 66,
+      "globalNumber": 735,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/735.mp3",
+      "ayah_number": 66,
+      "verse_key": "5:66"
+    },
+    {
+      "number": 67,
+      "globalNumber": 736,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/736.mp3",
+      "ayah_number": 67,
+      "verse_key": "5:67"
+    },
+    {
+      "number": 68,
+      "globalNumber": 737,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/737.mp3",
+      "ayah_number": 68,
+      "verse_key": "5:68"
+    },
+    {
+      "number": 69,
+      "globalNumber": 738,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/738.mp3",
+      "ayah_number": 69,
+      "verse_key": "5:69"
+    },
+    {
+      "number": 70,
+      "globalNumber": 739,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/739.mp3",
+      "ayah_number": 70,
+      "verse_key": "5:70"
+    },
+    {
+      "number": 71,
+      "globalNumber": 740,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/740.mp3",
+      "ayah_number": 71,
+      "verse_key": "5:71"
+    },
+    {
+      "number": 72,
+      "globalNumber": 741,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/741.mp3",
+      "ayah_number": 72,
+      "verse_key": "5:72"
+    },
+    {
+      "number": 73,
+      "globalNumber": 742,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/742.mp3",
+      "ayah_number": 73,
+      "verse_key": "5:73"
+    },
+    {
+      "number": 74,
+      "globalNumber": 743,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/743.mp3",
+      "ayah_number": 74,
+      "verse_key": "5:74"
+    },
+    {
+      "number": 75,
+      "globalNumber": 744,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/744.mp3",
+      "ayah_number": 75,
+      "verse_key": "5:75"
+    },
+    {
+      "number": 76,
+      "globalNumber": 745,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/745.mp3",
+      "ayah_number": 76,
+      "verse_key": "5:76"
+    },
+    {
+      "number": 77,
+      "globalNumber": 746,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/746.mp3",
+      "ayah_number": 77,
+      "verse_key": "5:77"
+    },
+    {
+      "number": 78,
+      "globalNumber": 747,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/747.mp3",
+      "ayah_number": 78,
+      "verse_key": "5:78"
+    },
+    {
+      "number": 79,
+      "globalNumber": 748,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/748.mp3",
+      "ayah_number": 79,
+      "verse_key": "5:79"
+    },
+    {
+      "number": 80,
+      "globalNumber": 749,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/749.mp3",
+      "ayah_number": 80,
+      "verse_key": "5:80"
+    },
+    {
+      "number": 81,
+      "globalNumber": 750,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/750.mp3",
+      "ayah_number": 81,
+      "verse_key": "5:81"
+    },
+    {
+      "number": 82,
+      "globalNumber": 751,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/751.mp3",
+      "ayah_number": 82,
+      "verse_key": "5:82"
+    },
+    {
+      "number": 83,
+      "globalNumber": 752,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/752.mp3",
+      "ayah_number": 83,
+      "verse_key": "5:83"
+    },
+    {
+      "number": 84,
+      "globalNumber": 753,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/753.mp3",
+      "ayah_number": 84,
+      "verse_key": "5:84"
+    },
+    {
+      "number": 85,
+      "globalNumber": 754,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/754.mp3",
+      "ayah_number": 85,
+      "verse_key": "5:85"
+    },
+    {
+      "number": 86,
+      "globalNumber": 755,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/755.mp3",
+      "ayah_number": 86,
+      "verse_key": "5:86"
+    },
+    {
+      "number": 87,
+      "globalNumber": 756,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/756.mp3",
+      "ayah_number": 87,
+      "verse_key": "5:87"
+    },
+    {
+      "number": 88,
+      "globalNumber": 757,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/757.mp3",
+      "ayah_number": 88,
+      "verse_key": "5:88"
+    },
+    {
+      "number": 89,
+      "globalNumber": 758,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/758.mp3",
+      "ayah_number": 89,
+      "verse_key": "5:89"
+    },
+    {
+      "number": 90,
+      "globalNumber": 759,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/759.mp3",
+      "ayah_number": 90,
+      "verse_key": "5:90"
+    },
+    {
+      "number": 91,
+      "globalNumber": 760,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/760.mp3",
+      "ayah_number": 91,
+      "verse_key": "5:91"
+    },
+    {
+      "number": 92,
+      "globalNumber": 761,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/761.mp3",
+      "ayah_number": 92,
+      "verse_key": "5:92"
+    },
+    {
+      "number": 93,
+      "globalNumber": 762,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/762.mp3",
+      "ayah_number": 93,
+      "verse_key": "5:93"
+    },
+    {
+      "number": 94,
+      "globalNumber": 763,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/763.mp3",
+      "ayah_number": 94,
+      "verse_key": "5:94"
+    },
+    {
+      "number": 95,
+      "globalNumber": 764,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/764.mp3",
+      "ayah_number": 95,
+      "verse_key": "5:95"
+    },
+    {
+      "number": 96,
+      "globalNumber": 765,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/765.mp3",
+      "ayah_number": 96,
+      "verse_key": "5:96"
+    },
+    {
+      "number": 97,
+      "globalNumber": 766,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/766.mp3",
+      "ayah_number": 97,
+      "verse_key": "5:97"
+    },
+    {
+      "number": 98,
+      "globalNumber": 767,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/767.mp3",
+      "ayah_number": 98,
+      "verse_key": "5:98"
+    },
+    {
+      "number": 99,
+      "globalNumber": 768,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/768.mp3",
+      "ayah_number": 99,
+      "verse_key": "5:99"
+    },
+    {
+      "number": 100,
+      "globalNumber": 769,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/769.mp3",
+      "ayah_number": 100,
+      "verse_key": "5:100"
+    },
+    {
+      "number": 101,
+      "globalNumber": 770,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/770.mp3",
+      "ayah_number": 101,
+      "verse_key": "5:101"
+    },
+    {
+      "number": 102,
+      "globalNumber": 771,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/771.mp3",
+      "ayah_number": 102,
+      "verse_key": "5:102"
+    },
+    {
+      "number": 103,
+      "globalNumber": 772,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/772.mp3",
+      "ayah_number": 103,
+      "verse_key": "5:103"
+    },
+    {
+      "number": 104,
+      "globalNumber": 773,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/773.mp3",
+      "ayah_number": 104,
+      "verse_key": "5:104"
+    },
+    {
+      "number": 105,
+      "globalNumber": 774,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/774.mp3",
+      "ayah_number": 105,
+      "verse_key": "5:105"
+    },
+    {
+      "number": 106,
+      "globalNumber": 775,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/775.mp3",
+      "ayah_number": 106,
+      "verse_key": "5:106"
+    },
+    {
+      "number": 107,
+      "globalNumber": 776,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/776.mp3",
+      "ayah_number": 107,
+      "verse_key": "5:107"
+    },
+    {
+      "number": 108,
+      "globalNumber": 777,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/777.mp3",
+      "ayah_number": 108,
+      "verse_key": "5:108"
+    },
+    {
+      "number": 109,
+      "globalNumber": 778,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/778.mp3",
+      "ayah_number": 109,
+      "verse_key": "5:109"
+    },
+    {
+      "number": 110,
+      "globalNumber": 779,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/779.mp3",
+      "ayah_number": 110,
+      "verse_key": "5:110"
+    },
+    {
+      "number": 111,
+      "globalNumber": 780,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/780.mp3",
+      "ayah_number": 111,
+      "verse_key": "5:111"
+    },
+    {
+      "number": 112,
+      "globalNumber": 781,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/781.mp3",
+      "ayah_number": 112,
+      "verse_key": "5:112"
+    },
+    {
+      "number": 113,
+      "globalNumber": 782,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/782.mp3",
+      "ayah_number": 113,
+      "verse_key": "5:113"
+    },
+    {
+      "number": 114,
+      "globalNumber": 783,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/783.mp3",
+      "ayah_number": 114,
+      "verse_key": "5:114"
+    },
+    {
+      "number": 115,
+      "globalNumber": 784,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/784.mp3",
+      "ayah_number": 115,
+      "verse_key": "5:115"
+    },
+    {
+      "number": 116,
+      "globalNumber": 785,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/785.mp3",
+      "ayah_number": 116,
+      "verse_key": "5:116"
+    },
+    {
+      "number": 117,
+      "globalNumber": 786,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/786.mp3",
+      "ayah_number": 117,
+      "verse_key": "5:117"
+    },
+    {
+      "number": 118,
+      "globalNumber": 787,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/787.mp3",
+      "ayah_number": 118,
+      "verse_key": "5:118"
+    },
+    {
+      "number": 119,
+      "globalNumber": 788,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/788.mp3",
+      "ayah_number": 119,
+      "verse_key": "5:119"
+    },
+    {
+      "number": 120,
+      "globalNumber": 789,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/789.mp3",
+      "ayah_number": 120,
+      "verse_key": "5:120"
+    }
+  ]
+}

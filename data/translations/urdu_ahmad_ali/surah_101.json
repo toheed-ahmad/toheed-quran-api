@@ -1,0 +1,80 @@
+{
+  "number": 101,
+  "name": "Al-Qaari'a",
+  "arabicName": "سُورَةُ القَارِعَةِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 11,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "101:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "کھڑکھڑانے والی",
+      "ayah_number": 1,
+      "verse_key": "101:1"
+    },
+    {
+      "number": 2,
+      "text": "وہ کھڑکھڑانے والی کیا ہے",
+      "ayah_number": 2,
+      "verse_key": "101:2"
+    },
+    {
+      "number": 3,
+      "text": "اور آپ کو کیا خبر کہ وہ کھڑکھڑانے والی کیا ہے",
+      "ayah_number": 3,
+      "verse_key": "101:3"
+    },
+    {
+      "number": 4,
+      "text": "جس دن لو گ بکھرے ہوئے پروانوں کی طرح ہوں گے",
+      "ayah_number": 4,
+      "verse_key": "101:4"
+    },
+    {
+      "number": 5,
+      "text": "اور پہاڑ رنگی ہوئی دھنی ہوئی اُون کی طرح ہوں گے",
+      "ayah_number": 5,
+      "verse_key": "101:5"
+    },
+    {
+      "number": 6,
+      "text": "تو جس کے اعمال (نیک) تول میں زیادہ ہوں گے",
+      "ayah_number": 6,
+      "verse_key": "101:6"
+    },
+    {
+      "number": 7,
+      "text": "تو وہ خاطر خواہ عیش میں ہوگا",
+      "ayah_number": 7,
+      "verse_key": "101:7"
+    },
+    {
+      "number": 8,
+      "text": "اور جس کے اعمال (نیک) تول میں کم ہوں گے",
+      "ayah_number": 8,
+      "verse_key": "101:8"
+    },
+    {
+      "number": 9,
+      "text": "تواس کا ٹھکانا ہاویہ ہوگا",
+      "ayah_number": 9,
+      "verse_key": "101:9"
+    },
+    {
+      "number": 10,
+      "text": "اور آپ کو کیا معلوم کہ وہ کیا چیز ہے",
+      "ayah_number": 10,
+      "verse_key": "101:10"
+    },
+    {
+      "number": 11,
+      "text": "وہ دھکتی ہوئی آگ ہے",
+      "ayah_number": 11,
+      "verse_key": "101:11"
+    }
+  ]
+}

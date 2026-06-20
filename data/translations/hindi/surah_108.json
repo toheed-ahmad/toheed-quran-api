@@ -1,0 +1,29 @@
+{
+  "number": 108,
+  "name": "Al-Kawthar",
+  "arabicName": "سُورَةُ الكَوۡثَرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 3,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "(ऐ रसूल) हमनें तुमको को कौसर अता किया,",
+      "ayah_number": 1,
+      "verse_key": "108:1"
+    },
+    {
+      "number": 2,
+      "text": "तो तुम अपने परवरदिगार की नमाज़ पढ़ा करो",
+      "ayah_number": 2,
+      "verse_key": "108:2"
+    },
+    {
+      "number": 3,
+      "text": "और क़ुर्बानी दिया करो बेशक तुम्हारा दुश्मन बे औलाद रहेगा",
+      "ayah_number": 3,
+      "verse_key": "108:3"
+    }
+  ]
+}

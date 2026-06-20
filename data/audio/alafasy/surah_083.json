@@ -1,0 +1,263 @@
+{
+  "number": 83,
+  "name": "Al-Mutaffifin",
+  "arabicName": "سُورَةُ المُطَفِّفِينَ",
+  "revelationType": "Meccan",
+  "totalAyahs": 36,
+  "reciter": "Mishary Rashid Alafasy",
+  "edition": "ar.alafasy",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 5849,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5849.mp3",
+      "ayah_number": 1,
+      "verse_key": "83:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 5850,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5850.mp3",
+      "ayah_number": 2,
+      "verse_key": "83:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 5851,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5851.mp3",
+      "ayah_number": 3,
+      "verse_key": "83:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 5852,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5852.mp3",
+      "ayah_number": 4,
+      "verse_key": "83:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 5853,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5853.mp3",
+      "ayah_number": 5,
+      "verse_key": "83:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 5854,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5854.mp3",
+      "ayah_number": 6,
+      "verse_key": "83:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 5855,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5855.mp3",
+      "ayah_number": 7,
+      "verse_key": "83:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 5856,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5856.mp3",
+      "ayah_number": 8,
+      "verse_key": "83:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 5857,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5857.mp3",
+      "ayah_number": 9,
+      "verse_key": "83:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 5858,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5858.mp3",
+      "ayah_number": 10,
+      "verse_key": "83:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 5859,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5859.mp3",
+      "ayah_number": 11,
+      "verse_key": "83:11"
+    },
+    {
+      "number": 12,
+      "globalNumber": 5860,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5860.mp3",
+      "ayah_number": 12,
+      "verse_key": "83:12"
+    },
+    {
+      "number": 13,
+      "globalNumber": 5861,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5861.mp3",
+      "ayah_number": 13,
+      "verse_key": "83:13"
+    },
+    {
+      "number": 14,
+      "globalNumber": 5862,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5862.mp3",
+      "ayah_number": 14,
+      "verse_key": "83:14"
+    },
+    {
+      "number": 15,
+      "globalNumber": 5863,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5863.mp3",
+      "ayah_number": 15,
+      "verse_key": "83:15"
+    },
+    {
+      "number": 16,
+      "globalNumber": 5864,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5864.mp3",
+      "ayah_number": 16,
+      "verse_key": "83:16"
+    },
+    {
+      "number": 17,
+      "globalNumber": 5865,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5865.mp3",
+      "ayah_number": 17,
+      "verse_key": "83:17"
+    },
+    {
+      "number": 18,
+      "globalNumber": 5866,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5866.mp3",
+      "ayah_number": 18,
+      "verse_key": "83:18"
+    },
+    {
+      "number": 19,
+      "globalNumber": 5867,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5867.mp3",
+      "ayah_number": 19,
+      "verse_key": "83:19"
+    },
+    {
+      "number": 20,
+      "globalNumber": 5868,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5868.mp3",
+      "ayah_number": 20,
+      "verse_key": "83:20"
+    },
+    {
+      "number": 21,
+      "globalNumber": 5869,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5869.mp3",
+      "ayah_number": 21,
+      "verse_key": "83:21"
+    },
+    {
+      "number": 22,
+      "globalNumber": 5870,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5870.mp3",
+      "ayah_number": 22,
+      "verse_key": "83:22"
+    },
+    {
+      "number": 23,
+      "globalNumber": 5871,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5871.mp3",
+      "ayah_number": 23,
+      "verse_key": "83:23"
+    },
+    {
+      "number": 24,
+      "globalNumber": 5872,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5872.mp3",
+      "ayah_number": 24,
+      "verse_key": "83:24"
+    },
+    {
+      "number": 25,
+      "globalNumber": 5873,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5873.mp3",
+      "ayah_number": 25,
+      "verse_key": "83:25"
+    },
+    {
+      "number": 26,
+      "globalNumber": 5874,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5874.mp3",
+      "ayah_number": 26,
+      "verse_key": "83:26"
+    },
+    {
+      "number": 27,
+      "globalNumber": 5875,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5875.mp3",
+      "ayah_number": 27,
+      "verse_key": "83:27"
+    },
+    {
+      "number": 28,
+      "globalNumber": 5876,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5876.mp3",
+      "ayah_number": 28,
+      "verse_key": "83:28"
+    },
+    {
+      "number": 29,
+      "globalNumber": 5877,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5877.mp3",
+      "ayah_number": 29,
+      "verse_key": "83:29"
+    },
+    {
+      "number": 30,
+      "globalNumber": 5878,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5878.mp3",
+      "ayah_number": 30,
+      "verse_key": "83:30"
+    },
+    {
+      "number": 31,
+      "globalNumber": 5879,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5879.mp3",
+      "ayah_number": 31,
+      "verse_key": "83:31"
+    },
+    {
+      "number": 32,
+      "globalNumber": 5880,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5880.mp3",
+      "ayah_number": 32,
+      "verse_key": "83:32"
+    },
+    {
+      "number": 33,
+      "globalNumber": 5881,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5881.mp3",
+      "ayah_number": 33,
+      "verse_key": "83:33"
+    },
+    {
+      "number": 34,
+      "globalNumber": 5882,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5882.mp3",
+      "ayah_number": 34,
+      "verse_key": "83:34"
+    },
+    {
+      "number": 35,
+      "globalNumber": 5883,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5883.mp3",
+      "ayah_number": 35,
+      "verse_key": "83:35"
+    },
+    {
+      "number": 36,
+      "globalNumber": 5884,
+      "audio": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5884.mp3",
+      "ayah_number": 36,
+      "verse_key": "83:36"
+    }
+  ]
+}

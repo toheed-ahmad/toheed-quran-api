@@ -1,0 +1,77 @@
+{
+  "number": 101,
+  "name": "Al-Qaari'a",
+  "arabicName": "سُورَةُ القَارِعَةِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 11,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "खड़खड़ाने वाली",
+      "ayah_number": 1,
+      "verse_key": "101:1"
+    },
+    {
+      "number": 2,
+      "text": "वह खड़खड़ाने वाली क्या है",
+      "ayah_number": 2,
+      "verse_key": "101:2"
+    },
+    {
+      "number": 3,
+      "text": "और तुम को क्या मालूम कि वह खड़खड़ाने वाली क्या है",
+      "ayah_number": 3,
+      "verse_key": "101:3"
+    },
+    {
+      "number": 4,
+      "text": "जिस दिन लोग (मैदाने हश्र में) टिड्डियों की तरह फैले होंगे",
+      "ayah_number": 4,
+      "verse_key": "101:4"
+    },
+    {
+      "number": 5,
+      "text": "और पहाड़ धुनकी हुई रूई के से हो जाएँगे",
+      "ayah_number": 5,
+      "verse_key": "101:5"
+    },
+    {
+      "number": 6,
+      "text": "तो जिसके (नेक आमाल) के पल्ले भारी होंगे",
+      "ayah_number": 6,
+      "verse_key": "101:6"
+    },
+    {
+      "number": 7,
+      "text": "वह मन भाते ऐश में होंगे",
+      "ayah_number": 7,
+      "verse_key": "101:7"
+    },
+    {
+      "number": 8,
+      "text": "और जिनके आमाल के पल्ले हल्के होंगे",
+      "ayah_number": 8,
+      "verse_key": "101:8"
+    },
+    {
+      "number": 9,
+      "text": "तो उनका ठिकाना न रहा",
+      "ayah_number": 9,
+      "verse_key": "101:9"
+    },
+    {
+      "number": 10,
+      "text": "और तुमको क्या मालूम हाविया क्या है",
+      "ayah_number": 10,
+      "verse_key": "101:10"
+    },
+    {
+      "number": 11,
+      "text": "वह दहकती हुई आग है",
+      "ayah_number": 11,
+      "verse_key": "101:11"
+    }
+  ]
+}

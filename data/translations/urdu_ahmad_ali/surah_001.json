@@ -1,0 +1,56 @@
+{
+  "number": 1,
+  "name": "Al-Faatiha",
+  "arabicName": "سُورَةُ ٱلْفَاتِحَةِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 7,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "1:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے",
+      "ayah_number": 1,
+      "verse_key": "1:1"
+    },
+    {
+      "number": 2,
+      "text": "سب تعریفیں الله کے لیے ہیں جو سب جہانوں کا پالنے والا ہے",
+      "ayah_number": 2,
+      "verse_key": "1:2"
+    },
+    {
+      "number": 3,
+      "text": "بڑا مہربان نہایت رحم والا",
+      "ayah_number": 3,
+      "verse_key": "1:3"
+    },
+    {
+      "number": 4,
+      "text": "جزا کے دن کا مالک",
+      "ayah_number": 4,
+      "verse_key": "1:4"
+    },
+    {
+      "number": 5,
+      "text": "ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں",
+      "ayah_number": 5,
+      "verse_key": "1:5"
+    },
+    {
+      "number": 6,
+      "text": "ہمیں سیدھا راستہ دکھا",
+      "ayah_number": 6,
+      "verse_key": "1:6"
+    },
+    {
+      "number": 7,
+      "text": "ان لوگوں کا راستہ جن پر تو نے انعام کیا نہ جن پر تیرا غضب نازل ہوا اور نہ وہ گمراہ ہوئے",
+      "ayah_number": 7,
+      "verse_key": "1:7"
+    }
+  ]
+}

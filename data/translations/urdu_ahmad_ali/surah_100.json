@@ -1,0 +1,80 @@
+{
+  "number": 100,
+  "name": "Al-Aadiyaat",
+  "arabicName": "سُورَةُ العَادِيَاتِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 11,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "100:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "ان گھوڑوں کی قسم جو ہانپتے ہوئے دوڑتے ہیں",
+      "ayah_number": 1,
+      "verse_key": "100:1"
+    },
+    {
+      "number": 2,
+      "text": "پھر (پتھر پر) ٹاپ مار کر آگ جھاڑتے ہیں",
+      "ayah_number": 2,
+      "verse_key": "100:2"
+    },
+    {
+      "number": 3,
+      "text": "پھر صبح کے وقت دھاوا کرتے ہیں",
+      "ayah_number": 3,
+      "verse_key": "100:3"
+    },
+    {
+      "number": 4,
+      "text": "پھر اس وقت غبار اُڑاتے ہیں",
+      "ayah_number": 4,
+      "verse_key": "100:4"
+    },
+    {
+      "number": 5,
+      "text": "پھر اس وقت دشمنوں کی جماعت میں جا گھستے ہیں",
+      "ayah_number": 5,
+      "verse_key": "100:5"
+    },
+    {
+      "number": 6,
+      "text": "بے شک انسان اپنے رب کا بڑا ناشکرا ہے",
+      "ayah_number": 6,
+      "verse_key": "100:6"
+    },
+    {
+      "number": 7,
+      "text": "اوربے شک وہ اس بات پر خود شاہد ہے",
+      "ayah_number": 7,
+      "verse_key": "100:7"
+    },
+    {
+      "number": 8,
+      "text": "اوربے شک وہ مال کی محبت میں بڑا سخت ہے",
+      "ayah_number": 8,
+      "verse_key": "100:8"
+    },
+    {
+      "number": 9,
+      "text": "پس کیا وہ نہیں جانتا جب اکھاڑا جائے گا جو کچھ قبروں میں ہے",
+      "ayah_number": 9,
+      "verse_key": "100:9"
+    },
+    {
+      "number": 10,
+      "text": "اورجو دلوں میں ہے وہ ظاہر کیا جائے گا",
+      "ayah_number": 10,
+      "verse_key": "100:10"
+    },
+    {
+      "number": 11,
+      "text": "بے شک ان کا رب ان سے اس دن خوب خبردار ہو گا",
+      "ayah_number": 11,
+      "verse_key": "100:11"
+    }
+  ]
+}

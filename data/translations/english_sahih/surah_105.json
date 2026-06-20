@@ -1,0 +1,42 @@
+{
+  "number": 105,
+  "name": "Al-Fil",
+  "arabicName": "سُورَةُ الفِيلِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 5,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant?",
+      "ayah_number": 1,
+      "verse_key": "105:1"
+    },
+    {
+      "number": 2,
+      "text": "Did He not make their plan into misguidance?",
+      "ayah_number": 2,
+      "verse_key": "105:2"
+    },
+    {
+      "number": 3,
+      "text": "And He sent against them birds in flocks,",
+      "ayah_number": 3,
+      "verse_key": "105:3"
+    },
+    {
+      "number": 4,
+      "text": "Striking them with stones of hard clay,",
+      "ayah_number": 4,
+      "verse_key": "105:4"
+    },
+    {
+      "number": 5,
+      "text": "And He made them like eaten straw.",
+      "ayah_number": 5,
+      "verse_key": "105:5"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "number": 106,
+  "name": "Quraish",
+  "arabicName": "سُورَةُ قُرَيۡشٍ",
+  "revelationType": "Meccan",
+  "totalAyahs": 4,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "चूँकि क़ुरैश को जाड़े और गर्मी के सफ़र से मानूस कर दिया है",
+      "ayah_number": 1,
+      "verse_key": "106:1"
+    },
+    {
+      "number": 2,
+      "text": "तो उनको मानूस कर देने की वजह से",
+      "ayah_number": 2,
+      "verse_key": "106:2"
+    },
+    {
+      "number": 3,
+      "text": "इस घर (काबा) के मालिक की इबादत करनी चाहिए",
+      "ayah_number": 3,
+      "verse_key": "106:3"
+    },
+    {
+      "number": 4,
+      "text": "जिसने उनको भूख में खाना दिया और उनको खौफ़ से अमन अता किया",
+      "ayah_number": 4,
+      "verse_key": "106:4"
+    }
+  ]
+}

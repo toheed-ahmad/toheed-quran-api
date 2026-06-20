@@ -1,0 +1,82 @@
+{
+  "number": 101,
+  "name": "Al-Qaari'a",
+  "arabicName": "سُورَةُ القَارِعَةِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 11,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "101:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "کھڑکھڑا دینے والی",
+      "ayah_number": 1,
+      "verse_key": "101:1"
+    },
+    {
+      "number": 2,
+      "text": "کیا ہے وه کھڑکھڑا دینے والی",
+      "ayah_number": 2,
+      "verse_key": "101:2"
+    },
+    {
+      "number": 3,
+      "text": "تجھے کیا معلوم کہ وه کھڑ کھڑا دینے والی کیا ہے",
+      "ayah_number": 3,
+      "verse_key": "101:3"
+    },
+    {
+      "number": 4,
+      "text": "جس دن انسان بکھرے ہوئے پروانوں کی طرح ہو جائیں گے",
+      "ayah_number": 4,
+      "verse_key": "101:4"
+    },
+    {
+      "number": 5,
+      "text": "اور پہاڑ دھنے ہوئے رنگین اون کی طرح ہو جائیں گے",
+      "ayah_number": 5,
+      "verse_key": "101:5"
+    },
+    {
+      "number": 6,
+      "text": "پھر جس کے پلڑے بھاری ہوں گے",
+      "ayah_number": 6,
+      "verse_key": "101:6"
+    },
+    {
+      "number": 7,
+      "text": "وه تو دل پسند آرام کی زندگی میں ہوگا",
+      "ayah_number": 7,
+      "verse_key": "101:7"
+    },
+    {
+      "number": 8,
+      "text": "اور جس کے پلڑے ہلکے ہوں گے",
+      "ayah_number": 8,
+      "verse_key": "101:8"
+    },
+    {
+      "number": 9,
+      "text": "اس کا ٹھکانا ہاویہ ہے",
+      "ayah_number": 9,
+      "verse_key": "101:9"
+    },
+    {
+      "number": 10,
+      "text": "تجھے کیا معلوم کہ وه کیا ہے",
+      "ayah_number": 10,
+      "verse_key": "101:10"
+    },
+    {
+      "number": 11,
+      "text": "وه تند وتیز آگ (ہے)",
+      "ayah_number": 11,
+      "verse_key": "101:11"
+    }
+  ]
+}

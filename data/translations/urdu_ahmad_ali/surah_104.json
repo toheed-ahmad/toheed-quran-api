@@ -1,0 +1,68 @@
+{
+  "number": 104,
+  "name": "Al-Humaza",
+  "arabicName": "سُورَةُ الهُمَزَةِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 9,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "104:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "ہر غیبت کرنے والے طعنہ دینے والے کے لیے ہلاکت ہے",
+      "ayah_number": 1,
+      "verse_key": "104:1"
+    },
+    {
+      "number": 2,
+      "text": "جو مال کو جمع کرتا ہے اور اسے گنتا رہتا ہے",
+      "ayah_number": 2,
+      "verse_key": "104:2"
+    },
+    {
+      "number": 3,
+      "text": "وہ خیال کرتا ہے کہ اس کا مال اسے سدا رکھے گا",
+      "ayah_number": 3,
+      "verse_key": "104:3"
+    },
+    {
+      "number": 4,
+      "text": "ہرگز نہیں وہ ضرور حطمہ میں پھینکا جائے گا",
+      "ayah_number": 4,
+      "verse_key": "104:4"
+    },
+    {
+      "number": 5,
+      "text": "اور آپ کو کیا معلوم حطمہ کیا ہے",
+      "ayah_number": 5,
+      "verse_key": "104:5"
+    },
+    {
+      "number": 6,
+      "text": "وہ الله کی بھڑکائی ہوئی آگ ہے",
+      "ayah_number": 6,
+      "verse_key": "104:6"
+    },
+    {
+      "number": 7,
+      "text": "جو دلوں تک جا پہنچتی ہے",
+      "ayah_number": 7,
+      "verse_key": "104:7"
+    },
+    {
+      "number": 8,
+      "text": "بے شک وہ ان پر چاروں طرف سے بند کر دی جائے گی",
+      "ayah_number": 8,
+      "verse_key": "104:8"
+    },
+    {
+      "number": 9,
+      "text": "لمبے لمبے ستونوں میں",
+      "ayah_number": 9,
+      "verse_key": "104:9"
+    }
+  ]
+}

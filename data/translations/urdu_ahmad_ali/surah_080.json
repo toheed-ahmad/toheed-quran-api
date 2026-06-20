@@ -1,0 +1,266 @@
+{
+  "number": 80,
+  "name": "Abasa",
+  "arabicName": "سُورَةُ عَبَسَ",
+  "revelationType": "Meccan",
+  "totalAyahs": 42,
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "80:0",
+    "text": "شروع الله کا نام لے کر جو بڑا مہربان نہایت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "پیغمبر چین بجیں ہوئے اور منہ موڑ لیا",
+      "ayah_number": 1,
+      "verse_key": "80:1"
+    },
+    {
+      "number": 2,
+      "text": "کہ ان کے پاس ایک اندھا آیا",
+      "ayah_number": 2,
+      "verse_key": "80:2"
+    },
+    {
+      "number": 3,
+      "text": "اور آپ کو کیا معلوم کہ شاید وہ پاک ہوجائے",
+      "ayah_number": 3,
+      "verse_key": "80:3"
+    },
+    {
+      "number": 4,
+      "text": "یا وہ نصیحت پکڑ لے تو اس کو نصیحت نفع دے",
+      "ayah_number": 4,
+      "verse_key": "80:4"
+    },
+    {
+      "number": 5,
+      "text": "لیکن وہ جو پروا نہیں کرتا",
+      "ayah_number": 5,
+      "verse_key": "80:5"
+    },
+    {
+      "number": 6,
+      "text": "سو آپ کے لیے توجہ کرتے ہیں",
+      "ayah_number": 6,
+      "verse_key": "80:6"
+    },
+    {
+      "number": 7,
+      "text": "حالانکہ آپ پر اس کےنہ سدھرنے کا کوئی الزام نہیں",
+      "ayah_number": 7,
+      "verse_key": "80:7"
+    },
+    {
+      "number": 8,
+      "text": "اور لیکن جو آپ کے پاس دوڑتا ہوا آیا",
+      "ayah_number": 8,
+      "verse_key": "80:8"
+    },
+    {
+      "number": 9,
+      "text": "اور وہ ڈر رہا ہے",
+      "ayah_number": 9,
+      "verse_key": "80:9"
+    },
+    {
+      "number": 10,
+      "text": "تو آپ اس سے بے پروائی کرتے ہیں",
+      "ayah_number": 10,
+      "verse_key": "80:10"
+    },
+    {
+      "number": 11,
+      "text": "ایسا نہیں چاہیئے بے شک یہ تو ایک نصیحت ہے",
+      "ayah_number": 11,
+      "verse_key": "80:11"
+    },
+    {
+      "number": 12,
+      "text": "پس جو چاہے اس کو یاد کرے",
+      "ayah_number": 12,
+      "verse_key": "80:12"
+    },
+    {
+      "number": 13,
+      "text": "وہ عزت والے صحیفوں میں ہے",
+      "ayah_number": 13,
+      "verse_key": "80:13"
+    },
+    {
+      "number": 14,
+      "text": "جو بلند مرتبہ اور پاک ہیں",
+      "ayah_number": 14,
+      "verse_key": "80:14"
+    },
+    {
+      "number": 15,
+      "text": "ان لکھنے والوں کے ہاتھوں میں",
+      "ayah_number": 15,
+      "verse_key": "80:15"
+    },
+    {
+      "number": 16,
+      "text": "جو بڑے بزرگ نیکو کار ہیں",
+      "ayah_number": 16,
+      "verse_key": "80:16"
+    },
+    {
+      "number": 17,
+      "text": "انسان پر خدا کی مار وہ کیسا ناشکرا ہے",
+      "ayah_number": 17,
+      "verse_key": "80:17"
+    },
+    {
+      "number": 18,
+      "text": "اس نے کس چیز سے اس کو بنایا",
+      "ayah_number": 18,
+      "verse_key": "80:18"
+    },
+    {
+      "number": 19,
+      "text": "ایک بوند سے اس کوبنایا پھر اس کا اندزہ ٹھیرایا",
+      "ayah_number": 19,
+      "verse_key": "80:19"
+    },
+    {
+      "number": 20,
+      "text": "پھراس پر راستہ آسان کر دیا",
+      "ayah_number": 20,
+      "verse_key": "80:20"
+    },
+    {
+      "number": 21,
+      "text": "پھر اس کو موت دی پھر اس کو قبر میں رکھوایا",
+      "ayah_number": 21,
+      "verse_key": "80:21"
+    },
+    {
+      "number": 22,
+      "text": "پھر جب چاہے گا اٹھا کر کھڑا کرے گا",
+      "ayah_number": 22,
+      "verse_key": "80:22"
+    },
+    {
+      "number": 23,
+      "text": "ایسا نہیں چاہیئے اس نے تعمیل نہیں کی جو اس کو حکم دیا تھا",
+      "ayah_number": 23,
+      "verse_key": "80:23"
+    },
+    {
+      "number": 24,
+      "text": "پس انسان کو اپنے کھانے کی طرف غور کرنا چاہیئے",
+      "ayah_number": 24,
+      "verse_key": "80:24"
+    },
+    {
+      "number": 25,
+      "text": "کہ ہم نے اوپر سے مینہ برسایا",
+      "ayah_number": 25,
+      "verse_key": "80:25"
+    },
+    {
+      "number": 26,
+      "text": "پھر ہم نے زمین کو چیر کر پھاڑا",
+      "ayah_number": 26,
+      "verse_key": "80:26"
+    },
+    {
+      "number": 27,
+      "text": "پھر ہم نے اس میں اناج ا گایا",
+      "ayah_number": 27,
+      "verse_key": "80:27"
+    },
+    {
+      "number": 28,
+      "text": "اورانگور اور ترکاریاں",
+      "ayah_number": 28,
+      "verse_key": "80:28"
+    },
+    {
+      "number": 29,
+      "text": "اور زیتون اور کھجور",
+      "ayah_number": 29,
+      "verse_key": "80:29"
+    },
+    {
+      "number": 30,
+      "text": "اور گھنے باغ",
+      "ayah_number": 30,
+      "verse_key": "80:30"
+    },
+    {
+      "number": 31,
+      "text": "اور میوے اور گھاس",
+      "ayah_number": 31,
+      "verse_key": "80:31"
+    },
+    {
+      "number": 32,
+      "text": "تمہارے لیے اور تمہارے چار پایوں کے لیے سامان حیات",
+      "ayah_number": 32,
+      "verse_key": "80:32"
+    },
+    {
+      "number": 33,
+      "text": "پھر جس وقت کانوں کا بہرا کرنے والا شور برپا ہوگا",
+      "ayah_number": 33,
+      "verse_key": "80:33"
+    },
+    {
+      "number": 34,
+      "text": "جس دن آدمی اپنے بھائی سے بھاگے گا",
+      "ayah_number": 34,
+      "verse_key": "80:34"
+    },
+    {
+      "number": 35,
+      "text": "اور اپنی ماں اور باپ سے",
+      "ayah_number": 35,
+      "verse_key": "80:35"
+    },
+    {
+      "number": 36,
+      "text": "اور اپنی بیوی اوراپنے بیٹوں سے",
+      "ayah_number": 36,
+      "verse_key": "80:36"
+    },
+    {
+      "number": 37,
+      "text": "ہر شخص کی ایسی حالت ہوگی جو اس کو اوروں کی طرف سے بے پروا کر دے گی",
+      "ayah_number": 37,
+      "verse_key": "80:37"
+    },
+    {
+      "number": 38,
+      "text": "اورکچھ چہرے اس دن چمک رہے ہوں گے",
+      "ayah_number": 38,
+      "verse_key": "80:38"
+    },
+    {
+      "number": 39,
+      "text": "ہنستے ہوئے خوش و خرم",
+      "ayah_number": 39,
+      "verse_key": "80:39"
+    },
+    {
+      "number": 40,
+      "text": "اور کچھ چہرے اس دن ایسے ہوں گے کہ ان پر گرد پڑی ہو گی",
+      "ayah_number": 40,
+      "verse_key": "80:40"
+    },
+    {
+      "number": 41,
+      "text": "ان پر سیاہی چھا رہی ہو گی",
+      "ayah_number": 41,
+      "verse_key": "80:41"
+    },
+    {
+      "number": 42,
+      "text": "یہی لوگ ہیں منکر نافرمان",
+      "ayah_number": 42,
+      "verse_key": "80:42"
+    }
+  ]
+}

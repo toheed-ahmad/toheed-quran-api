@@ -1,0 +1,88 @@
+{
+  "number": 63,
+  "name": "Al-Munaafiqoon",
+  "arabicName": "سُورَةُ المُنَافِقُونَ",
+  "revelationType": "Medinan",
+  "totalAyahs": 11,
+  "reciter": "Abdul Basit",
+  "edition": "ar.abdulsamad",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 5189,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5189.mp3",
+      "ayah_number": 1,
+      "verse_key": "63:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 5190,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5190.mp3",
+      "ayah_number": 2,
+      "verse_key": "63:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 5191,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5191.mp3",
+      "ayah_number": 3,
+      "verse_key": "63:3"
+    },
+    {
+      "number": 4,
+      "globalNumber": 5192,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5192.mp3",
+      "ayah_number": 4,
+      "verse_key": "63:4"
+    },
+    {
+      "number": 5,
+      "globalNumber": 5193,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5193.mp3",
+      "ayah_number": 5,
+      "verse_key": "63:5"
+    },
+    {
+      "number": 6,
+      "globalNumber": 5194,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5194.mp3",
+      "ayah_number": 6,
+      "verse_key": "63:6"
+    },
+    {
+      "number": 7,
+      "globalNumber": 5195,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5195.mp3",
+      "ayah_number": 7,
+      "verse_key": "63:7"
+    },
+    {
+      "number": 8,
+      "globalNumber": 5196,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5196.mp3",
+      "ayah_number": 8,
+      "verse_key": "63:8"
+    },
+    {
+      "number": 9,
+      "globalNumber": 5197,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5197.mp3",
+      "ayah_number": 9,
+      "verse_key": "63:9"
+    },
+    {
+      "number": 10,
+      "globalNumber": 5198,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5198.mp3",
+      "ayah_number": 10,
+      "verse_key": "63:10"
+    },
+    {
+      "number": 11,
+      "globalNumber": 5199,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/5199.mp3",
+      "ayah_number": 11,
+      "verse_key": "63:11"
+    }
+  ]
+}

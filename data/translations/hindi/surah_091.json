@@ -1,0 +1,101 @@
+{
+  "number": 91,
+  "name": "Ash-Shams",
+  "arabicName": "سُورَةُ الشَّمۡسِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 15,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "सूरज की क़सम और उसकी रौशनी की",
+      "ayah_number": 1,
+      "verse_key": "91:1"
+    },
+    {
+      "number": 2,
+      "text": "और चाँद की जब उसके पीछे निकले",
+      "ayah_number": 2,
+      "verse_key": "91:2"
+    },
+    {
+      "number": 3,
+      "text": "और दिन की जब उसे चमका दे",
+      "ayah_number": 3,
+      "verse_key": "91:3"
+    },
+    {
+      "number": 4,
+      "text": "और रात की जब उसे ढाँक ले",
+      "ayah_number": 4,
+      "verse_key": "91:4"
+    },
+    {
+      "number": 5,
+      "text": "और आसमान की और जिसने उसे बनाया",
+      "ayah_number": 5,
+      "verse_key": "91:5"
+    },
+    {
+      "number": 6,
+      "text": "और ज़मीन की जिसने उसे बिछाया",
+      "ayah_number": 6,
+      "verse_key": "91:6"
+    },
+    {
+      "number": 7,
+      "text": "और जान की और जिसने उसे दुरूस्त किया",
+      "ayah_number": 7,
+      "verse_key": "91:7"
+    },
+    {
+      "number": 8,
+      "text": "फिर उसकी बदकारी और परहेज़गारी को उसे समझा दिया",
+      "ayah_number": 8,
+      "verse_key": "91:8"
+    },
+    {
+      "number": 9,
+      "text": "(क़सम है) जिसने उस (जान) को (गनाह से) पाक रखा वह तो कामयाब हुआ",
+      "ayah_number": 9,
+      "verse_key": "91:9"
+    },
+    {
+      "number": 10,
+      "text": "और जिसने उसे (गुनाह करके) दबा दिया वह नामुराद रहा",
+      "ayah_number": 10,
+      "verse_key": "91:10"
+    },
+    {
+      "number": 11,
+      "text": "क़ौम मसूद ने अपनी सरकशी से (सालेह पैग़म्बर को) झुठलाया,",
+      "ayah_number": 11,
+      "verse_key": "91:11"
+    },
+    {
+      "number": 12,
+      "text": "जब उनमें का एक बड़ा बदबख्त उठ खड़ा हुआ",
+      "ayah_number": 12,
+      "verse_key": "91:12"
+    },
+    {
+      "number": 13,
+      "text": "तो ख़ुदा के रसूल (सालेह) ने उनसे कहा कि ख़ुदा की ऊँटनी और उसके पानी पीने से तअर्रुज़ न करना",
+      "ayah_number": 13,
+      "verse_key": "91:13"
+    },
+    {
+      "number": 14,
+      "text": "मगर उन लोगों पैग़म्बर को झुठलाया और उसकी कूँचे काट डाली तो ख़ुदा ने उनके गुनाहों सबब से उन पर अज़ाब नाज़िल किया फिर (हलाक करके) बराबर कर दिया",
+      "ayah_number": 14,
+      "verse_key": "91:14"
+    },
+    {
+      "number": 15,
+      "text": "और उसको उनके बदले का कोई ख़ौफ तो है नहीं",
+      "ayah_number": 15,
+      "verse_key": "91:15"
+    }
+  ]
+}

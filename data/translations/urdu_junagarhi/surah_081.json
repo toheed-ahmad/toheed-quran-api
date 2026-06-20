@@ -1,0 +1,190 @@
+{
+  "number": 81,
+  "name": "At-Takwir",
+  "arabicName": "سُورَةُ التَّكۡوِيرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 29,
+  "translator": "Muhammad Junagarhi",
+  "edition": "ur.junagarhi",
+  "language": "ur",
+  "bismillah": {
+    "verse_key": "81:0",
+    "text": "اللہ کے نام سے جو نہایت مہربان بہت رحم والا ہے"
+  },
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "جب سورج لپیٹ لیا جائے گا",
+      "ayah_number": 1,
+      "verse_key": "81:1"
+    },
+    {
+      "number": 2,
+      "text": "اور جب ستارے بے نور ہو جائیں گی",
+      "ayah_number": 2,
+      "verse_key": "81:2"
+    },
+    {
+      "number": 3,
+      "text": "اور جب پہاڑ چلائے جائیں گے",
+      "ayah_number": 3,
+      "verse_key": "81:3"
+    },
+    {
+      "number": 4,
+      "text": "اور جب دس ماه کی حاملہ اونٹنیاں چھوڑ دی جائیں",
+      "ayah_number": 4,
+      "verse_key": "81:4"
+    },
+    {
+      "number": 5,
+      "text": "اور جب وحشی جانور اکھٹے کیے جائیں گے",
+      "ayah_number": 5,
+      "verse_key": "81:5"
+    },
+    {
+      "number": 6,
+      "text": "اور جب سمندر بھڑکائے جائیں گے",
+      "ayah_number": 6,
+      "verse_key": "81:6"
+    },
+    {
+      "number": 7,
+      "text": "اور جب جانیں (جسموں سے) ملا دی جائیں گی",
+      "ayah_number": 7,
+      "verse_key": "81:7"
+    },
+    {
+      "number": 8,
+      "text": "اور جب زنده گاڑی ہوئی لڑکی سے سوال کیا جائے گا",
+      "ayah_number": 8,
+      "verse_key": "81:8"
+    },
+    {
+      "number": 9,
+      "text": "کہ کس گناه کی وجہ سے وه قتل کی گئی؟",
+      "ayah_number": 9,
+      "verse_key": "81:9"
+    },
+    {
+      "number": 10,
+      "text": "اور جب نامہٴ اعمال کھول دیئے جائیں گے",
+      "ayah_number": 10,
+      "verse_key": "81:10"
+    },
+    {
+      "number": 11,
+      "text": "اور جب آسمان کی کھال اتار لی جائے گی",
+      "ayah_number": 11,
+      "verse_key": "81:11"
+    },
+    {
+      "number": 12,
+      "text": "اور جب جہنم بھڑکائی جائے گی",
+      "ayah_number": 12,
+      "verse_key": "81:12"
+    },
+    {
+      "number": 13,
+      "text": "اور جب جنت نزدیک کر دی جائے گی",
+      "ayah_number": 13,
+      "verse_key": "81:13"
+    },
+    {
+      "number": 14,
+      "text": "تو اس دن ہر شخص جان لے گا جو کچھ لے کر آیا ہوگا",
+      "ayah_number": 14,
+      "verse_key": "81:14"
+    },
+    {
+      "number": 15,
+      "text": "میں قسم کھاتا ہوں پیچھے ہٹنے والے",
+      "ayah_number": 15,
+      "verse_key": "81:15"
+    },
+    {
+      "number": 16,
+      "text": "چلنے پھرنے والے چھپنے والے ستاروں کی",
+      "ayah_number": 16,
+      "verse_key": "81:16"
+    },
+    {
+      "number": 17,
+      "text": "اور رات کی جب جانے لگے",
+      "ayah_number": 17,
+      "verse_key": "81:17"
+    },
+    {
+      "number": 18,
+      "text": "اور صبح کی جب چمکنے لگے",
+      "ayah_number": 18,
+      "verse_key": "81:18"
+    },
+    {
+      "number": 19,
+      "text": "یقیناً یہ ایک بزرگ رسول کا کہا ہوا ہے",
+      "ayah_number": 19,
+      "verse_key": "81:19"
+    },
+    {
+      "number": 20,
+      "text": "جو قوت واﻻ ہے، عرش والے (اللہ) کے نزدیک بلند مرتبہ ہے",
+      "ayah_number": 20,
+      "verse_key": "81:20"
+    },
+    {
+      "number": 21,
+      "text": "جس کی (آسمانوں میں) اطاعت کی جاتی ہے امین ہے",
+      "ayah_number": 21,
+      "verse_key": "81:21"
+    },
+    {
+      "number": 22,
+      "text": "اور تمہارا ساتھی دیوانہ نہیں ہے",
+      "ayah_number": 22,
+      "verse_key": "81:22"
+    },
+    {
+      "number": 23,
+      "text": "اس نے اس (فرشتے) کو آسمان کے کھلے کنارے پر دیکھا بھی ہے",
+      "ayah_number": 23,
+      "verse_key": "81:23"
+    },
+    {
+      "number": 24,
+      "text": "اور یہ غیب کی باتوں کو بتلانے میں بخیل بھی نہیں",
+      "ayah_number": 24,
+      "verse_key": "81:24"
+    },
+    {
+      "number": 25,
+      "text": "اور یہ قرآن شیطان مردود کا کلام نہیں",
+      "ayah_number": 25,
+      "verse_key": "81:25"
+    },
+    {
+      "number": 26,
+      "text": "پھر تم کہاں جا رہے ہو",
+      "ayah_number": 26,
+      "verse_key": "81:26"
+    },
+    {
+      "number": 27,
+      "text": "یہ تو تمام جہان والوں کے لئے نصیحت نامہ ہے",
+      "ayah_number": 27,
+      "verse_key": "81:27"
+    },
+    {
+      "number": 28,
+      "text": "(بالخصوص) اس کے لئے جو تم میں سے سیدھی راه پر چلنا چاہے",
+      "ayah_number": 28,
+      "verse_key": "81:28"
+    },
+    {
+      "number": 29,
+      "text": "اور تم بغیر پروردگار عالم کے چاہے کچھ نہیں چاه سکتے",
+      "ayah_number": 29,
+      "verse_key": "81:29"
+    }
+  ]
+}

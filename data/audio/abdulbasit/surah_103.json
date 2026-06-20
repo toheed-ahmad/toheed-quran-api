@@ -1,0 +1,32 @@
+{
+  "number": 103,
+  "name": "Al-Asr",
+  "arabicName": "سُورَةُ العَصۡرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 3,
+  "reciter": "Abdul Basit",
+  "edition": "ar.abdulsamad",
+  "ayahs": [
+    {
+      "number": 1,
+      "globalNumber": 6177,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6177.mp3",
+      "ayah_number": 1,
+      "verse_key": "103:1"
+    },
+    {
+      "number": 2,
+      "globalNumber": 6178,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6178.mp3",
+      "ayah_number": 2,
+      "verse_key": "103:2"
+    },
+    {
+      "number": 3,
+      "globalNumber": 6179,
+      "audio": "https://cdn.islamic.network/quran/audio/64/ar.abdulsamad/6179.mp3",
+      "ayah_number": 3,
+      "verse_key": "103:3"
+    }
+  ]
+}

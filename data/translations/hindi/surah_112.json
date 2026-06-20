@@ -1,0 +1,35 @@
+{
+  "number": 112,
+  "name": "Al-Ikhlaas",
+  "arabicName": "سُورَةُ الإِخۡلَاصِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 4,
+  "translator": "Suhel Farooq Khan & Saifur Rahman Nadwi",
+  "language": "Hindi",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "(ऐ रसूल) तुम कह दो कि ख़ुदा एक है",
+      "ayah_number": 1,
+      "verse_key": "112:1"
+    },
+    {
+      "number": 2,
+      "text": "ख़ुदा बरहक़ बेनियाज़ है",
+      "ayah_number": 2,
+      "verse_key": "112:2"
+    },
+    {
+      "number": 3,
+      "text": "न उसने किसी को जना न उसको किसी ने जना,",
+      "ayah_number": 3,
+      "verse_key": "112:3"
+    },
+    {
+      "number": 4,
+      "text": "और उसका कोई हमसर नहीं",
+      "ayah_number": 4,
+      "verse_key": "112:4"
+    }
+  ]
+}

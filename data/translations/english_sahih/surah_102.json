@@ -1,0 +1,60 @@
+{
+  "number": 102,
+  "name": "At-Takaathur",
+  "arabicName": "سُورَةُ التَّكَاثُرِ",
+  "revelationType": "Meccan",
+  "totalAyahs": 8,
+  "translator": "Saheeh International",
+  "edition": "en.sahih",
+  "language": "English",
+  "ayahs": [
+    {
+      "number": 1,
+      "text": "Competition in [worldly] increase diverts you",
+      "ayah_number": 1,
+      "verse_key": "102:1"
+    },
+    {
+      "number": 2,
+      "text": "Until you visit the graveyards.",
+      "ayah_number": 2,
+      "verse_key": "102:2"
+    },
+    {
+      "number": 3,
+      "text": "No! You are going to know.",
+      "ayah_number": 3,
+      "verse_key": "102:3"
+    },
+    {
+      "number": 4,
+      "text": "Then no! You are going to know.",
+      "ayah_number": 4,
+      "verse_key": "102:4"
+    },
+    {
+      "number": 5,
+      "text": "No! If you only knew with knowledge of certainty...",
+      "ayah_number": 5,
+      "verse_key": "102:5"
+    },
+    {
+      "number": 6,
+      "text": "You will surely see the Hellfire.",
+      "ayah_number": 6,
+      "verse_key": "102:6"
+    },
+    {
+      "number": 7,
+      "text": "Then you will surely see it with the eye of certainty.",
+      "ayah_number": 7,
+      "verse_key": "102:7"
+    },
+    {
+      "number": 8,
+      "text": "Then you will surely be asked that Day about pleasure.",
+      "ayah_number": 8,
+      "verse_key": "102:8"
+    }
+  ]
+}

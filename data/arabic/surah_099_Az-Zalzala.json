@@ -1,0 +1,106 @@
+{
+  "surah_id": 99,
+  "surah_name": "Az-Zalzala",
+  "arabic_name": "سُورَةُ الزَّلۡزَلَةِ",
+  "revelation_type": "Medinan",
+  "total_ayahs": 8,
+  "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ",
+  "content": [
+    {
+      "ayah_number": 1,
+      "arabic_text": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ۝۱",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 541,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "99:1"
+    },
+    {
+      "ayah_number": 2,
+      "arabic_text": "وَ اَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ۝۲",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 541,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "99:2"
+    },
+    {
+      "ayah_number": 3,
+      "arabic_text": "وَ قَالَ الْاِنْسَانُ مَا لَهَاۚ۝۳",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 541,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "99:3"
+    },
+    {
+      "ayah_number": 4,
+      "arabic_text": "یَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ۝۴",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 541,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "99:4"
+    },
+    {
+      "ayah_number": 5,
+      "arabic_text": "بِاَنَّ رَبَّكَ اَوْحٰی لَهَاؕ۝۵",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 541,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "99:5"
+    },
+    {
+      "ayah_number": 6,
+      "arabic_text": "یَوْمَىِٕذٍ یَّصْدُرُ النَّاسُ اَشْتَاتًا ۙ۬ لِّیُرَوْا اَعْمَالَهُمْؕ۝۶",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 541,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "99:6"
+    },
+    {
+      "ayah_number": 7,
+      "arabic_text": "فَمَنْ یَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَیْرًا یَّرَهٗؕ۝۷",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 541,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "99:7"
+    },
+    {
+      "ayah_number": 8,
+      "arabic_text": "وَ مَنْ یَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا یَّرَهٗ۠۝۸",
+      "juz": 30,
+      "page": 599,
+      "manzil": 7,
+      "ruku": 541,
+      "hizb": 60,
+      "hizbQuarter": 239,
+      "sajdah": false,
+      "verse_key": "99:8"
+    }
+  ]
+}
