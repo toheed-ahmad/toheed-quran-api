@@ -1,0 +1,917 @@
+{
+  "total": 114,
+  "surahs": [
+    {
+      "number": 1,
+      "name": "سُورَةُ ٱلْفَاتِحَةِ",
+      "englishName": "Al-Faatiha",
+      "revelationType": "Meccan",
+      "totalAyahs": 7,
+      "bismillahPre": true
+    },
+    {
+      "number": 2,
+      "name": "سُورَةُ البَقَرَةِ",
+      "englishName": "Al-Baqara",
+      "revelationType": "Medinan",
+      "totalAyahs": 286,
+      "bismillahPre": true
+    },
+    {
+      "number": 3,
+      "name": "سُورَةُ آلِ عِمۡرَانَ",
+      "englishName": "Aal-i-Imraan",
+      "revelationType": "Medinan",
+      "totalAyahs": 200,
+      "bismillahPre": true
+    },
+    {
+      "number": 4,
+      "name": "سُورَةُ النِّسَاءِ",
+      "englishName": "An-Nisaa",
+      "revelationType": "Medinan",
+      "totalAyahs": 176,
+      "bismillahPre": true
+    },
+    {
+      "number": 5,
+      "name": "سُورَةُ المَائـِدَةِ",
+      "englishName": "Al-Maaida",
+      "revelationType": "Medinan",
+      "totalAyahs": 120,
+      "bismillahPre": true
+    },
+    {
+      "number": 6,
+      "name": "سُورَةُ الأَنۡعَامِ",
+      "englishName": "Al-An'aam",
+      "revelationType": "Meccan",
+      "totalAyahs": 165,
+      "bismillahPre": true
+    },
+    {
+      "number": 7,
+      "name": "سُورَةُ الأَعۡرَافِ",
+      "englishName": "Al-A'raaf",
+      "revelationType": "Meccan",
+      "totalAyahs": 206,
+      "bismillahPre": true
+    },
+    {
+      "number": 8,
+      "name": "سُورَةُ الأَنفَالِ",
+      "englishName": "Al-Anfaal",
+      "revelationType": "Medinan",
+      "totalAyahs": 75,
+      "bismillahPre": true
+    },
+    {
+      "number": 9,
+      "name": "سُورَةُ التَّوۡبَةِ",
+      "englishName": "At-Tawba",
+      "revelationType": "Medinan",
+      "totalAyahs": 129,
+      "bismillahPre": false
+    },
+    {
+      "number": 10,
+      "name": "سُورَةُ يُونُسَ",
+      "englishName": "Yunus",
+      "revelationType": "Meccan",
+      "totalAyahs": 109,
+      "bismillahPre": true
+    },
+    {
+      "number": 11,
+      "name": "سُورَةُ هُودٍ",
+      "englishName": "Hud",
+      "revelationType": "Meccan",
+      "totalAyahs": 123,
+      "bismillahPre": true
+    },
+    {
+      "number": 12,
+      "name": "سُورَةُ يُوسُفَ",
+      "englishName": "Yusuf",
+      "revelationType": "Meccan",
+      "totalAyahs": 111,
+      "bismillahPre": true
+    },
+    {
+      "number": 13,
+      "name": "سُورَةُ الرَّعۡدِ",
+      "englishName": "Ar-Ra'd",
+      "revelationType": "Medinan",
+      "totalAyahs": 43,
+      "bismillahPre": true
+    },
+    {
+      "number": 14,
+      "name": "سُورَةُ إِبۡرَاهِيمَ",
+      "englishName": "Ibrahim",
+      "revelationType": "Meccan",
+      "totalAyahs": 52,
+      "bismillahPre": true
+    },
+    {
+      "number": 15,
+      "name": "سُورَةُ الحِجۡرِ",
+      "englishName": "Al-Hijr",
+      "revelationType": "Meccan",
+      "totalAyahs": 99,
+      "bismillahPre": true
+    },
+    {
+      "number": 16,
+      "name": "سُورَةُ النَّحۡلِ",
+      "englishName": "An-Nahl",
+      "revelationType": "Meccan",
+      "totalAyahs": 128,
+      "bismillahPre": true
+    },
+    {
+      "number": 17,
+      "name": "سُورَةُ الإِسۡرَاءِ",
+      "englishName": "Al-Israa",
+      "revelationType": "Meccan",
+      "totalAyahs": 111,
+      "bismillahPre": true
+    },
+    {
+      "number": 18,
+      "name": "سُورَةُ الكَهۡفِ",
+      "englishName": "Al-Kahf",
+      "revelationType": "Meccan",
+      "totalAyahs": 110,
+      "bismillahPre": true
+    },
+    {
+      "number": 19,
+      "name": "سُورَةُ مَرۡيَمَ",
+      "englishName": "Maryam",
+      "revelationType": "Meccan",
+      "totalAyahs": 98,
+      "bismillahPre": true
+    },
+    {
+      "number": 20,
+      "name": "سُورَةُ طه",
+      "englishName": "Taa-Haa",
+      "revelationType": "Meccan",
+      "totalAyahs": 135,
+      "bismillahPre": true
+    },
+    {
+      "number": 21,
+      "name": "سُورَةُ الأَنبِيَاءِ",
+      "englishName": "Al-Anbiyaa",
+      "revelationType": "Meccan",
+      "totalAyahs": 112,
+      "bismillahPre": true
+    },
+    {
+      "number": 22,
+      "name": "سُورَةُ الحَجِّ",
+      "englishName": "Al-Hajj",
+      "revelationType": "Medinan",
+      "totalAyahs": 78,
+      "bismillahPre": true
+    },
+    {
+      "number": 23,
+      "name": "سُورَةُ المُؤۡمِنُونَ",
+      "englishName": "Al-Muminoon",
+      "revelationType": "Meccan",
+      "totalAyahs": 118,
+      "bismillahPre": true
+    },
+    {
+      "number": 24,
+      "name": "سُورَةُ النُّورِ",
+      "englishName": "An-Noor",
+      "revelationType": "Medinan",
+      "totalAyahs": 64,
+      "bismillahPre": true
+    },
+    {
+      "number": 25,
+      "name": "سُورَةُ الفُرۡقَانِ",
+      "englishName": "Al-Furqaan",
+      "revelationType": "Meccan",
+      "totalAyahs": 77,
+      "bismillahPre": true
+    },
+    {
+      "number": 26,
+      "name": "سُورَةُ الشُّعَرَاءِ",
+      "englishName": "Ash-Shu'araa",
+      "revelationType": "Meccan",
+      "totalAyahs": 227,
+      "bismillahPre": true
+    },
+    {
+      "number": 27,
+      "name": "سُورَةُ النَّمۡلِ",
+      "englishName": "An-Naml",
+      "revelationType": "Meccan",
+      "totalAyahs": 93,
+      "bismillahPre": true
+    },
+    {
+      "number": 28,
+      "name": "سُورَةُ القَصَصِ",
+      "englishName": "Al-Qasas",
+      "revelationType": "Meccan",
+      "totalAyahs": 88,
+      "bismillahPre": true
+    },
+    {
+      "number": 29,
+      "name": "سُورَةُ العَنكَبُوتِ",
+      "englishName": "Al-Ankaboot",
+      "revelationType": "Meccan",
+      "totalAyahs": 69,
+      "bismillahPre": true
+    },
+    {
+      "number": 30,
+      "name": "سُورَةُ الرُّومِ",
+      "englishName": "Ar-Room",
+      "revelationType": "Meccan",
+      "totalAyahs": 60,
+      "bismillahPre": true
+    },
+    {
+      "number": 31,
+      "name": "سُورَةُ لُقۡمَانَ",
+      "englishName": "Luqman",
+      "revelationType": "Meccan",
+      "totalAyahs": 34,
+      "bismillahPre": true
+    },
+    {
+      "number": 32,
+      "name": "سُورَةُ السَّجۡدَةِ",
+      "englishName": "As-Sajda",
+      "revelationType": "Meccan",
+      "totalAyahs": 30,
+      "bismillahPre": true
+    },
+    {
+      "number": 33,
+      "name": "سُورَةُ الأَحۡزَابِ",
+      "englishName": "Al-Ahzaab",
+      "revelationType": "Medinan",
+      "totalAyahs": 73,
+      "bismillahPre": true
+    },
+    {
+      "number": 34,
+      "name": "سُورَةُ سَبَإٍ",
+      "englishName": "Saba",
+      "revelationType": "Meccan",
+      "totalAyahs": 54,
+      "bismillahPre": true
+    },
+    {
+      "number": 35,
+      "name": "سُورَةُ فَاطِرٍ",
+      "englishName": "Faatir",
+      "revelationType": "Meccan",
+      "totalAyahs": 45,
+      "bismillahPre": true
+    },
+    {
+      "number": 36,
+      "name": "سُورَةُ يسٓ",
+      "englishName": "Yaseen",
+      "revelationType": "Meccan",
+      "totalAyahs": 83,
+      "bismillahPre": true
+    },
+    {
+      "number": 37,
+      "name": "سُورَةُ الصَّافَّاتِ",
+      "englishName": "As-Saaffaat",
+      "revelationType": "Meccan",
+      "totalAyahs": 182,
+      "bismillahPre": true
+    },
+    {
+      "number": 38,
+      "name": "سُورَةُ صٓ",
+      "englishName": "Saad",
+      "revelationType": "Meccan",
+      "totalAyahs": 88,
+      "bismillahPre": true
+    },
+    {
+      "number": 39,
+      "name": "سُورَةُ الزُّمَرِ",
+      "englishName": "Az-Zumar",
+      "revelationType": "Meccan",
+      "totalAyahs": 75,
+      "bismillahPre": true
+    },
+    {
+      "number": 40,
+      "name": "سُورَةُ غَافِرٍ",
+      "englishName": "Ghafir",
+      "revelationType": "Meccan",
+      "totalAyahs": 85,
+      "bismillahPre": true
+    },
+    {
+      "number": 41,
+      "name": "سُورَةُ فُصِّلَتۡ",
+      "englishName": "Fussilat",
+      "revelationType": "Meccan",
+      "totalAyahs": 54,
+      "bismillahPre": true
+    },
+    {
+      "number": 42,
+      "name": "سُورَةُ الشُّورَىٰ",
+      "englishName": "Ash-Shura",
+      "revelationType": "Meccan",
+      "totalAyahs": 53,
+      "bismillahPre": true
+    },
+    {
+      "number": 43,
+      "name": "سُورَةُ الزُّخۡرُفِ",
+      "englishName": "Az-Zukhruf",
+      "revelationType": "Meccan",
+      "totalAyahs": 89,
+      "bismillahPre": true
+    },
+    {
+      "number": 44,
+      "name": "سُورَةُ الدُّخَانِ",
+      "englishName": "Ad-Dukhaan",
+      "revelationType": "Meccan",
+      "totalAyahs": 59,
+      "bismillahPre": true
+    },
+    {
+      "number": 45,
+      "name": "سُورَةُ الجَاثِيَةِ",
+      "englishName": "Al-Jaathiya",
+      "revelationType": "Meccan",
+      "totalAyahs": 37,
+      "bismillahPre": true
+    },
+    {
+      "number": 46,
+      "name": "سُورَةُ الأَحۡقَافِ",
+      "englishName": "Al-Ahqaf",
+      "revelationType": "Meccan",
+      "totalAyahs": 35,
+      "bismillahPre": true
+    },
+    {
+      "number": 47,
+      "name": "سُورَةُ مُحَمَّدٍ",
+      "englishName": "Muhammad",
+      "revelationType": "Medinan",
+      "totalAyahs": 38,
+      "bismillahPre": true
+    },
+    {
+      "number": 48,
+      "name": "سُورَةُ الفَتۡحِ",
+      "englishName": "Al-Fath",
+      "revelationType": "Medinan",
+      "totalAyahs": 29,
+      "bismillahPre": true
+    },
+    {
+      "number": 49,
+      "name": "سُورَةُ الحُجُرَاتِ",
+      "englishName": "Al-Hujuraat",
+      "revelationType": "Medinan",
+      "totalAyahs": 18,
+      "bismillahPre": true
+    },
+    {
+      "number": 50,
+      "name": "سُورَةُ قٓ",
+      "englishName": "Qaaf",
+      "revelationType": "Meccan",
+      "totalAyahs": 45,
+      "bismillahPre": true
+    },
+    {
+      "number": 51,
+      "name": "سُورَةُ الذَّارِيَاتِ",
+      "englishName": "Adh-Dhaariyat",
+      "revelationType": "Meccan",
+      "totalAyahs": 60,
+      "bismillahPre": true
+    },
+    {
+      "number": 52,
+      "name": "سُورَةُ الطُّورِ",
+      "englishName": "At-Tur",
+      "revelationType": "Meccan",
+      "totalAyahs": 49,
+      "bismillahPre": true
+    },
+    {
+      "number": 53,
+      "name": "سُورَةُ النَّجۡمِ",
+      "englishName": "An-Najm",
+      "revelationType": "Meccan",
+      "totalAyahs": 62,
+      "bismillahPre": true
+    },
+    {
+      "number": 54,
+      "name": "سُورَةُ القَمَرِ",
+      "englishName": "Al-Qamar",
+      "revelationType": "Meccan",
+      "totalAyahs": 55,
+      "bismillahPre": true
+    },
+    {
+      "number": 55,
+      "name": "سُورَةُ الرَّحۡمَٰن",
+      "englishName": "Ar-Rahmaan",
+      "revelationType": "Medinan",
+      "totalAyahs": 78,
+      "bismillahPre": true
+    },
+    {
+      "number": 56,
+      "name": "سُورَةُ الوَاقِعَةِ",
+      "englishName": "Al-Waaqia",
+      "revelationType": "Meccan",
+      "totalAyahs": 96,
+      "bismillahPre": true
+    },
+    {
+      "number": 57,
+      "name": "سُورَةُ الحَدِيدِ",
+      "englishName": "Al-Hadid",
+      "revelationType": "Medinan",
+      "totalAyahs": 29,
+      "bismillahPre": true
+    },
+    {
+      "number": 58,
+      "name": "سُورَةُ المُجَادلَةِ",
+      "englishName": "Al-Mujaadila",
+      "revelationType": "Medinan",
+      "totalAyahs": 22,
+      "bismillahPre": true
+    },
+    {
+      "number": 59,
+      "name": "سُورَةُ الحَشۡرِ",
+      "englishName": "Al-Hashr",
+      "revelationType": "Medinan",
+      "totalAyahs": 24,
+      "bismillahPre": true
+    },
+    {
+      "number": 60,
+      "name": "سُورَةُ المُمۡتَحنَةِ",
+      "englishName": "Al-Mumtahana",
+      "revelationType": "Medinan",
+      "totalAyahs": 13,
+      "bismillahPre": true
+    },
+    {
+      "number": 61,
+      "name": "سُورَةُ الصَّفِّ",
+      "englishName": "As-Saff",
+      "revelationType": "Medinan",
+      "totalAyahs": 14,
+      "bismillahPre": true
+    },
+    {
+      "number": 62,
+      "name": "سُورَةُ الجُمُعَةِ",
+      "englishName": "Al-Jumu'a",
+      "revelationType": "Medinan",
+      "totalAyahs": 11,
+      "bismillahPre": true
+    },
+    {
+      "number": 63,
+      "name": "سُورَةُ المُنَافِقُونَ",
+      "englishName": "Al-Munaafiqoon",
+      "revelationType": "Medinan",
+      "totalAyahs": 11,
+      "bismillahPre": true
+    },
+    {
+      "number": 64,
+      "name": "سُورَةُ التَّغَابُنِ",
+      "englishName": "At-Taghaabun",
+      "revelationType": "Medinan",
+      "totalAyahs": 18,
+      "bismillahPre": true
+    },
+    {
+      "number": 65,
+      "name": "سُورَةُ الطَّلَاقِ",
+      "englishName": "At-Talaaq",
+      "revelationType": "Medinan",
+      "totalAyahs": 12,
+      "bismillahPre": true
+    },
+    {
+      "number": 66,
+      "name": "سُورَةُ التَّحۡرِيمِ",
+      "englishName": "At-Tahrim",
+      "revelationType": "Medinan",
+      "totalAyahs": 12,
+      "bismillahPre": true
+    },
+    {
+      "number": 67,
+      "name": "سُورَةُ المُلۡكِ",
+      "englishName": "Al-Mulk",
+      "revelationType": "Meccan",
+      "totalAyahs": 30,
+      "bismillahPre": true
+    },
+    {
+      "number": 68,
+      "name": "سُورَةُ القَلَمِ",
+      "englishName": "Al-Qalam",
+      "revelationType": "Meccan",
+      "totalAyahs": 52,
+      "bismillahPre": true
+    },
+    {
+      "number": 69,
+      "name": "سُورَةُ الحَاقَّةِ",
+      "englishName": "Al-Haaqqa",
+      "revelationType": "Meccan",
+      "totalAyahs": 52,
+      "bismillahPre": true
+    },
+    {
+      "number": 70,
+      "name": "سُورَةُ المَعَارِجِ",
+      "englishName": "Al-Ma'aarij",
+      "revelationType": "Meccan",
+      "totalAyahs": 44,
+      "bismillahPre": true
+    },
+    {
+      "number": 71,
+      "name": "سُورَةُ نُوحٍ",
+      "englishName": "Nooh",
+      "revelationType": "Meccan",
+      "totalAyahs": 28,
+      "bismillahPre": true
+    },
+    {
+      "number": 72,
+      "name": "سُورَةُ الجِنِّ",
+      "englishName": "Al-Jinn",
+      "revelationType": "Meccan",
+      "totalAyahs": 28,
+      "bismillahPre": true
+    },
+    {
+      "number": 73,
+      "name": "سُورَةُ المُزَّمِّلِ",
+      "englishName": "Al-Muzzammil",
+      "revelationType": "Meccan",
+      "totalAyahs": 20,
+      "bismillahPre": true
+    },
+    {
+      "number": 74,
+      "name": "سُورَةُ المُدَّثِّرِ",
+      "englishName": "Al-Muddaththir",
+      "revelationType": "Meccan",
+      "totalAyahs": 56,
+      "bismillahPre": true
+    },
+    {
+      "number": 75,
+      "name": "سُورَةُ القِيَامَةِ",
+      "englishName": "Al-Qiyaama",
+      "revelationType": "Meccan",
+      "totalAyahs": 40,
+      "bismillahPre": true
+    },
+    {
+      "number": 76,
+      "name": "سُورَةُ الإِنسَانِ",
+      "englishName": "Al-Insaan",
+      "revelationType": "Medinan",
+      "totalAyahs": 31,
+      "bismillahPre": true
+    },
+    {
+      "number": 77,
+      "name": "سُورَةُ المُرۡسَلَاتِ",
+      "englishName": "Al-Mursalaat",
+      "revelationType": "Meccan",
+      "totalAyahs": 50,
+      "bismillahPre": true
+    },
+    {
+      "number": 78,
+      "name": "سُورَةُ النَّبَإِ",
+      "englishName": "An-Naba",
+      "revelationType": "Meccan",
+      "totalAyahs": 40,
+      "bismillahPre": true
+    },
+    {
+      "number": 79,
+      "name": "سُورَةُ النَّازِعَاتِ",
+      "englishName": "An-Naazi'aat",
+      "revelationType": "Meccan",
+      "totalAyahs": 46,
+      "bismillahPre": true
+    },
+    {
+      "number": 80,
+      "name": "سُورَةُ عَبَسَ",
+      "englishName": "Abasa",
+      "revelationType": "Meccan",
+      "totalAyahs": 42,
+      "bismillahPre": true
+    },
+    {
+      "number": 81,
+      "name": "سُورَةُ التَّكۡوِيرِ",
+      "englishName": "At-Takwir",
+      "revelationType": "Meccan",
+      "totalAyahs": 29,
+      "bismillahPre": true
+    },
+    {
+      "number": 82,
+      "name": "سُورَةُ الانفِطَارِ",
+      "englishName": "Al-Infitaar",
+      "revelationType": "Meccan",
+      "totalAyahs": 19,
+      "bismillahPre": true
+    },
+    {
+      "number": 83,
+      "name": "سُورَةُ المُطَفِّفِينَ",
+      "englishName": "Al-Mutaffifin",
+      "revelationType": "Meccan",
+      "totalAyahs": 36,
+      "bismillahPre": true
+    },
+    {
+      "number": 84,
+      "name": "سُورَةُ الانشِقَاقِ",
+      "englishName": "Al-Inshiqaaq",
+      "revelationType": "Meccan",
+      "totalAyahs": 25,
+      "bismillahPre": true
+    },
+    {
+      "number": 85,
+      "name": "سُورَةُ البُرُوجِ",
+      "englishName": "Al-Burooj",
+      "revelationType": "Meccan",
+      "totalAyahs": 22,
+      "bismillahPre": true
+    },
+    {
+      "number": 86,
+      "name": "سُورَةُ الطَّارِقِ",
+      "englishName": "At-Taariq",
+      "revelationType": "Meccan",
+      "totalAyahs": 17,
+      "bismillahPre": true
+    },
+    {
+      "number": 87,
+      "name": "سُورَةُ الأَعۡلَىٰ",
+      "englishName": "Al-A'laa",
+      "revelationType": "Meccan",
+      "totalAyahs": 19,
+      "bismillahPre": true
+    },
+    {
+      "number": 88,
+      "name": "سُورَةُ الغَاشِيَةِ",
+      "englishName": "Al-Ghaashiya",
+      "revelationType": "Meccan",
+      "totalAyahs": 26,
+      "bismillahPre": true
+    },
+    {
+      "number": 89,
+      "name": "سُورَةُ الفَجۡرِ",
+      "englishName": "Al-Fajr",
+      "revelationType": "Meccan",
+      "totalAyahs": 30,
+      "bismillahPre": true
+    },
+    {
+      "number": 90,
+      "name": "سُورَةُ البَلَدِ",
+      "englishName": "Al-Balad",
+      "revelationType": "Meccan",
+      "totalAyahs": 20,
+      "bismillahPre": true
+    },
+    {
+      "number": 91,
+      "name": "سُورَةُ الشَّمۡسِ",
+      "englishName": "Ash-Shams",
+      "revelationType": "Meccan",
+      "totalAyahs": 15,
+      "bismillahPre": true
+    },
+    {
+      "number": 92,
+      "name": "سُورَةُ اللَّيۡلِ",
+      "englishName": "Al-Lail",
+      "revelationType": "Meccan",
+      "totalAyahs": 21,
+      "bismillahPre": true
+    },
+    {
+      "number": 93,
+      "name": "سُورَةُ الضُّحَىٰ",
+      "englishName": "Ad-Dhuhaa",
+      "revelationType": "Meccan",
+      "totalAyahs": 11,
+      "bismillahPre": true
+    },
+    {
+      "number": 94,
+      "name": "سُورَةُ الشَّرۡحِ",
+      "englishName": "Ash-Sharh",
+      "revelationType": "Meccan",
+      "totalAyahs": 8,
+      "bismillahPre": true
+    },
+    {
+      "number": 95,
+      "name": "سُورَةُ التِّينِ",
+      "englishName": "At-Tin",
+      "revelationType": "Meccan",
+      "totalAyahs": 8,
+      "bismillahPre": true
+    },
+    {
+      "number": 96,
+      "name": "سُورَةُ العَلَقِ",
+      "englishName": "Al-Alaq",
+      "revelationType": "Meccan",
+      "totalAyahs": 19,
+      "bismillahPre": true
+    },
+    {
+      "number": 97,
+      "name": "سُورَةُ القَدۡرِ",
+      "englishName": "Al-Qadr",
+      "revelationType": "Meccan",
+      "totalAyahs": 5,
+      "bismillahPre": true
+    },
+    {
+      "number": 98,
+      "name": "سُورَةُ البَيِّنَةِ",
+      "englishName": "Al-Bayyina",
+      "revelationType": "Medinan",
+      "totalAyahs": 8,
+      "bismillahPre": true
+    },
+    {
+      "number": 99,
+      "name": "سُورَةُ الزَّلۡزَلَةِ",
+      "englishName": "Az-Zalzala",
+      "revelationType": "Medinan",
+      "totalAyahs": 8,
+      "bismillahPre": true
+    },
+    {
+      "number": 100,
+      "name": "سُورَةُ العَادِيَاتِ",
+      "englishName": "Al-Aadiyaat",
+      "revelationType": "Meccan",
+      "totalAyahs": 11,
+      "bismillahPre": true
+    },
+    {
+      "number": 101,
+      "name": "سُورَةُ القَارِعَةِ",
+      "englishName": "Al-Qaari'a",
+      "revelationType": "Meccan",
+      "totalAyahs": 11,
+      "bismillahPre": true
+    },
+    {
+      "number": 102,
+      "name": "سُورَةُ التَّكَاثُرِ",
+      "englishName": "At-Takaathur",
+      "revelationType": "Meccan",
+      "totalAyahs": 8,
+      "bismillahPre": true
+    },
+    {
+      "number": 103,
+      "name": "سُورَةُ العَصۡرِ",
+      "englishName": "Al-Asr",
+      "revelationType": "Meccan",
+      "totalAyahs": 3,
+      "bismillahPre": true
+    },
+    {
+      "number": 104,
+      "name": "سُورَةُ الهُمَزَةِ",
+      "englishName": "Al-Humaza",
+      "revelationType": "Meccan",
+      "totalAyahs": 9,
+      "bismillahPre": true
+    },
+    {
+      "number": 105,
+      "name": "سُورَةُ الفِيلِ",
+      "englishName": "Al-Fil",
+      "revelationType": "Meccan",
+      "totalAyahs": 5,
+      "bismillahPre": true
+    },
+    {
+      "number": 106,
+      "name": "سُورَةُ قُرَيۡشٍ",
+      "englishName": "Quraish",
+      "revelationType": "Meccan",
+      "totalAyahs": 4,
+      "bismillahPre": true
+    },
+    {
+      "number": 107,
+      "name": "سُورَةُ المَاعُونِ",
+      "englishName": "Al-Maa'un",
+      "revelationType": "Meccan",
+      "totalAyahs": 7,
+      "bismillahPre": true
+    },
+    {
+      "number": 108,
+      "name": "سُورَةُ الكَوۡثَرِ",
+      "englishName": "Al-Kawthar",
+      "revelationType": "Meccan",
+      "totalAyahs": 3,
+      "bismillahPre": true
+    },
+    {
+      "number": 109,
+      "name": "سُورَةُ الكَافِرُونَ",
+      "englishName": "Al-Kaafiroon",
+      "revelationType": "Meccan",
+      "totalAyahs": 6,
+      "bismillahPre": true
+    },
+    {
+      "number": 110,
+      "name": "سُورَةُ النَّصۡرِ",
+      "englishName": "An-Nasr",
+      "revelationType": "Medinan",
+      "totalAyahs": 3,
+      "bismillahPre": true
+    },
+    {
+      "number": 111,
+      "name": "سُورَةُ المَسَدِ",
+      "englishName": "Al-Masad",
+      "revelationType": "Meccan",
+      "totalAyahs": 5,
+      "bismillahPre": true
+    },
+    {
+      "number": 112,
+      "name": "سُورَةُ الإِخۡلَاصِ",
+      "englishName": "Al-Ikhlaas",
+      "revelationType": "Meccan",
+      "totalAyahs": 4,
+      "bismillahPre": true
+    },
+    {
+      "number": 113,
+      "name": "سُورَةُ الفَلَقِ",
+      "englishName": "Al-Falaq",
+      "revelationType": "Meccan",
+      "totalAyahs": 5,
+      "bismillahPre": true
+    },
+    {
+      "number": 114,
+      "name": "سُورَةُ النَّاسِ",
+      "englishName": "An-Naas",
+      "revelationType": "Meccan",
+      "totalAyahs": 6,
+      "bismillahPre": true
+    }
+  ]
+}

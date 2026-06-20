@@ -6,6 +6,7 @@ A lightweight, robust, and highly scalable Node.js API that serves the Holy Qura
 - **Arabic Text:** Dynamic retrieval of all 114 Surahs.
 - **Audio Recitations:** Support for 5 top reciters (AbdulBasit, Alafasy, Maher, Minshawi, Sudais).
 - **Translations:** Built-in routes for English (Sahih), Hindi, and 3 Urdu variants (Ahmad Ali, Junagarhi, Taqi).
+- **Metadata Support:** Complete endpoints for Surah profiles and Juz breakdown.
 - **Tafsir Ready:** Advanced placeholder logic already configured; simply add the files and serve.
 
 ---
