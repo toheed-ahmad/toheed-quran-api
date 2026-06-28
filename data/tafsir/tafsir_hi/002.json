@@ -1,0 +1,1442 @@
+{
+  "surah_id": 2,
+  "surah_name": "Al-Baqara",
+  "arabic_name": "سُورَةُ البَقَرَةِ",
+  "revelation_type": "Medinan",
+  "total_ayahs": 286,
+  "bismillah_pre": true,
+  "source": "आसान तफ़्सीर (यादे इलाही)",
+  "language": "hi",
+  "content": [
+    {
+      "ayah_number": 1,
+      "verse_key": "2:1",
+      "text": ""
+    },
+    {
+      "ayah_number": 2,
+      "verse_key": "2:2",
+      "text": ""
+    },
+    {
+      "ayah_number": 3,
+      "verse_key": "2:3",
+      "text": ""
+    },
+    {
+      "ayah_number": 4,
+      "verse_key": "2:4",
+      "text": ""
+    },
+    {
+      "ayah_number": 5,
+      "verse_key": "2:5",
+      "text": ""
+    },
+    {
+      "ayah_number": 6,
+      "verse_key": "2:6",
+      "text": ""
+    },
+    {
+      "ayah_number": 7,
+      "verse_key": "2:7",
+      "text": ""
+    },
+    {
+      "ayah_number": 8,
+      "verse_key": "2:8",
+      "text": ""
+    },
+    {
+      "ayah_number": 9,
+      "verse_key": "2:9",
+      "text": ""
+    },
+    {
+      "ayah_number": 10,
+      "verse_key": "2:10",
+      "text": ""
+    },
+    {
+      "ayah_number": 11,
+      "verse_key": "2:11",
+      "text": ""
+    },
+    {
+      "ayah_number": 12,
+      "verse_key": "2:12",
+      "text": ""
+    },
+    {
+      "ayah_number": 13,
+      "verse_key": "2:13",
+      "text": ""
+    },
+    {
+      "ayah_number": 14,
+      "verse_key": "2:14",
+      "text": ""
+    },
+    {
+      "ayah_number": 15,
+      "verse_key": "2:15",
+      "text": ""
+    },
+    {
+      "ayah_number": 16,
+      "verse_key": "2:16",
+      "text": ""
+    },
+    {
+      "ayah_number": 17,
+      "verse_key": "2:17",
+      "text": ""
+    },
+    {
+      "ayah_number": 18,
+      "verse_key": "2:18",
+      "text": ""
+    },
+    {
+      "ayah_number": 19,
+      "verse_key": "2:19",
+      "text": ""
+    },
+    {
+      "ayah_number": 20,
+      "verse_key": "2:20",
+      "text": ""
+    },
+    {
+      "ayah_number": 21,
+      "verse_key": "2:21",
+      "text": ""
+    },
+    {
+      "ayah_number": 22,
+      "verse_key": "2:22",
+      "text": ""
+    },
+    {
+      "ayah_number": 23,
+      "verse_key": "2:23",
+      "text": ""
+    },
+    {
+      "ayah_number": 24,
+      "verse_key": "2:24",
+      "text": ""
+    },
+    {
+      "ayah_number": 25,
+      "verse_key": "2:25",
+      "text": ""
+    },
+    {
+      "ayah_number": 26,
+      "verse_key": "2:26",
+      "text": ""
+    },
+    {
+      "ayah_number": 27,
+      "verse_key": "2:27",
+      "text": ""
+    },
+    {
+      "ayah_number": 28,
+      "verse_key": "2:28",
+      "text": ""
+    },
+    {
+      "ayah_number": 29,
+      "verse_key": "2:29",
+      "text": ""
+    },
+    {
+      "ayah_number": 30,
+      "verse_key": "2:30",
+      "text": ""
+    },
+    {
+      "ayah_number": 31,
+      "verse_key": "2:31",
+      "text": ""
+    },
+    {
+      "ayah_number": 32,
+      "verse_key": "2:32",
+      "text": ""
+    },
+    {
+      "ayah_number": 33,
+      "verse_key": "2:33",
+      "text": ""
+    },
+    {
+      "ayah_number": 34,
+      "verse_key": "2:34",
+      "text": ""
+    },
+    {
+      "ayah_number": 35,
+      "verse_key": "2:35",
+      "text": ""
+    },
+    {
+      "ayah_number": 36,
+      "verse_key": "2:36",
+      "text": ""
+    },
+    {
+      "ayah_number": 37,
+      "verse_key": "2:37",
+      "text": ""
+    },
+    {
+      "ayah_number": 38,
+      "verse_key": "2:38",
+      "text": ""
+    },
+    {
+      "ayah_number": 39,
+      "verse_key": "2:39",
+      "text": ""
+    },
+    {
+      "ayah_number": 40,
+      "verse_key": "2:40",
+      "text": ""
+    },
+    {
+      "ayah_number": 41,
+      "verse_key": "2:41",
+      "text": ""
+    },
+    {
+      "ayah_number": 42,
+      "verse_key": "2:42",
+      "text": ""
+    },
+    {
+      "ayah_number": 43,
+      "verse_key": "2:43",
+      "text": ""
+    },
+    {
+      "ayah_number": 44,
+      "verse_key": "2:44",
+      "text": ""
+    },
+    {
+      "ayah_number": 45,
+      "verse_key": "2:45",
+      "text": ""
+    },
+    {
+      "ayah_number": 46,
+      "verse_key": "2:46",
+      "text": ""
+    },
+    {
+      "ayah_number": 47,
+      "verse_key": "2:47",
+      "text": ""
+    },
+    {
+      "ayah_number": 48,
+      "verse_key": "2:48",
+      "text": ""
+    },
+    {
+      "ayah_number": 49,
+      "verse_key": "2:49",
+      "text": ""
+    },
+    {
+      "ayah_number": 50,
+      "verse_key": "2:50",
+      "text": ""
+    },
+    {
+      "ayah_number": 51,
+      "verse_key": "2:51",
+      "text": ""
+    },
+    {
+      "ayah_number": 52,
+      "verse_key": "2:52",
+      "text": ""
+    },
+    {
+      "ayah_number": 53,
+      "verse_key": "2:53",
+      "text": ""
+    },
+    {
+      "ayah_number": 54,
+      "verse_key": "2:54",
+      "text": ""
+    },
+    {
+      "ayah_number": 55,
+      "verse_key": "2:55",
+      "text": ""
+    },
+    {
+      "ayah_number": 56,
+      "verse_key": "2:56",
+      "text": ""
+    },
+    {
+      "ayah_number": 57,
+      "verse_key": "2:57",
+      "text": ""
+    },
+    {
+      "ayah_number": 58,
+      "verse_key": "2:58",
+      "text": ""
+    },
+    {
+      "ayah_number": 59,
+      "verse_key": "2:59",
+      "text": ""
+    },
+    {
+      "ayah_number": 60,
+      "verse_key": "2:60",
+      "text": ""
+    },
+    {
+      "ayah_number": 61,
+      "verse_key": "2:61",
+      "text": ""
+    },
+    {
+      "ayah_number": 62,
+      "verse_key": "2:62",
+      "text": ""
+    },
+    {
+      "ayah_number": 63,
+      "verse_key": "2:63",
+      "text": ""
+    },
+    {
+      "ayah_number": 64,
+      "verse_key": "2:64",
+      "text": ""
+    },
+    {
+      "ayah_number": 65,
+      "verse_key": "2:65",
+      "text": ""
+    },
+    {
+      "ayah_number": 66,
+      "verse_key": "2:66",
+      "text": ""
+    },
+    {
+      "ayah_number": 67,
+      "verse_key": "2:67",
+      "text": ""
+    },
+    {
+      "ayah_number": 68,
+      "verse_key": "2:68",
+      "text": ""
+    },
+    {
+      "ayah_number": 69,
+      "verse_key": "2:69",
+      "text": ""
+    },
+    {
+      "ayah_number": 70,
+      "verse_key": "2:70",
+      "text": ""
+    },
+    {
+      "ayah_number": 71,
+      "verse_key": "2:71",
+      "text": ""
+    },
+    {
+      "ayah_number": 72,
+      "verse_key": "2:72",
+      "text": ""
+    },
+    {
+      "ayah_number": 73,
+      "verse_key": "2:73",
+      "text": ""
+    },
+    {
+      "ayah_number": 74,
+      "verse_key": "2:74",
+      "text": ""
+    },
+    {
+      "ayah_number": 75,
+      "verse_key": "2:75",
+      "text": ""
+    },
+    {
+      "ayah_number": 76,
+      "verse_key": "2:76",
+      "text": ""
+    },
+    {
+      "ayah_number": 77,
+      "verse_key": "2:77",
+      "text": ""
+    },
+    {
+      "ayah_number": 78,
+      "verse_key": "2:78",
+      "text": ""
+    },
+    {
+      "ayah_number": 79,
+      "verse_key": "2:79",
+      "text": ""
+    },
+    {
+      "ayah_number": 80,
+      "verse_key": "2:80",
+      "text": ""
+    },
+    {
+      "ayah_number": 81,
+      "verse_key": "2:81",
+      "text": ""
+    },
+    {
+      "ayah_number": 82,
+      "verse_key": "2:82",
+      "text": ""
+    },
+    {
+      "ayah_number": 83,
+      "verse_key": "2:83",
+      "text": ""
+    },
+    {
+      "ayah_number": 84,
+      "verse_key": "2:84",
+      "text": ""
+    },
+    {
+      "ayah_number": 85,
+      "verse_key": "2:85",
+      "text": ""
+    },
+    {
+      "ayah_number": 86,
+      "verse_key": "2:86",
+      "text": ""
+    },
+    {
+      "ayah_number": 87,
+      "verse_key": "2:87",
+      "text": ""
+    },
+    {
+      "ayah_number": 88,
+      "verse_key": "2:88",
+      "text": ""
+    },
+    {
+      "ayah_number": 89,
+      "verse_key": "2:89",
+      "text": ""
+    },
+    {
+      "ayah_number": 90,
+      "verse_key": "2:90",
+      "text": ""
+    },
+    {
+      "ayah_number": 91,
+      "verse_key": "2:91",
+      "text": ""
+    },
+    {
+      "ayah_number": 92,
+      "verse_key": "2:92",
+      "text": ""
+    },
+    {
+      "ayah_number": 93,
+      "verse_key": "2:93",
+      "text": ""
+    },
+    {
+      "ayah_number": 94,
+      "verse_key": "2:94",
+      "text": ""
+    },
+    {
+      "ayah_number": 95,
+      "verse_key": "2:95",
+      "text": ""
+    },
+    {
+      "ayah_number": 96,
+      "verse_key": "2:96",
+      "text": ""
+    },
+    {
+      "ayah_number": 97,
+      "verse_key": "2:97",
+      "text": ""
+    },
+    {
+      "ayah_number": 98,
+      "verse_key": "2:98",
+      "text": ""
+    },
+    {
+      "ayah_number": 99,
+      "verse_key": "2:99",
+      "text": ""
+    },
+    {
+      "ayah_number": 100,
+      "verse_key": "2:100",
+      "text": ""
+    },
+    {
+      "ayah_number": 101,
+      "verse_key": "2:101",
+      "text": ""
+    },
+    {
+      "ayah_number": 102,
+      "verse_key": "2:102",
+      "text": ""
+    },
+    {
+      "ayah_number": 103,
+      "verse_key": "2:103",
+      "text": ""
+    },
+    {
+      "ayah_number": 104,
+      "verse_key": "2:104",
+      "text": ""
+    },
+    {
+      "ayah_number": 105,
+      "verse_key": "2:105",
+      "text": ""
+    },
+    {
+      "ayah_number": 106,
+      "verse_key": "2:106",
+      "text": ""
+    },
+    {
+      "ayah_number": 107,
+      "verse_key": "2:107",
+      "text": ""
+    },
+    {
+      "ayah_number": 108,
+      "verse_key": "2:108",
+      "text": ""
+    },
+    {
+      "ayah_number": 109,
+      "verse_key": "2:109",
+      "text": ""
+    },
+    {
+      "ayah_number": 110,
+      "verse_key": "2:110",
+      "text": ""
+    },
+    {
+      "ayah_number": 111,
+      "verse_key": "2:111",
+      "text": ""
+    },
+    {
+      "ayah_number": 112,
+      "verse_key": "2:112",
+      "text": ""
+    },
+    {
+      "ayah_number": 113,
+      "verse_key": "2:113",
+      "text": ""
+    },
+    {
+      "ayah_number": 114,
+      "verse_key": "2:114",
+      "text": ""
+    },
+    {
+      "ayah_number": 115,
+      "verse_key": "2:115",
+      "text": ""
+    },
+    {
+      "ayah_number": 116,
+      "verse_key": "2:116",
+      "text": ""
+    },
+    {
+      "ayah_number": 117,
+      "verse_key": "2:117",
+      "text": ""
+    },
+    {
+      "ayah_number": 118,
+      "verse_key": "2:118",
+      "text": ""
+    },
+    {
+      "ayah_number": 119,
+      "verse_key": "2:119",
+      "text": ""
+    },
+    {
+      "ayah_number": 120,
+      "verse_key": "2:120",
+      "text": ""
+    },
+    {
+      "ayah_number": 121,
+      "verse_key": "2:121",
+      "text": ""
+    },
+    {
+      "ayah_number": 122,
+      "verse_key": "2:122",
+      "text": ""
+    },
+    {
+      "ayah_number": 123,
+      "verse_key": "2:123",
+      "text": ""
+    },
+    {
+      "ayah_number": 124,
+      "verse_key": "2:124",
+      "text": ""
+    },
+    {
+      "ayah_number": 125,
+      "verse_key": "2:125",
+      "text": ""
+    },
+    {
+      "ayah_number": 126,
+      "verse_key": "2:126",
+      "text": ""
+    },
+    {
+      "ayah_number": 127,
+      "verse_key": "2:127",
+      "text": ""
+    },
+    {
+      "ayah_number": 128,
+      "verse_key": "2:128",
+      "text": ""
+    },
+    {
+      "ayah_number": 129,
+      "verse_key": "2:129",
+      "text": ""
+    },
+    {
+      "ayah_number": 130,
+      "verse_key": "2:130",
+      "text": ""
+    },
+    {
+      "ayah_number": 131,
+      "verse_key": "2:131",
+      "text": ""
+    },
+    {
+      "ayah_number": 132,
+      "verse_key": "2:132",
+      "text": ""
+    },
+    {
+      "ayah_number": 133,
+      "verse_key": "2:133",
+      "text": ""
+    },
+    {
+      "ayah_number": 134,
+      "verse_key": "2:134",
+      "text": ""
+    },
+    {
+      "ayah_number": 135,
+      "verse_key": "2:135",
+      "text": ""
+    },
+    {
+      "ayah_number": 136,
+      "verse_key": "2:136",
+      "text": ""
+    },
+    {
+      "ayah_number": 137,
+      "verse_key": "2:137",
+      "text": ""
+    },
+    {
+      "ayah_number": 138,
+      "verse_key": "2:138",
+      "text": ""
+    },
+    {
+      "ayah_number": 139,
+      "verse_key": "2:139",
+      "text": ""
+    },
+    {
+      "ayah_number": 140,
+      "verse_key": "2:140",
+      "text": ""
+    },
+    {
+      "ayah_number": 141,
+      "verse_key": "2:141",
+      "text": ""
+    },
+    {
+      "ayah_number": 142,
+      "verse_key": "2:142",
+      "text": ""
+    },
+    {
+      "ayah_number": 143,
+      "verse_key": "2:143",
+      "text": ""
+    },
+    {
+      "ayah_number": 144,
+      "verse_key": "2:144",
+      "text": ""
+    },
+    {
+      "ayah_number": 145,
+      "verse_key": "2:145",
+      "text": ""
+    },
+    {
+      "ayah_number": 146,
+      "verse_key": "2:146",
+      "text": ""
+    },
+    {
+      "ayah_number": 147,
+      "verse_key": "2:147",
+      "text": ""
+    },
+    {
+      "ayah_number": 148,
+      "verse_key": "2:148",
+      "text": ""
+    },
+    {
+      "ayah_number": 149,
+      "verse_key": "2:149",
+      "text": ""
+    },
+    {
+      "ayah_number": 150,
+      "verse_key": "2:150",
+      "text": ""
+    },
+    {
+      "ayah_number": 151,
+      "verse_key": "2:151",
+      "text": ""
+    },
+    {
+      "ayah_number": 152,
+      "verse_key": "2:152",
+      "text": ""
+    },
+    {
+      "ayah_number": 153,
+      "verse_key": "2:153",
+      "text": ""
+    },
+    {
+      "ayah_number": 154,
+      "verse_key": "2:154",
+      "text": ""
+    },
+    {
+      "ayah_number": 155,
+      "verse_key": "2:155",
+      "text": ""
+    },
+    {
+      "ayah_number": 156,
+      "verse_key": "2:156",
+      "text": ""
+    },
+    {
+      "ayah_number": 157,
+      "verse_key": "2:157",
+      "text": ""
+    },
+    {
+      "ayah_number": 158,
+      "verse_key": "2:158",
+      "text": ""
+    },
+    {
+      "ayah_number": 159,
+      "verse_key": "2:159",
+      "text": ""
+    },
+    {
+      "ayah_number": 160,
+      "verse_key": "2:160",
+      "text": ""
+    },
+    {
+      "ayah_number": 161,
+      "verse_key": "2:161",
+      "text": ""
+    },
+    {
+      "ayah_number": 162,
+      "verse_key": "2:162",
+      "text": ""
+    },
+    {
+      "ayah_number": 163,
+      "verse_key": "2:163",
+      "text": ""
+    },
+    {
+      "ayah_number": 164,
+      "verse_key": "2:164",
+      "text": ""
+    },
+    {
+      "ayah_number": 165,
+      "verse_key": "2:165",
+      "text": ""
+    },
+    {
+      "ayah_number": 166,
+      "verse_key": "2:166",
+      "text": ""
+    },
+    {
+      "ayah_number": 167,
+      "verse_key": "2:167",
+      "text": ""
+    },
+    {
+      "ayah_number": 168,
+      "verse_key": "2:168",
+      "text": ""
+    },
+    {
+      "ayah_number": 169,
+      "verse_key": "2:169",
+      "text": ""
+    },
+    {
+      "ayah_number": 170,
+      "verse_key": "2:170",
+      "text": ""
+    },
+    {
+      "ayah_number": 171,
+      "verse_key": "2:171",
+      "text": ""
+    },
+    {
+      "ayah_number": 172,
+      "verse_key": "2:172",
+      "text": ""
+    },
+    {
+      "ayah_number": 173,
+      "verse_key": "2:173",
+      "text": ""
+    },
+    {
+      "ayah_number": 174,
+      "verse_key": "2:174",
+      "text": ""
+    },
+    {
+      "ayah_number": 175,
+      "verse_key": "2:175",
+      "text": ""
+    },
+    {
+      "ayah_number": 176,
+      "verse_key": "2:176",
+      "text": ""
+    },
+    {
+      "ayah_number": 177,
+      "verse_key": "2:177",
+      "text": ""
+    },
+    {
+      "ayah_number": 178,
+      "verse_key": "2:178",
+      "text": ""
+    },
+    {
+      "ayah_number": 179,
+      "verse_key": "2:179",
+      "text": ""
+    },
+    {
+      "ayah_number": 180,
+      "verse_key": "2:180",
+      "text": ""
+    },
+    {
+      "ayah_number": 181,
+      "verse_key": "2:181",
+      "text": ""
+    },
+    {
+      "ayah_number": 182,
+      "verse_key": "2:182",
+      "text": ""
+    },
+    {
+      "ayah_number": 183,
+      "verse_key": "2:183",
+      "text": ""
+    },
+    {
+      "ayah_number": 184,
+      "verse_key": "2:184",
+      "text": ""
+    },
+    {
+      "ayah_number": 185,
+      "verse_key": "2:185",
+      "text": ""
+    },
+    {
+      "ayah_number": 186,
+      "verse_key": "2:186",
+      "text": ""
+    },
+    {
+      "ayah_number": 187,
+      "verse_key": "2:187",
+      "text": ""
+    },
+    {
+      "ayah_number": 188,
+      "verse_key": "2:188",
+      "text": ""
+    },
+    {
+      "ayah_number": 189,
+      "verse_key": "2:189",
+      "text": ""
+    },
+    {
+      "ayah_number": 190,
+      "verse_key": "2:190",
+      "text": ""
+    },
+    {
+      "ayah_number": 191,
+      "verse_key": "2:191",
+      "text": ""
+    },
+    {
+      "ayah_number": 192,
+      "verse_key": "2:192",
+      "text": ""
+    },
+    {
+      "ayah_number": 193,
+      "verse_key": "2:193",
+      "text": ""
+    },
+    {
+      "ayah_number": 194,
+      "verse_key": "2:194",
+      "text": ""
+    },
+    {
+      "ayah_number": 195,
+      "verse_key": "2:195",
+      "text": ""
+    },
+    {
+      "ayah_number": 196,
+      "verse_key": "2:196",
+      "text": ""
+    },
+    {
+      "ayah_number": 197,
+      "verse_key": "2:197",
+      "text": ""
+    },
+    {
+      "ayah_number": 198,
+      "verse_key": "2:198",
+      "text": ""
+    },
+    {
+      "ayah_number": 199,
+      "verse_key": "2:199",
+      "text": ""
+    },
+    {
+      "ayah_number": 200,
+      "verse_key": "2:200",
+      "text": ""
+    },
+    {
+      "ayah_number": 201,
+      "verse_key": "2:201",
+      "text": ""
+    },
+    {
+      "ayah_number": 202,
+      "verse_key": "2:202",
+      "text": ""
+    },
+    {
+      "ayah_number": 203,
+      "verse_key": "2:203",
+      "text": ""
+    },
+    {
+      "ayah_number": 204,
+      "verse_key": "2:204",
+      "text": ""
+    },
+    {
+      "ayah_number": 205,
+      "verse_key": "2:205",
+      "text": ""
+    },
+    {
+      "ayah_number": 206,
+      "verse_key": "2:206",
+      "text": ""
+    },
+    {
+      "ayah_number": 207,
+      "verse_key": "2:207",
+      "text": ""
+    },
+    {
+      "ayah_number": 208,
+      "verse_key": "2:208",
+      "text": ""
+    },
+    {
+      "ayah_number": 209,
+      "verse_key": "2:209",
+      "text": ""
+    },
+    {
+      "ayah_number": 210,
+      "verse_key": "2:210",
+      "text": ""
+    },
+    {
+      "ayah_number": 211,
+      "verse_key": "2:211",
+      "text": ""
+    },
+    {
+      "ayah_number": 212,
+      "verse_key": "2:212",
+      "text": ""
+    },
+    {
+      "ayah_number": 213,
+      "verse_key": "2:213",
+      "text": ""
+    },
+    {
+      "ayah_number": 214,
+      "verse_key": "2:214",
+      "text": ""
+    },
+    {
+      "ayah_number": 215,
+      "verse_key": "2:215",
+      "text": ""
+    },
+    {
+      "ayah_number": 216,
+      "verse_key": "2:216",
+      "text": ""
+    },
+    {
+      "ayah_number": 217,
+      "verse_key": "2:217",
+      "text": ""
+    },
+    {
+      "ayah_number": 218,
+      "verse_key": "2:218",
+      "text": ""
+    },
+    {
+      "ayah_number": 219,
+      "verse_key": "2:219",
+      "text": ""
+    },
+    {
+      "ayah_number": 220,
+      "verse_key": "2:220",
+      "text": ""
+    },
+    {
+      "ayah_number": 221,
+      "verse_key": "2:221",
+      "text": ""
+    },
+    {
+      "ayah_number": 222,
+      "verse_key": "2:222",
+      "text": ""
+    },
+    {
+      "ayah_number": 223,
+      "verse_key": "2:223",
+      "text": ""
+    },
+    {
+      "ayah_number": 224,
+      "verse_key": "2:224",
+      "text": ""
+    },
+    {
+      "ayah_number": 225,
+      "verse_key": "2:225",
+      "text": ""
+    },
+    {
+      "ayah_number": 226,
+      "verse_key": "2:226",
+      "text": ""
+    },
+    {
+      "ayah_number": 227,
+      "verse_key": "2:227",
+      "text": ""
+    },
+    {
+      "ayah_number": 228,
+      "verse_key": "2:228",
+      "text": ""
+    },
+    {
+      "ayah_number": 229,
+      "verse_key": "2:229",
+      "text": ""
+    },
+    {
+      "ayah_number": 230,
+      "verse_key": "2:230",
+      "text": ""
+    },
+    {
+      "ayah_number": 231,
+      "verse_key": "2:231",
+      "text": ""
+    },
+    {
+      "ayah_number": 232,
+      "verse_key": "2:232",
+      "text": ""
+    },
+    {
+      "ayah_number": 233,
+      "verse_key": "2:233",
+      "text": ""
+    },
+    {
+      "ayah_number": 234,
+      "verse_key": "2:234",
+      "text": ""
+    },
+    {
+      "ayah_number": 235,
+      "verse_key": "2:235",
+      "text": ""
+    },
+    {
+      "ayah_number": 236,
+      "verse_key": "2:236",
+      "text": ""
+    },
+    {
+      "ayah_number": 237,
+      "verse_key": "2:237",
+      "text": ""
+    },
+    {
+      "ayah_number": 238,
+      "verse_key": "2:238",
+      "text": ""
+    },
+    {
+      "ayah_number": 239,
+      "verse_key": "2:239",
+      "text": ""
+    },
+    {
+      "ayah_number": 240,
+      "verse_key": "2:240",
+      "text": ""
+    },
+    {
+      "ayah_number": 241,
+      "verse_key": "2:241",
+      "text": ""
+    },
+    {
+      "ayah_number": 242,
+      "verse_key": "2:242",
+      "text": ""
+    },
+    {
+      "ayah_number": 243,
+      "verse_key": "2:243",
+      "text": ""
+    },
+    {
+      "ayah_number": 244,
+      "verse_key": "2:244",
+      "text": ""
+    },
+    {
+      "ayah_number": 245,
+      "verse_key": "2:245",
+      "text": ""
+    },
+    {
+      "ayah_number": 246,
+      "verse_key": "2:246",
+      "text": ""
+    },
+    {
+      "ayah_number": 247,
+      "verse_key": "2:247",
+      "text": ""
+    },
+    {
+      "ayah_number": 248,
+      "verse_key": "2:248",
+      "text": ""
+    },
+    {
+      "ayah_number": 249,
+      "verse_key": "2:249",
+      "text": ""
+    },
+    {
+      "ayah_number": 250,
+      "verse_key": "2:250",
+      "text": ""
+    },
+    {
+      "ayah_number": 251,
+      "verse_key": "2:251",
+      "text": ""
+    },
+    {
+      "ayah_number": 252,
+      "verse_key": "2:252",
+      "text": ""
+    },
+    {
+      "ayah_number": 253,
+      "verse_key": "2:253",
+      "text": ""
+    },
+    {
+      "ayah_number": 254,
+      "verse_key": "2:254",
+      "text": ""
+    },
+    {
+      "ayah_number": 255,
+      "verse_key": "2:255",
+      "text": ""
+    },
+    {
+      "ayah_number": 256,
+      "verse_key": "2:256",
+      "text": ""
+    },
+    {
+      "ayah_number": 257,
+      "verse_key": "2:257",
+      "text": ""
+    },
+    {
+      "ayah_number": 258,
+      "verse_key": "2:258",
+      "text": ""
+    },
+    {
+      "ayah_number": 259,
+      "verse_key": "2:259",
+      "text": ""
+    },
+    {
+      "ayah_number": 260,
+      "verse_key": "2:260",
+      "text": ""
+    },
+    {
+      "ayah_number": 261,
+      "verse_key": "2:261",
+      "text": ""
+    },
+    {
+      "ayah_number": 262,
+      "verse_key": "2:262",
+      "text": ""
+    },
+    {
+      "ayah_number": 263,
+      "verse_key": "2:263",
+      "text": ""
+    },
+    {
+      "ayah_number": 264,
+      "verse_key": "2:264",
+      "text": ""
+    },
+    {
+      "ayah_number": 265,
+      "verse_key": "2:265",
+      "text": ""
+    },
+    {
+      "ayah_number": 266,
+      "verse_key": "2:266",
+      "text": ""
+    },
+    {
+      "ayah_number": 267,
+      "verse_key": "2:267",
+      "text": ""
+    },
+    {
+      "ayah_number": 268,
+      "verse_key": "2:268",
+      "text": ""
+    },
+    {
+      "ayah_number": 269,
+      "verse_key": "2:269",
+      "text": ""
+    },
+    {
+      "ayah_number": 270,
+      "verse_key": "2:270",
+      "text": ""
+    },
+    {
+      "ayah_number": 271,
+      "verse_key": "2:271",
+      "text": ""
+    },
+    {
+      "ayah_number": 272,
+      "verse_key": "2:272",
+      "text": ""
+    },
+    {
+      "ayah_number": 273,
+      "verse_key": "2:273",
+      "text": ""
+    },
+    {
+      "ayah_number": 274,
+      "verse_key": "2:274",
+      "text": ""
+    },
+    {
+      "ayah_number": 275,
+      "verse_key": "2:275",
+      "text": ""
+    },
+    {
+      "ayah_number": 276,
+      "verse_key": "2:276",
+      "text": ""
+    },
+    {
+      "ayah_number": 277,
+      "verse_key": "2:277",
+      "text": ""
+    },
+    {
+      "ayah_number": 278,
+      "verse_key": "2:278",
+      "text": ""
+    },
+    {
+      "ayah_number": 279,
+      "verse_key": "2:279",
+      "text": ""
+    },
+    {
+      "ayah_number": 280,
+      "verse_key": "2:280",
+      "text": ""
+    },
+    {
+      "ayah_number": 281,
+      "verse_key": "2:281",
+      "text": ""
+    },
+    {
+      "ayah_number": 282,
+      "verse_key": "2:282",
+      "text": ""
+    },
+    {
+      "ayah_number": 283,
+      "verse_key": "2:283",
+      "text": ""
+    },
+    {
+      "ayah_number": 284,
+      "verse_key": "2:284",
+      "text": ""
+    },
+    {
+      "ayah_number": 285,
+      "verse_key": "2:285",
+      "text": ""
+    },
+    {
+      "ayah_number": 286,
+      "verse_key": "2:286",
+      "text": ""
+    }
+  ]
+}

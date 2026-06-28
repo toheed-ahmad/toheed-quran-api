@@ -1,0 +1,52 @@
+{
+  "surah_id": 99,
+  "surah_name": "Az-Zalzala",
+  "arabic_name": "سُورَةُ الزَّلۡزَلَةِ",
+  "revelation_type": "Medinan",
+  "total_ayahs": 8,
+  "bismillah_pre": true,
+  "source": "आसान तफ़्सीर (यादे इलाही)",
+  "language": "hi",
+  "content": [
+    {
+      "ayah_number": 1,
+      "verse_key": "99:1",
+      "text": ""
+    },
+    {
+      "ayah_number": 2,
+      "verse_key": "99:2",
+      "text": ""
+    },
+    {
+      "ayah_number": 3,
+      "verse_key": "99:3",
+      "text": ""
+    },
+    {
+      "ayah_number": 4,
+      "verse_key": "99:4",
+      "text": ""
+    },
+    {
+      "ayah_number": 5,
+      "verse_key": "99:5",
+      "text": ""
+    },
+    {
+      "ayah_number": 6,
+      "verse_key": "99:6",
+      "text": ""
+    },
+    {
+      "ayah_number": 7,
+      "verse_key": "99:7",
+      "text": ""
+    },
+    {
+      "ayah_number": 8,
+      "verse_key": "99:8",
+      "text": ""
+    }
+  ]
+}

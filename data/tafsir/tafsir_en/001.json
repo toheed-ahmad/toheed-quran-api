@@ -1,0 +1,47 @@
+{
+  "surah_id": 1,
+  "surah_name": "Al-Faatiha",
+  "arabic_name": "سُورَةُ ٱلْفَاتِحَةِ",
+  "revelation_type": "Meccan",
+  "total_ayahs": 7,
+  "bismillah_pre": true,
+  "source": "Easy Tafsir (Yade-Ilahi)",
+  "language": "en",
+  "content": [
+    {
+      "ayah_number": 1,
+      "verse_key": "1:1",
+      "text": ""
+    },
+    {
+      "ayah_number": 2,
+      "verse_key": "1:2",
+      "text": ""
+    },
+    {
+      "ayah_number": 3,
+      "verse_key": "1:3",
+      "text": ""
+    },
+    {
+      "ayah_number": 4,
+      "verse_key": "1:4",
+      "text": ""
+    },
+    {
+      "ayah_number": 5,
+      "verse_key": "1:5",
+      "text": ""
+    },
+    {
+      "ayah_number": 6,
+      "verse_key": "1:6",
+      "text": ""
+    },
+    {
+      "ayah_number": 7,
+      "verse_key": "1:7",
+      "text": ""
+    }
+  ]
+}

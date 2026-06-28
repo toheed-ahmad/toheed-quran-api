@@ -1,0 +1,837 @@
+{
+  "surah_id": 6,
+  "surah_name": "Al-An'aam",
+  "arabic_name": "سُورَةُ الأَنۡعَامِ",
+  "revelation_type": "Meccan",
+  "total_ayahs": 165,
+  "bismillah_pre": true,
+  "source": "آسان تفسیر (یاد الٰہی)",
+  "language": "ur",
+  "content": [
+    {
+      "ayah_number": 1,
+      "verse_key": "6:1",
+      "text": ""
+    },
+    {
+      "ayah_number": 2,
+      "verse_key": "6:2",
+      "text": ""
+    },
+    {
+      "ayah_number": 3,
+      "verse_key": "6:3",
+      "text": ""
+    },
+    {
+      "ayah_number": 4,
+      "verse_key": "6:4",
+      "text": ""
+    },
+    {
+      "ayah_number": 5,
+      "verse_key": "6:5",
+      "text": ""
+    },
+    {
+      "ayah_number": 6,
+      "verse_key": "6:6",
+      "text": ""
+    },
+    {
+      "ayah_number": 7,
+      "verse_key": "6:7",
+      "text": ""
+    },
+    {
+      "ayah_number": 8,
+      "verse_key": "6:8",
+      "text": ""
+    },
+    {
+      "ayah_number": 9,
+      "verse_key": "6:9",
+      "text": ""
+    },
+    {
+      "ayah_number": 10,
+      "verse_key": "6:10",
+      "text": ""
+    },
+    {
+      "ayah_number": 11,
+      "verse_key": "6:11",
+      "text": ""
+    },
+    {
+      "ayah_number": 12,
+      "verse_key": "6:12",
+      "text": ""
+    },
+    {
+      "ayah_number": 13,
+      "verse_key": "6:13",
+      "text": ""
+    },
+    {
+      "ayah_number": 14,
+      "verse_key": "6:14",
+      "text": ""
+    },
+    {
+      "ayah_number": 15,
+      "verse_key": "6:15",
+      "text": ""
+    },
+    {
+      "ayah_number": 16,
+      "verse_key": "6:16",
+      "text": ""
+    },
+    {
+      "ayah_number": 17,
+      "verse_key": "6:17",
+      "text": ""
+    },
+    {
+      "ayah_number": 18,
+      "verse_key": "6:18",
+      "text": ""
+    },
+    {
+      "ayah_number": 19,
+      "verse_key": "6:19",
+      "text": ""
+    },
+    {
+      "ayah_number": 20,
+      "verse_key": "6:20",
+      "text": ""
+    },
+    {
+      "ayah_number": 21,
+      "verse_key": "6:21",
+      "text": ""
+    },
+    {
+      "ayah_number": 22,
+      "verse_key": "6:22",
+      "text": ""
+    },
+    {
+      "ayah_number": 23,
+      "verse_key": "6:23",
+      "text": ""
+    },
+    {
+      "ayah_number": 24,
+      "verse_key": "6:24",
+      "text": ""
+    },
+    {
+      "ayah_number": 25,
+      "verse_key": "6:25",
+      "text": ""
+    },
+    {
+      "ayah_number": 26,
+      "verse_key": "6:26",
+      "text": ""
+    },
+    {
+      "ayah_number": 27,
+      "verse_key": "6:27",
+      "text": ""
+    },
+    {
+      "ayah_number": 28,
+      "verse_key": "6:28",
+      "text": ""
+    },
+    {
+      "ayah_number": 29,
+      "verse_key": "6:29",
+      "text": ""
+    },
+    {
+      "ayah_number": 30,
+      "verse_key": "6:30",
+      "text": ""
+    },
+    {
+      "ayah_number": 31,
+      "verse_key": "6:31",
+      "text": ""
+    },
+    {
+      "ayah_number": 32,
+      "verse_key": "6:32",
+      "text": ""
+    },
+    {
+      "ayah_number": 33,
+      "verse_key": "6:33",
+      "text": ""
+    },
+    {
+      "ayah_number": 34,
+      "verse_key": "6:34",
+      "text": ""
+    },
+    {
+      "ayah_number": 35,
+      "verse_key": "6:35",
+      "text": ""
+    },
+    {
+      "ayah_number": 36,
+      "verse_key": "6:36",
+      "text": ""
+    },
+    {
+      "ayah_number": 37,
+      "verse_key": "6:37",
+      "text": ""
+    },
+    {
+      "ayah_number": 38,
+      "verse_key": "6:38",
+      "text": ""
+    },
+    {
+      "ayah_number": 39,
+      "verse_key": "6:39",
+      "text": ""
+    },
+    {
+      "ayah_number": 40,
+      "verse_key": "6:40",
+      "text": ""
+    },
+    {
+      "ayah_number": 41,
+      "verse_key": "6:41",
+      "text": ""
+    },
+    {
+      "ayah_number": 42,
+      "verse_key": "6:42",
+      "text": ""
+    },
+    {
+      "ayah_number": 43,
+      "verse_key": "6:43",
+      "text": ""
+    },
+    {
+      "ayah_number": 44,
+      "verse_key": "6:44",
+      "text": ""
+    },
+    {
+      "ayah_number": 45,
+      "verse_key": "6:45",
+      "text": ""
+    },
+    {
+      "ayah_number": 46,
+      "verse_key": "6:46",
+      "text": ""
+    },
+    {
+      "ayah_number": 47,
+      "verse_key": "6:47",
+      "text": ""
+    },
+    {
+      "ayah_number": 48,
+      "verse_key": "6:48",
+      "text": ""
+    },
+    {
+      "ayah_number": 49,
+      "verse_key": "6:49",
+      "text": ""
+    },
+    {
+      "ayah_number": 50,
+      "verse_key": "6:50",
+      "text": ""
+    },
+    {
+      "ayah_number": 51,
+      "verse_key": "6:51",
+      "text": ""
+    },
+    {
+      "ayah_number": 52,
+      "verse_key": "6:52",
+      "text": ""
+    },
+    {
+      "ayah_number": 53,
+      "verse_key": "6:53",
+      "text": ""
+    },
+    {
+      "ayah_number": 54,
+      "verse_key": "6:54",
+      "text": ""
+    },
+    {
+      "ayah_number": 55,
+      "verse_key": "6:55",
+      "text": ""
+    },
+    {
+      "ayah_number": 56,
+      "verse_key": "6:56",
+      "text": ""
+    },
+    {
+      "ayah_number": 57,
+      "verse_key": "6:57",
+      "text": ""
+    },
+    {
+      "ayah_number": 58,
+      "verse_key": "6:58",
+      "text": ""
+    },
+    {
+      "ayah_number": 59,
+      "verse_key": "6:59",
+      "text": ""
+    },
+    {
+      "ayah_number": 60,
+      "verse_key": "6:60",
+      "text": ""
+    },
+    {
+      "ayah_number": 61,
+      "verse_key": "6:61",
+      "text": ""
+    },
+    {
+      "ayah_number": 62,
+      "verse_key": "6:62",
+      "text": ""
+    },
+    {
+      "ayah_number": 63,
+      "verse_key": "6:63",
+      "text": ""
+    },
+    {
+      "ayah_number": 64,
+      "verse_key": "6:64",
+      "text": ""
+    },
+    {
+      "ayah_number": 65,
+      "verse_key": "6:65",
+      "text": ""
+    },
+    {
+      "ayah_number": 66,
+      "verse_key": "6:66",
+      "text": ""
+    },
+    {
+      "ayah_number": 67,
+      "verse_key": "6:67",
+      "text": ""
+    },
+    {
+      "ayah_number": 68,
+      "verse_key": "6:68",
+      "text": ""
+    },
+    {
+      "ayah_number": 69,
+      "verse_key": "6:69",
+      "text": ""
+    },
+    {
+      "ayah_number": 70,
+      "verse_key": "6:70",
+      "text": ""
+    },
+    {
+      "ayah_number": 71,
+      "verse_key": "6:71",
+      "text": ""
+    },
+    {
+      "ayah_number": 72,
+      "verse_key": "6:72",
+      "text": ""
+    },
+    {
+      "ayah_number": 73,
+      "verse_key": "6:73",
+      "text": ""
+    },
+    {
+      "ayah_number": 74,
+      "verse_key": "6:74",
+      "text": ""
+    },
+    {
+      "ayah_number": 75,
+      "verse_key": "6:75",
+      "text": ""
+    },
+    {
+      "ayah_number": 76,
+      "verse_key": "6:76",
+      "text": ""
+    },
+    {
+      "ayah_number": 77,
+      "verse_key": "6:77",
+      "text": ""
+    },
+    {
+      "ayah_number": 78,
+      "verse_key": "6:78",
+      "text": ""
+    },
+    {
+      "ayah_number": 79,
+      "verse_key": "6:79",
+      "text": ""
+    },
+    {
+      "ayah_number": 80,
+      "verse_key": "6:80",
+      "text": ""
+    },
+    {
+      "ayah_number": 81,
+      "verse_key": "6:81",
+      "text": ""
+    },
+    {
+      "ayah_number": 82,
+      "verse_key": "6:82",
+      "text": ""
+    },
+    {
+      "ayah_number": 83,
+      "verse_key": "6:83",
+      "text": ""
+    },
+    {
+      "ayah_number": 84,
+      "verse_key": "6:84",
+      "text": ""
+    },
+    {
+      "ayah_number": 85,
+      "verse_key": "6:85",
+      "text": ""
+    },
+    {
+      "ayah_number": 86,
+      "verse_key": "6:86",
+      "text": ""
+    },
+    {
+      "ayah_number": 87,
+      "verse_key": "6:87",
+      "text": ""
+    },
+    {
+      "ayah_number": 88,
+      "verse_key": "6:88",
+      "text": ""
+    },
+    {
+      "ayah_number": 89,
+      "verse_key": "6:89",
+      "text": ""
+    },
+    {
+      "ayah_number": 90,
+      "verse_key": "6:90",
+      "text": ""
+    },
+    {
+      "ayah_number": 91,
+      "verse_key": "6:91",
+      "text": ""
+    },
+    {
+      "ayah_number": 92,
+      "verse_key": "6:92",
+      "text": ""
+    },
+    {
+      "ayah_number": 93,
+      "verse_key": "6:93",
+      "text": ""
+    },
+    {
+      "ayah_number": 94,
+      "verse_key": "6:94",
+      "text": ""
+    },
+    {
+      "ayah_number": 95,
+      "verse_key": "6:95",
+      "text": ""
+    },
+    {
+      "ayah_number": 96,
+      "verse_key": "6:96",
+      "text": ""
+    },
+    {
+      "ayah_number": 97,
+      "verse_key": "6:97",
+      "text": ""
+    },
+    {
+      "ayah_number": 98,
+      "verse_key": "6:98",
+      "text": ""
+    },
+    {
+      "ayah_number": 99,
+      "verse_key": "6:99",
+      "text": ""
+    },
+    {
+      "ayah_number": 100,
+      "verse_key": "6:100",
+      "text": ""
+    },
+    {
+      "ayah_number": 101,
+      "verse_key": "6:101",
+      "text": ""
+    },
+    {
+      "ayah_number": 102,
+      "verse_key": "6:102",
+      "text": ""
+    },
+    {
+      "ayah_number": 103,
+      "verse_key": "6:103",
+      "text": ""
+    },
+    {
+      "ayah_number": 104,
+      "verse_key": "6:104",
+      "text": ""
+    },
+    {
+      "ayah_number": 105,
+      "verse_key": "6:105",
+      "text": ""
+    },
+    {
+      "ayah_number": 106,
+      "verse_key": "6:106",
+      "text": ""
+    },
+    {
+      "ayah_number": 107,
+      "verse_key": "6:107",
+      "text": ""
+    },
+    {
+      "ayah_number": 108,
+      "verse_key": "6:108",
+      "text": ""
+    },
+    {
+      "ayah_number": 109,
+      "verse_key": "6:109",
+      "text": ""
+    },
+    {
+      "ayah_number": 110,
+      "verse_key": "6:110",
+      "text": ""
+    },
+    {
+      "ayah_number": 111,
+      "verse_key": "6:111",
+      "text": ""
+    },
+    {
+      "ayah_number": 112,
+      "verse_key": "6:112",
+      "text": ""
+    },
+    {
+      "ayah_number": 113,
+      "verse_key": "6:113",
+      "text": ""
+    },
+    {
+      "ayah_number": 114,
+      "verse_key": "6:114",
+      "text": ""
+    },
+    {
+      "ayah_number": 115,
+      "verse_key": "6:115",
+      "text": ""
+    },
+    {
+      "ayah_number": 116,
+      "verse_key": "6:116",
+      "text": ""
+    },
+    {
+      "ayah_number": 117,
+      "verse_key": "6:117",
+      "text": ""
+    },
+    {
+      "ayah_number": 118,
+      "verse_key": "6:118",
+      "text": ""
+    },
+    {
+      "ayah_number": 119,
+      "verse_key": "6:119",
+      "text": ""
+    },
+    {
+      "ayah_number": 120,
+      "verse_key": "6:120",
+      "text": ""
+    },
+    {
+      "ayah_number": 121,
+      "verse_key": "6:121",
+      "text": ""
+    },
+    {
+      "ayah_number": 122,
+      "verse_key": "6:122",
+      "text": ""
+    },
+    {
+      "ayah_number": 123,
+      "verse_key": "6:123",
+      "text": ""
+    },
+    {
+      "ayah_number": 124,
+      "verse_key": "6:124",
+      "text": ""
+    },
+    {
+      "ayah_number": 125,
+      "verse_key": "6:125",
+      "text": ""
+    },
+    {
+      "ayah_number": 126,
+      "verse_key": "6:126",
+      "text": ""
+    },
+    {
+      "ayah_number": 127,
+      "verse_key": "6:127",
+      "text": ""
+    },
+    {
+      "ayah_number": 128,
+      "verse_key": "6:128",
+      "text": ""
+    },
+    {
+      "ayah_number": 129,
+      "verse_key": "6:129",
+      "text": ""
+    },
+    {
+      "ayah_number": 130,
+      "verse_key": "6:130",
+      "text": ""
+    },
+    {
+      "ayah_number": 131,
+      "verse_key": "6:131",
+      "text": ""
+    },
+    {
+      "ayah_number": 132,
+      "verse_key": "6:132",
+      "text": ""
+    },
+    {
+      "ayah_number": 133,
+      "verse_key": "6:133",
+      "text": ""
+    },
+    {
+      "ayah_number": 134,
+      "verse_key": "6:134",
+      "text": ""
+    },
+    {
+      "ayah_number": 135,
+      "verse_key": "6:135",
+      "text": ""
+    },
+    {
+      "ayah_number": 136,
+      "verse_key": "6:136",
+      "text": ""
+    },
+    {
+      "ayah_number": 137,
+      "verse_key": "6:137",
+      "text": ""
+    },
+    {
+      "ayah_number": 138,
+      "verse_key": "6:138",
+      "text": ""
+    },
+    {
+      "ayah_number": 139,
+      "verse_key": "6:139",
+      "text": ""
+    },
+    {
+      "ayah_number": 140,
+      "verse_key": "6:140",
+      "text": ""
+    },
+    {
+      "ayah_number": 141,
+      "verse_key": "6:141",
+      "text": ""
+    },
+    {
+      "ayah_number": 142,
+      "verse_key": "6:142",
+      "text": ""
+    },
+    {
+      "ayah_number": 143,
+      "verse_key": "6:143",
+      "text": ""
+    },
+    {
+      "ayah_number": 144,
+      "verse_key": "6:144",
+      "text": ""
+    },
+    {
+      "ayah_number": 145,
+      "verse_key": "6:145",
+      "text": ""
+    },
+    {
+      "ayah_number": 146,
+      "verse_key": "6:146",
+      "text": ""
+    },
+    {
+      "ayah_number": 147,
+      "verse_key": "6:147",
+      "text": ""
+    },
+    {
+      "ayah_number": 148,
+      "verse_key": "6:148",
+      "text": ""
+    },
+    {
+      "ayah_number": 149,
+      "verse_key": "6:149",
+      "text": ""
+    },
+    {
+      "ayah_number": 150,
+      "verse_key": "6:150",
+      "text": ""
+    },
+    {
+      "ayah_number": 151,
+      "verse_key": "6:151",
+      "text": ""
+    },
+    {
+      "ayah_number": 152,
+      "verse_key": "6:152",
+      "text": ""
+    },
+    {
+      "ayah_number": 153,
+      "verse_key": "6:153",
+      "text": ""
+    },
+    {
+      "ayah_number": 154,
+      "verse_key": "6:154",
+      "text": ""
+    },
+    {
+      "ayah_number": 155,
+      "verse_key": "6:155",
+      "text": ""
+    },
+    {
+      "ayah_number": 156,
+      "verse_key": "6:156",
+      "text": ""
+    },
+    {
+      "ayah_number": 157,
+      "verse_key": "6:157",
+      "text": ""
+    },
+    {
+      "ayah_number": 158,
+      "verse_key": "6:158",
+      "text": ""
+    },
+    {
+      "ayah_number": 159,
+      "verse_key": "6:159",
+      "text": ""
+    },
+    {
+      "ayah_number": 160,
+      "verse_key": "6:160",
+      "text": ""
+    },
+    {
+      "ayah_number": 161,
+      "verse_key": "6:161",
+      "text": ""
+    },
+    {
+      "ayah_number": 162,
+      "verse_key": "6:162",
+      "text": ""
+    },
+    {
+      "ayah_number": 163,
+      "verse_key": "6:163",
+      "text": ""
+    },
+    {
+      "ayah_number": 164,
+      "verse_key": "6:164",
+      "text": ""
+    },
+    {
+      "ayah_number": 165,
+      "verse_key": "6:165",
+      "text": ""
+    }
+  ]
+}
