@@ -1,69 +1,34 @@
 {
   "surah_id": 97,
   "surah_name": "Al-Qadr",
-  "arabic_name": "سُورَةُ القَدۡرِ",
+  "arabic_name": "سُورَةُ الْقَدْرِ",
   "revelation_type": "Meccan",
   "total_ayahs": 5,
-  "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ",
+  "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
   "content": [
     {
       "ayah_number": 1,
-      "arabic_text": "اِنَّاۤ اَنْزَلْنٰهُ فِیْ لَیْلَةِ الْقَدْرِۚۖ۝۱",
-      "juz": 30,
-      "page": 598,
-      "manzil": 7,
-      "ruku": 539,
-      "hizb": 60,
-      "hizbQuarter": 239,
-      "sajdah": false,
+      "arabic_text": "اِنَّاۤ اَنْزَلْنٰهُ فِیْ لَیْلَةِ الْقَدْرِۚۖ",
       "verse_key": "97:1"
     },
     {
       "ayah_number": 2,
-      "arabic_text": "وَ مَاۤ اَدْرٰىكَ مَا لَیْلَةُ الْقَدْرِؕ۝۲",
-      "juz": 30,
-      "page": 598,
-      "manzil": 7,
-      "ruku": 539,
-      "hizb": 60,
-      "hizbQuarter": 239,
-      "sajdah": false,
+      "arabic_text": "وَ مَاۤ اَدْرٰىكَ مَا لَیْلَةُ الْقَدْرِؕ",
       "verse_key": "97:2"
     },
     {
       "ayah_number": 3,
-      "arabic_text": "لَیْلَةُ الْقَدْرِ ۙ۬ خَیْرٌ مِّنْ اَلْفِ شَهْرٍؕؔ۝۳",
-      "juz": 30,
-      "page": 598,
-      "manzil": 7,
-      "ruku": 539,
-      "hizb": 60,
-      "hizbQuarter": 239,
-      "sajdah": false,
+      "arabic_text": "لَیْلَةُ الْقَدْرِ١ۙ۬ خَیْرٌ مِّنْ اَلْفِ شَهْرٍؕؔ",
       "verse_key": "97:3"
     },
     {
       "ayah_number": 4,
-      "arabic_text": "تَنَزَّلُ الْمَلٰٓىِٕكَةُ وَ الرُّوْحُ فِیْهَا بِاِذْنِ رَبِّهِمْ ۚ مِنْ كُلِّ اَمْرٍۙۛ۝۴",
-      "juz": 30,
-      "page": 598,
-      "manzil": 7,
-      "ruku": 539,
-      "hizb": 60,
-      "hizbQuarter": 239,
-      "sajdah": false,
+      "arabic_text": "تَنَزَّلُ الْمَلٰٓئِكَةُ وَ الرُّوْحُ فِیْهَا بِاِذْنِ رَبِّهِمْ١ۚ مِنْ كُلِّ اَمْرٍۙۛ",
       "verse_key": "97:4"
     },
     {
       "ayah_number": 5,
-      "arabic_text": "سَلٰمٌ ۛ۫ هِیَ حَتّٰی مَطْلَعِ الْفَجْرِ۠۝۵",
-      "juz": 30,
-      "page": 598,
-      "manzil": 7,
-      "ruku": 539,
-      "hizb": 60,
-      "hizbQuarter": 239,
-      "sajdah": false,
+      "arabic_text": "سَلٰمٌ١ۛ۫ هِیَ حَتّٰى مَطْلَعِ الْفَجْرِ۠",
       "verse_key": "97:5"
     }
   ]

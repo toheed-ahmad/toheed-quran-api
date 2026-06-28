@@ -1,57 +1,29 @@
 {
   "surah_id": 112,
-  "surah_name": "Al-Ikhlaas",
-  "arabic_name": "سُورَةُ الإِخۡلَاصِ",
+  "surah_name": "Al-Ikhlas",
+  "arabic_name": "سُورَةُ الْإِخْلَاصِ",
   "revelation_type": "Meccan",
   "total_ayahs": 4,
-  "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِیْمِ",
+  "bismillah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
   "content": [
     {
       "ayah_number": 1,
-      "arabic_text": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ۝۱",
-      "juz": 30,
-      "page": 604,
-      "manzil": 7,
-      "ruku": 554,
-      "hizb": 60,
-      "hizbQuarter": 240,
-      "sajdah": false,
+      "arabic_text": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
       "verse_key": "112:1"
     },
     {
       "ayah_number": 2,
-      "arabic_text": "اَللّٰهُ الصَّمَدُۚ۝۲",
-      "juz": 30,
-      "page": 604,
-      "manzil": 7,
-      "ruku": 554,
-      "hizb": 60,
-      "hizbQuarter": 240,
-      "sajdah": false,
+      "arabic_text": "اَللّٰهُ الصَّمَدُۚ",
       "verse_key": "112:2"
     },
     {
       "ayah_number": 3,
-      "arabic_text": "لَمْ یَلِدْ ۙ۬ وَ لَمْ یُوْلَدْۙ۝۳",
-      "juz": 30,
-      "page": 604,
-      "manzil": 7,
-      "ruku": 554,
-      "hizb": 60,
-      "hizbQuarter": 240,
-      "sajdah": false,
+      "arabic_text": "لَمْ یَلِدْ١ۙ۬ وَ لَمْ یُوْلَدْۙ",
       "verse_key": "112:3"
     },
     {
       "ayah_number": 4,
-      "arabic_text": "وَ لَمْ یَكُنْ لَّهٗ كُفُوًا اَحَدٌ۠۝۴",
-      "juz": 30,
-      "page": 604,
-      "manzil": 7,
-      "ruku": 554,
-      "hizb": 60,
-      "hizbQuarter": 240,
-      "sajdah": false,
+      "arabic_text": "وَ لَمْ یَكُنْ لَّهٗ كُفُوًا اَحَدٌ۠",
       "verse_key": "112:4"
     }
   ]
